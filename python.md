@@ -1,3 +1,4 @@
+https://realpython.com/list-comprehension-python/
 # turnery expression
 # list comprehension
 ## new_list = [expression for member in iterable]
@@ -19,4 +20,14 @@ expression that returns a value.
  If you want to change the member item instead of filtering it out, the conditional needs to be at the front of the expression.
  With this formula it is possible to select one of multiple possible values.
 
+# Walrus operator or assignment operator
+## need more info
+ Allows to run an expression and simultaneously assignment it's output to a variable
+
+# set comprehension 
+ like list comprehension but with braces {} instead brackets []
+
 # dictionary comprehension
+## new_dictionary = { key : values expression for member in iterable}  
+ To create a dictionary use braces () and a key value pair in the member
+
