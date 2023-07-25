@@ -1,3 +1,12 @@
+week-two
+ in teams there is shared files
+  general - class materials - c web technologies
+  downloaded file structure for 20 sessions
+ figmia
+ sematic mark up is equivalent to documenting code
+ inline style, inpage styling at the top of a page and styling with a separate file.
+ 
+
 week-one
  PAN LAN WAN
  Internet
