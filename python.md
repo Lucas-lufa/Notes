@@ -95,3 +95,5 @@ To denote an item of an object, use a reference to the object, followed by an ex
 
 Attributes that are callable are also known as methods. Python draws no strong distinctions between callable and noncallable attributes, as some other languages do. All general rules about attributes also apply to callable attributes (methods).
 
+https://learning.oreilly.com/library/view/python-in-a/9781098113544/ch03.html#:-:text=Each%20of%20these,as%20extended%20unpacking.
+extended unpacking
