@@ -6,6 +6,10 @@ week-two
  sematic mark up is equivalent to documenting code
  inline style, inpage styling at the top of a page and styling with a separate file.
 
+links in session two shell
+https://developer.chrome.com/docs/devtools/dom/
+https://www.youtube.com/playlist?list=PL0Zuz27SZ-6OlAwitnFUubtE93DO-l0vu
+https://www.youtube.com/watch?v=ZT4WRRhacWk
 a - anchor tag
 article - self-contained composition or part of a HTML document. 
 aside - a portion of a document whose content is only indirectly related to the document's main content.
