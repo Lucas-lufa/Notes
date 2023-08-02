@@ -1,3 +1,8 @@
+week-three
+ validation
+ do dom chrome 
+
+
 week-two
  in teams there is shared files
   general - class materials - c web technologies
