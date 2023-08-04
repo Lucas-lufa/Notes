@@ -2,6 +2,8 @@ week-three
  validation
  do dom chrome 
 
+### q
+slide 28 why is validating you html important?
 
 week-two
  in teams there is shared files
