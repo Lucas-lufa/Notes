@@ -1,3 +1,7 @@
+week-three
+### q
+slide 28 why is validating you html important?
+
 week-two
  in teams there is shared files
   general - class materials - c web technologies
