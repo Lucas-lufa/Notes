@@ -1,5 +1,7 @@
 Git notes
 
+divergent branch when there are multiple copies of a git repo with different commit history that you try to combine. To fix find the last common commit branch and merge the other copy of the repo. Checkout head and merge the branch you were just on.
+
 https://www.freecodecamp.org/news/git-pull-remote-branch-how-to-fetch-remote-branches-in-git/
 to get remote branch, may need to see what is there,
  git branch --remotes 
