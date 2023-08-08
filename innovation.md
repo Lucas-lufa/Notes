@@ -1,3 +1,22 @@
+# Three session
+
+## links
+### from power point.
+privacy slide 7 
+https://www.ag.gov.au/rights-and-protections/privacy 
+https://www.oaic.gov.au/ 
+
+intellectual property slide 11
+https://www.infrastructure.gov.au/media-communications-arts/copyright/copyright-basics
+https://www.ag.gov.au/rights-and-protections/copyright/copyright-basics 
+
+Accessibility slide 15
+https://humanrights.gov.au/our-work/employers/disability-discrimination
+
+cybersecurity slide 19
+https://www.cyber.gov.au/ 
+https://www.cyber.gov.au/acsc/view-all-content/advice/using-information-security-manual
+
 # group - Deep learning
 https://en.wikipedia.org/wiki/Deep_learning
 
