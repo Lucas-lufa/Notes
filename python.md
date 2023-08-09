@@ -1,8 +1,15 @@
+Four Week
+ unittests
+ https://realpython.com/python-assert-statement/
+ Python in a Nutshell, 4th Edition
+ Chapter 17. Testing, Debugging, and Optimizing
+ https://learning.oreilly.com/library/view/python-in-a/9781098113544/ch17.html
+
 Three Week
+ unittests
 
-unittests
-
-2d data
+ 2d data
+ list comprehension or two for loops nested
 
 Two Week
  mkdir temp && cd temp
