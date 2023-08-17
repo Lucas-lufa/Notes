@@ -1,3 +1,20 @@
+# Four session
+
+## links
+critical thinking slide 7
+https://www.monash.edu/student-academic-success/enhance-your-thinking/critical-thinking/what-is-critical-thinking
+
+Brain storming, mindmap slide 12
+https://www.monash.edu/learnhq/enhance-your-thinking/brainstorm-and-mind-map
+
+https://en.wikipedia.org/wiki/List_of_concept-_and_mind-mapping_software
+
+http://www.mindmup.com/
+http://www.mindmeister.com/
+http://freemind.sourceforge.net/wiki/index.php/Main_Page
+
+https://www.monash.edu/student-academic-success/enhance-your-thinking/critical-thinking/evaluate-arguments-of-others/errors-in-argumentation-bias-and-poor-reasoning
+
 # Three session
 
 ## links
@@ -33,3 +50,5 @@ https://en.wikipedia.org/wiki/Deep_learning
 - Artificial neutral networks (ANN) tend to be static and symbolic.
 
 DNNs are typically feedforward networks in which data flows from the input layer to the output layer without looping back. At first, the DNN creates a map of virtual neurons and assigns random numerical values, or "weights", to connections between them. The weights and inputs are multiplied and return an output between 0 and 1. If the network did not accurately recognize a particular pattern, an algorithm would adjust the weights.[140] That way the algorithm can make certain parameters more influential, until it determines the correct mathematical manipulation to fully process the data.
+
+edge://flags/#enable-force-dark
