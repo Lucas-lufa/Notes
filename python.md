@@ -1,10 +1,93 @@
 decision to leave
 
 Five Week
+ ### Q
+ is encoding or interpretation why we have types and type errors?
+ slide 17 why is it important that it is a static method or not?
+
+ ### link
+ wave - sound
+ https://docs.python.org/3/library/wave.html
+ sqlite3
+ https://docs.python.org/3/library/sqlite3.html
+ socket
+ https://docs.python.org/3/library/socket.html
+ struct
+ https://docs.python.org/3/library/struct.html
+ pillow
+ https://pypi.org/project/Pillow/
+ OpenCV
+ https://pypi.org/project/opencv-python/
+
+ ## Binary files have high-level interface:
+ Just as utf-8 is a high-level interface for text. Most binary files also have high-level interfaces.
+ wave - to work with WAV sound files.
+ sqlite3 - work with sqlite database files, to access and manipulate the binary data.
+ socket - facilitates network communications
+ struct - converts between python values and c structs represented as python bytes objects.
+ pillow - pil python imaging library 
+ openCV - computer vision
+
  bitwise
  
  pptx
  binary files, formats and access
+
+ ## Scenario
+ Consider the following fictional image file format:
+File Structure: A binary file containing image data.
+First 9 bytes: Text encoded with the dimensions of the image (e.g., "1920x1080").
+Following bytes: Series of 3 bytes representing RGB values of each of the pixels.
+E,g. 1920x1080200244002
+
+### questions
+Given the specification, outline how you would use seek, read, write, and tell (as appropriate) to:
+(a) Retrieve the RGB Value of the Center Pixel
+( b) Retrieve all pixel values as integers from a random 100x100 grid within the image
+(b) Reduce the resolution by half
+
+ ## What Are Random-Access Algorithms?
+Random-access algorithms allow data to be read or written in any order, as opposed to sequential access, where data must be accessed in a specific sequence. Random access enables programs to jump directly to a specific location within a file, making it ideal for binary file handling where data might be scattered or organized in non-sequential blocks.
+Importance in Binary File Handling
+When working with binary files, data is often organized in complex structures, and direct access to specific parts is crucial. Random-access algorithms enable the efficient management, retrieval, and modification of specific portions of data without having to traverse the entire file.
+
+Seeking: This is the act of moving the file position pointer to a specific location in a file.
+Reading and Writing: With the position pointer at the desired location, data can be read or written at that spot.
+Tell: This function allows you to find the current position of the file pointer.
+
+
+
+
+ ## What is a byte object
+ representation of a sequence of bytes,
+ iterable (like a list or tuple),
+ each element is of type integer 0-255
+
+ .encode() text -> binary
+ .decode() binary -> text
+
+ ().to_bytes() int -> binary, the front parentheses has the integer and the parameter parentheses tells the length of bytes to put the output in. If the output is bigger than the byte assigned will raise an OverflowError.
+ int.from_bytes(bytes to convert to integer) it is a static method.
+
+ ## binary file handling
+ Binary modes behave similarly to their text counterparts but operate on the file as raw bytes rather than handling the content as encoded characters. This makes binary modes suitable for non-text files like images of any situation where precise byte-for-byte handling is required.
+
+ We open a file in binary when we don't want to interpret the file and instead we intent on getting the value of each eight bits(usually represented as a decimal 0-255)
+
+ "br" bunny rabbit, read only binary mode. File must exist, on open starts at the beginning of the file. Can read but can't write.
+ "br+" Read and write binary mode. Same as 'br' but can write as well as read.
+ "wb" White bunny, write only binary mode. Truncates if exists or creates a new file. Starts from the beginning of a file.
+ "wb+" Same as 'wb' but reads and writes.
+ "ab" Appends if file exist or creates a new file. Starts at the end of a file, can write.
+ "ab+" Same as 'ab' but can read and write.
+ 
+ ## file handling
+ "r" Must exist, reads the file from pointer onwards. On opening a file pointer is at the beginning but can be moved. Can't write.
+ "r+" same as 'r' but can write as well.
+ "w" starts at the beginning. It truncates or creates a new file if doesn't exist, can write can't read.
+ "w+" same as 'w' but can read as well.
+ "a" appends starts at the end of a file. Appends to a file or creates a new one if doesn't exist. Can write can't read.
+ "a+" dose the same as append but can read as well as write.
  
 ipos 5 session
 ```python
