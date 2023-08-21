@@ -35,6 +35,23 @@ https://www.cyber.gov.au/
 https://www.cyber.gov.au/acsc/view-all-content/advice/using-information-security-manual
 
 # group - Deep learning
+
+Purpose
+To have computers do things that people do innately to large data sets. 
+computer vision https://en.wikipedia.org/wiki/Computer_vision
+acquiring, processing, analysing and understanding digital images.
+speech recognition https://en.wikipedia.org/wiki/Speech_recognition
+enable the recognition and translation of spoken language into text by computers.
+natural language processing https://en.wikipedia.org/wiki/Natural_language_processing
+processing text corpora or speech corpora to have computer capable of "understanding" the contextual nuances and extract information and insights.
+machine transition https://en.wikipedia.org/wiki/Machine_translation
+
+bio informatics https://en.wikipedia.org/wiki/Bioinformatics
+drug design
+medical image analysis
+climate science
+board games
+
 https://en.wikipedia.org/wiki/Deep_learning
 
 - part of a broader family of machine learning methods.
