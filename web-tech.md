@@ -1,6 +1,73 @@
-four
- https://css-tricks.com/snippets/css/complete-guide-grid/
+
+## four
+ pptx
+ <link rel="stylesheet" href="https://cdnjs/cloudflare.com/ajax/normalize/8.0.1/normalize.min.css">
+ https://meyerweb.com/eric/tools/css/reset/reset.css
+ font-size: % em rem vw px
+ 
+ Box Model
+  content
+  padding
+  boarder
+  margin
+  width/height
+ 
+ selectors
+  Type
+  Class
+  ID
+  Descendant
+  Child
+  Adjacent
+  General Sibling
+  Attribute
+  Pseudo-Class
+  Pseudo-Element
+  TRBL top right bottom left
+
+ Flexbox
+  one-dimensional layout model that distributes space and alignment items within a container.
+  parent-child - parent container (flex) and child elements (flex)
+  main and cross axes:
+  main flex: flex-direction: justify-content:
+  cross align-items: align-self: align-content:
+ media queries to make layout responsive.
+
  https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+ https://css-tricks.com/snippets/css/complete-guide-grid/
+ 
+ ### Properties for the Parent
+ display - defines the element as a grid container and establishes a new grid formatting context for its contents.
+ gird - generates a block-level grid.
+ inline-grid - generates an inline-level grid.
+
+ .container {
+  display: grid | inline-grid;
+ }
+
+ grid-template-columns
+ grid-template-rows
+
+ Defines the columns and rows of the grid with a space-separated list of values. The values represent the track size, and the space between then represents the grid line.
+
+ Values
+ track size can be a length, a percentage, or a fraction eg 100px, , 1fr.
+ inline name an arbitrary name of your choosing, skewer case
+
+ left to right assigned positive number, right to left negative number.
+ To explicitly name lines use brackets []
+  grid-template-columns: [first] 40px [line2] 50px [line3] auto [col4-start] 50px [five] 40px [end];
+  grid-template-rows: [row1-start] 25% [row1-end] 100px [third-line] auto [last-line];
+  a line can have more than one name .container {
+  grid-template-rows: [row1-start] 25% [row1-end row2-start] 25% [row2-end];}
+
+repeat() notation.
+ .container {grid-template-columns: repeat(3, 20px [col0start]);}
+ repeats 20px than line named col-start three times.
+Multiple same name can be referenced by the their name and count
+ .item{grid-column-start: col-start 2;}
+fr unit set the size of a track as a fraction of the free space of the grid container. The free space is calculated after any non-flexible items item. 
 
 week-three
  validation
