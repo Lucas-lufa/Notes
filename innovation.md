@@ -1,3 +1,21 @@
+# five
+ 
+## links
+slide 8
+https://the-happy-manager.com/article/rational-decision-making-model/
+Bounded rationality model slide 9
+https://boycewire.com/bounded-rationality-definition/
+Behavioral slide 10
+https://www.yourarticlelibrary.com/management/decision-making-management/decision-making-models-rational-and-behaviour-model/53213
+Incremental slide 11
+https://rebelsguidetopm.com/incremental-model-of-decision-making/
+Intuitive slide 12
+https://www.decision-making-solutions.com/intuitive_decision_making.html
+Participatory slide 13
+https://evalcareers.com/magazine/what-is-participatory-decision-making/
+swot decision making tool slide 24
+https://www.investopedia.com/terms/s/swot.asp
+
 # Four session
 
 ## links
