@@ -55,9 +55,6 @@ Seeking: This is the act of moving the file position pointer to a specific locat
 Reading and Writing: With the position pointer at the desired location, data can be read or written at that spot.
 Tell: This function allows you to find the current position of the file pointer.
 
-
-
-
  ## What is a byte object
  representation of a sequence of bytes,
  iterable (like a list or tuple),
