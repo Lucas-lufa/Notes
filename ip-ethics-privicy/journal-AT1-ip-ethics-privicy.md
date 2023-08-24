@@ -52,43 +52,50 @@ Date of submission:	<Enter here>
 12.3.	Reflection: Would you have done anything differently?	15
 References	16
 Appendices	17
-    1. Unit Overview
 
+1. Unit Overview
         1.1. Evidence of research 
-(E.g. which websites or academic journals did you visit?)
-
-session one power point.
-session one video.
-forum posts for other students
+ (E.g. which websites or academic journals did you visit?)
+ 
+ session one power point.
+ session one video.
+ forum posts for other students
 
         1.2. Findings / Observations
-(E.g. expand on why you referred to these sources as opposed to other sources you could have considered, and why you believe they apply or are relevant to the session topic under discussion.)
-
-over view of modules and over view of assessments AT1 the weekly and AT2 group presentation.
+ (E.g. expand on why you referred to these sources as opposed to other sources you could have considered, and why you believe they apply or 
+  are relevant to the session topic under discussion.)
+ 
+ over view of modules and over view of assessments AT1 the weekly and AT2 group presentation.
 
         1.3. Reflections
-(E.g. Critically analyse the section or general topic under discussion. This is a chance for you to demonstrate your mastery of a topic by challenging (constructively) traditional methods or thinking around a particular area, and what ideas you may suggest to develop this area, or even continue the discussion by raising some interesting points. In this latter part I would urge students to use the discussion board.)
+ (E.g. Critically analyse the section or general topic under discussion. This is a chance for you to demonstrate your mastery of a topic by 
+ challenging (constructively) traditional methods or thinking around a particular area, and what ideas you may suggest to develop this 
+  area, or even continue the discussion by raising some interesting points. In this latter part I would urge students to use the discussion 
+   board.)
+ 
+ I understand what is expected in the weekly tasks and the assessments and their structure, forming groups, going thought the case study, 
+  student-lecturer engagement, 
 
-I understand what is expected in the weekly tasks and the assessments and their structure, forming groups, going thought the case study, student-lecturer engagement, 
 
 
-
-    2. Ethics 101
+2. Ethics 101
 
         2.1. Evidence of research 
 (E.g. which websites or academic journals did you visit?)
 
+session powerpoint and video
+the students and staff code of conduct.
 
 
         2.2. Findings / Observations
 (E.g. expand on why you referred to these sources as opposed to other sources you could have considered, and why you believe they apply or are relevant to the session topic under discussion.)
 
-
+That are ethics and values, alternative ethical behavior. how the person, organisation and environment effect ethics. Maintaining ethical standards. 
 
         2.3. Reflections
 (E.g. Critically analyse the section or general topic under discussion. This is a chance for you to demonstrate your mastery of a topic by challenging (constructively) traditional methods or thinking around a particular area, and what ideas you may suggest to develop this area, or even continue the discussion by raising some interesting points. In this latter part I would urge students to use the discussion board.)
 
-
+I always think ethics is what you outwardly overtly communicate, where values are what you actually believe, what they believe is shown by the actions that they take. Alternate ethical views are great to consider because it gives you different ideas that you can incorporate, I am defiantly an utilitarian. There are many thing that can effect how you behave, who you are, the people around you and the situation you are in. A good way to help maintain standards are code of conducts, they help remind and give you guide lines.  
 
 
     3. Ethical Dilemma
