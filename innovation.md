@@ -86,4 +86,14 @@ https://en.wikipedia.org/wiki/Deep_learning
 
 DNNs are typically feedforward networks in which data flows from the input layer to the output layer without looping back. At first, the DNN creates a map of virtual neurons and assigns random numerical values, or "weights", to connections between them. The weights and inputs are multiplied and return an output between 0 and 1. If the network did not accurately recognize a particular pattern, an algorithm would adjust the weights.[140] That way the algorithm can make certain parameters more influential, until it determines the correct mathematical manipulation to fully process the data.
 
+significant attributes​
+
+    Can model complex non-linear relationships by emulating a human brain.​
+
+    Deep neural network is an artificial neural network with multiple layers between input and outputs.​
+
+    The extra layers enable composition of features from lower layers, potentially modeling complex data with fewer units than similarly performing shallow network.​
+
+    They are typically feedforward networks in which data flows from the input layer to the output layer without looping back.​
+
 edge://flags/#enable-force-dark
