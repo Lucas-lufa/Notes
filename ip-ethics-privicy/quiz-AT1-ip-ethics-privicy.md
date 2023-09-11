@@ -1,3 +1,11 @@
+## w4
+Assessment task four
+It’s a research activity – Privacy and IP Policies or supporting documents
+To locate and list some authentic policies and procedures from well-known organisations or institutions (do not critique them, just prove they are authentic and represent the institution or organisation you are interested in.)
+Shared Whiteboard coming up to SWOT this…
+Must be authentic knowledge… not secondary knowledge (e.g. Wikipedia)
+Located in Assessments area (individual activity) as a Discussion Thread (Assessable)
+
 ## w3
 
 ## quiz two Ethical Dilemma 
