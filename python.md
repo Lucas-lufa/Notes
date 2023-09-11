@@ -1,6 +1,12 @@
 decision to leave
 
-Five Week
+## 7session
+### Test Automation and Packaging
+slides
+8 - git archive --format=zip --output=/path/to/outputfile.zip HEAD
+
+
+## Five Week
  ### Q
  is encoding or interpretation why we have types and type errors?
  slide 17 why is it important that it is a static method or not?
