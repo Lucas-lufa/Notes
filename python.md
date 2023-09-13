@@ -1,5 +1,15 @@
 decision to leave
 
+### testing and documentation techniques
+raise issue
+create local branch
+create a test case that fails, create a pull Request
+
+fix
+
+pass test case
+
+
 Five Week
  ### Q
  is encoding or interpretation why we have types and type errors?
