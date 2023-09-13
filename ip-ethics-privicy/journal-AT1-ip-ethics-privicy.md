@@ -54,9 +54,9 @@ References	16
 Appendices	17
 
 1. Unit Overview
-        1.1. Evidence of research 
+ 1.1. Evidence of research 
  (E.g. which websites or academic journals did you visit?)
- 
+  
  session one power point.
  session one video.
  forum posts for other students
@@ -74,14 +74,16 @@ Appendices	17
    board.)
  
  I understand what is expected in the weekly tasks and the assessments and their structure, forming groups, going thought the case study, 
-  student-lecturer engagement, 
+  student-lecturer engagement,
+ 
 
 
 
 2. Ethics 101
 
         2.1. Evidence of research 
-(E.g. which websites or academic journals did you visit?)
+ (E.g. which websites or academic journals did you visit?)
+
 
 session powerpoint and video
 the students and staff code of conduct.
@@ -103,19 +105,21 @@ I always think ethics is what you outwardly overtly communicate, where values ar
         3.1. Evidence of research 
 (E.g. which websites or academic journals did you visit?)
 
+https://www.youtube.com/watch?v=NT3VU4B5Dsc&t=130s
+https://www.youtube.com/watch?v=FypPSJfCRFk
 
 
         3.2. Findings / Observations
 (E.g. expand on why you referred to these sources as opposed to other sources you could have considered, and why you believe they apply or are relevant to the session topic under discussion.)
 
+The videos in the shell "The Transplant Surgeon problem" and "BBC Report: The Problem with Driverless Cars" rases the questions you need to be asking your self. Is sacrificing one to save five ethical and in what circumstances? What things do you need to consider when with self driving cars.
+In the shell there were other articles but they only abstracts, I couldn't read the full article, so not useful.
 
 
         3.3. Reflections
 (E.g. Critically analyse the section or general topic under discussion. This is a chance for you to demonstrate your mastery of a topic by challenging (constructively) traditional methods or thinking around a particular area, and what ideas you may suggest to develop this area, or even continue the discussion by raising some interesting points. In this latter part I would urge students to use the discussion board.)
 
-
-
-
+        When we are thinking what parameters we need to have in ethical and what is possible or relevant in the context of cars and road rules. When there is a conflict of one over another, a driver dose not have time to weigh all factors and is making snap decision, and can't be blamed for the out come unless the driver is impaired from alcohol or similar, gross negligence or malice. Where with artificial intelligent at the planning stage you can think thoroughly through all ethnical perperspetive for the best outcome. If this is transparent and chief exertive office is headed accountable than most likely the will have the best outcome for most people. Else opaque and a scapegoat held responsible the cars will favor the powerful. People have limited sensory and processing, AI cars how ever you can add more of each until a safe thresh hold is meet if not technically possible now could be in the future. Bugs in something that also needs to be addressed at the moment software company's are not liable for their products.  
 
 
     4. Research Skills

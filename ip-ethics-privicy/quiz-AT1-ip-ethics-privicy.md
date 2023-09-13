@@ -1,6 +1,16 @@
+## w4
+Assessment task four
+It’s a research activity – Privacy and IP Policies or supporting documents
+To locate and list some authentic policies and procedures from well-known organisations or institutions (do not critique them, just prove they are authentic and represent the institution or organisation you are interested in.)
+Shared Whiteboard coming up to SWOT this…
+Must be authentic knowledge… not secondary knowledge (e.g. Wikipedia)
+Located in Assessments area (individual activity) as a Discussion Thread (Assessable)
+
 ## w3
 
 ## quiz two Ethical Dilemma 
+
+
 q. To be considered as an ICT 'professional' means being associated with the following aspects (choose ALL that apply).
 		
 *Respect: You do not seek respect, it naturally comes to you. 
@@ -11,7 +21,7 @@ Show wealth: You display material gains as proof of your success.
 		
 *Integrity: You want to be associated with the actions you take and the decisions you make.
 		
-You seek to lead rather than supervise/manage where appropriate.
+*You seek to lead rather than supervise/manage where appropriate.
 		
 *Reliability: You only make promises you can keep.
 		
@@ -19,8 +29,87 @@ You seek to lead rather than supervise/manage where appropriate.
 		
 Risk-taking: You take risks because you know your clients would like that. To speculate is to accumulate. Your gain is their gain.
 
-q. 
+q2
+This question is designed to transfer your ethical judgement to a slightly different scenario, though still connected to the ethical dilemma 'The Transplant Surgeon...'.
 
+
+From the 'Selected Articles' panel within Session 3 folder - the BBC report on driverless cars - what did the engineer from Volvo say that driverless cars would mainly exhibit when they are legally permitted to use roads?
+
+Choose ALL that apply.
+
+They will be more expensive to own.		
+
+They will be boring to 'drive'.
+		
+*They will drive generally slower.
+		
+* They will adhere to the highway code more closely as human drivers.
+		
+* They will still require drivers to be vigilant and aware of what is happening on the road.
+		
+*They will be safer.
+
+q3
+A highly debatable quandary, but something we must decide upon:
+
+"... by doing nothing, we are in fact doing something only if we are aware of the impact of our inaction, hence we can be held responsible by 'doing nothing'." (see 'The Unknowers: How Strategic Ignorance Rules The World', McGoey, L. (2019))
+
+* True
+
+False
+
+q4
+Which adequately defines the term 'dilemma' ? Choose ONE from below.
+		
+* A difficult situation that requires a decision from options that are equally undesirable.
+		
+A situation that is a prime candidate to be 'passed upwards'.
+		
+A situation where you do not know what to do, so you do nothing.
+		
+Something you can get ointment for.
+
+q5
+The definition of Ethics and Morals are NOT the same.
+
+*True
+
+False
+
+q6
+Where possible, the ICT professional will seek to use existing processes and record all requests and actions taken.
+
+*True
+
+False
+
+q7
+You are one of the system administrators at a large medical facility and responsible for the security and ethical management of an organisation's set of databases. This includes all staff and patent medical details.
+
+Your CEO enters the ICT office and makes their way directly to you. They ask you verbally for you to grant them access to the staff database so they can run a report on a specific staff member. They do not state who the staff member is, just that they want access to the database to run a query themselves.
+
+Please view the options below and choose those that conform to your idea of the expectations of an ICT professional.
+		
+Give the CEO exactly what they ask for immediately and without further consideration. Even if they could break the database... they're the CEO, right?
+		
+*Inform the CEO that access to the staff database must be approved by the ICT manager (even if the CEO is the ICT Manager's line manager.)
+		
+*Ask the CEO to put their request in writing by completing the access request form, or via an email to the ICT helpdesk.
+		
+*Tell the CEO you have received their request and will consult with your manager before granting this access.
+
+q8
+The Transplant Surgeon Problem: If you decided to save the maximum amount of people and knowingly take 1 life to save 5, it could be said that you are adopting a __________ view.
+
+Choose ONE from below.
+		
+Sadistic
+		
+Utilitarian
+		
+*Deontological
+		
+Individualist
 ## w2
 ## quiz one ethics 101
 q1 From what you know about Corporate Social Responsibility (CSR), choose ONE from the list that is not a component of CSR.
@@ -29,9 +118,9 @@ Environmental (Sustainable)
 		
 Financial (Economic)
 		
-Technical *
+* Technical *
 		
-* Social
+Social
 
 q2 Maintaining good ethical standards is key when an organisation has successfully developed the most suitable policies and procedures to help achieve a progressive, productive workplace.
 But maintaining it is a different matter entirely. Modern, contemporary organisations need to put steps in place to protect all the great work they put in to get to this position.
@@ -117,9 +206,9 @@ q8 Thinking about epistemology - The philosophy of human knowledge -  choose ONE
 		
 Wi-Fi (Wireless network connection to the Internet)
 		
-* Meaning (how our understanding of something dictates our thoughts and actions)
+Meaning (how our understanding of something dictates our thoughts and actions)
 		
-Information (processed data) *
+* Information (processed data) *
 		
 Data (unprocessed information)
 
