@@ -2,6 +2,84 @@
  Effective Presentation
 
 # seven
+sidle 4
+bottom-up estimating
+This approach involves breaking down the project into smaller tasks and estimating the cost of each task. The cost of each task is then rolled up to determine the total cost of the project.
+
+slide 5
+top-down estimating
+estimating the overall cost of the project based on historical data or expert judgment. The estimate is then broken down into smaller components.
+
+slide 7
+analogous estimating
+Using similar projects as ta basis for estimating the cost fo the current project. The cost of the previous project is adjusted for differences in scope, scale, and complexity to arrive at an estimate for the current project.
+
+slide 9 
+three-point estimating
+estimating the most likely, optimistic, and pessimistic scenarios for the project. The estimates are then averaged to arrive at a final estimate.
+
+slide 11
+Deliverables
+is a tangible or intangible item that is produced as a result of a project and is required to be delivered to the project stakeholders. Deliverables are specific, measurable and verifiable, and are used to determine whether the project has been successfully completed.
+
+slide 12, 13
+Identify deliverables
+Define the project scope: Identify the project objectives and goals, and define the boundaries od the project.
+Break down the project into tasks: Identify all the tsks required to complete the project and group them into phases.
+Identify the outputs of each task: For each task, identify what the expected outputs or results are.
+Identify the final deliverables: Identify the deliverables that will be produced at the end of each phase or at the end of the project.
+Verify the deliverables: Ensure that each deliverable is specific, measurable and verifiable and that it meets the requirements of the stakeholders.
+
+slide 15
+project management methodologies
+waterfall
+Sequential and linear process: The Waterfall methodology follows a sequential and linear process, with each phase completed before moving on to the next one.
+Emphasis on planning: Waterfall relies heavily on upfront planning, with a detailed project plan and requirements document created at the start of the project.
+Emphasis on documentation: Waterfall places a high emphasis on documentation, with detailed requirements, design, and testing documentation produced at each stage of the project.
+Limited scope for change: The Waterfall process is less flexible and allows for limited changes once the project plan has been established.
+
+slide 16
+agile
+Iterative and incremental process: Agile follows an iterative and incremental process, with work broken down into short cycles or sprints.
+Emphasis on flexibility: Agile emphasizes adaptability and the ability to respond to change, with changes in requirements and priorities accommodated during the project.
+Emphasis on collaboration: Agile encourages collaboration between team members, with an emphasis on communication and frequent feedback.
+Limited documentation: Agile places less emphasis on documentation, with a focus on working software over documentation.
+
+slide 17
+A project timeline is a visual representation of the schedule or plan for a project. It shows the start and end dates for each task, milestone, and deliverable, as well as the dependencies between them. A project timeline helps project teams to visualise and communicate the sequence of activities and the time frame required to complete the project.
+
+slide 18
+A project timeline typically includes the following information:
+
+Task descriptions: A list of tasks required to complete the project, along with a brief description of each task.
+Start and end dates: The dates on which each task is scheduled to begin and end.
+Milestones: Key events or deliverables that mark important stages of the project.
+Dependencies: Relationships between tasks, indicating which tasks must be completed before others can start.
+Resources: The people, equipment, and materials required to complete each task.
+Duration: The estimated time required to complete each task.
+
+slide 21
+A Gantt chart is a popular project management tool that provides a graphical representation of a project schedule. The chart displays the project activities or tasks on the horizontal axis and the timeline on the vertical axis. Each task is represented by a horizontal bar that shows its start date, end date, and duration. The bars are arranged in chronological order, showing the order in which the tasks will be completed.
+
+Gantt charts are used to visualize project schedules, identify the critical path and dependencies between tasks, and track progress against the project timeline. They can also be used to communicate the project schedule to stakeholders, including team members, managers, and clients.
+
+slide 22
+Key features of a Gantt chart include:
+
+Task list: A list of all the tasks required to complete the project.
+Timeline: A timeline showing the duration of the project.
+Bar chart: Horizontal bars that represent the duration of each task.
+Milestones: Key events or deliverables that mark important stages of the project.
+Dependencies: Arrows or lines that indicate the dependencies between tasks.
+Resources: The people, equipment, and materials required to complete each task.
+
+slide 23
+Using MSProject, create a Gantt Chart for your ongoing Disruptive Technology Project.
+
+https://support.microsoft.com/en-us/office/basic-tasks-in-project-8fdbf020-a9e1-45e4-bf15-23a8d2b6797d 
+
+https://www.upanup.com/news/website-timeline-plan-success 
+
 # six
 
 # five
