@@ -101,6 +101,10 @@ h - h1 to h6 are heading tags.
 meta - meta tag represents metadata that cannot be represented by other meta-related tags like base, link, script, style or title.
 title - The title tag defines the document's title that is shown in a browser's title bar or pages's tab. It only contains text; tags within the element are ignored.
 header - represents introductory content, typically a group of introductory or navigational aids. It may contain some heading elements but also a logo, a search form, an author name, and other elements.
+a - anchor tag
+dl - represents a description list. The element encloses a list of groups of terms (specified using the <dt> dt element) and descriptions (provided by <dd> dd element).
+dt - Description term, specifies a term in a description or definition list.
+dd - The description details element, provides the description, definition, or value for the preceding term. 
 i - idiomatic, italicized text.
 ol - ordered list. Contains list items li.
 ul - unordered list. Contains list items li.
