@@ -2,7 +2,7 @@ NAME:	<Enter here>
 Student ID:	<Enter here>
 Date of submission:	<Enter here>
 
-1.	Unit Overview	4
+## 1.	Unit Overview	4
 1.1.	Evidence of research	4
 1.2.	Findings / Observations	4
 1.3.	Reflections	4
@@ -52,7 +52,7 @@ Date of submission:	<Enter here>
 12.3.	Reflection: Would you have done anything differently?	15
 References	16
 Appendices	17
-    1. Unit Overview
+##    1. Unit Overview
 
         1.1. Evidence of research 
 (E.g. which websites or academic journals did you visit?)
@@ -71,7 +71,7 @@ Appendices	17
 
 
 
-    2. Ethics 101
+##    2. Ethics 101
 
         2.1. Evidence of research 
 (E.g. which websites or academic journals did you visit?)
@@ -89,7 +89,7 @@ Appendices	17
 
 
 
-    3. Ethical Dilemma
+##    3. Ethical Dilemma
 
         3.1. Evidence of research 
 (E.g. which websites or academic journals did you visit?)
@@ -109,7 +109,7 @@ Appendices	17
 
 
 
-    4. Research Skills
+##    4. Research Skills
 
         4.1. Evidence of research 
 (E.g. which websites or academic journals did you visit?)
@@ -128,7 +128,7 @@ Appendices	17
 
 
 
-    5. Communication
+##    5. Communication
 
         5.1. Evidence of research 
 (E.g. which websites or academic journals did you visit?)
@@ -146,7 +146,7 @@ Appendices	17
 
 
 
-    6. Intellectual Property
+##    6. Intellectual Property
 
         6.1. Evidence of research 
 (E.g. which websites or academic journals did you visit?)
@@ -165,7 +165,7 @@ Appendices	17
 
 
 
-    7. Data Privacy & Society
+##    7. Data Privacy & Society
 
         7.1. Evidence of research 
 (E.g. which websites or academic journals did you visit?)
@@ -185,7 +185,7 @@ Appendices	17
 
 
 
-    8. ICT Risk Management
+##    8. ICT Risk Management
 
         8.1. Evidence of research 
 (E.g. which websites or academic journals did you visit?)
@@ -204,7 +204,7 @@ Appendices	17
 
 
 
-    9. Privacy, IP and Industry
+##    9. Privacy, IP and Industry
 
         9.1. Evidence of research 
 (E.g. which websites or academic journals did you visit?)
@@ -222,7 +222,7 @@ Appendices	17
 
 
 
-    10. Assessments AT2 Advice
+##    10. Assessments AT2 Advice
 
         10.1. Evidence of research 
 (E.g. which websites or academic journals did you visit?)
@@ -242,7 +242,7 @@ Appendices	17
 
 
 
-    11. The purpose of reflection
+##    11. The purpose of reflection
 
         11.1. Evidence of research 
 (E.g. which websites or academic journals did you visit?)
@@ -259,7 +259,7 @@ Appendices	17
 
 
 
-    12. Assessment Task 2 – Group Video Presentation
+##    12. Assessment Task 2 – Group Video Presentation
 
         12.1. Your role
 (Give details about your role, how it came about (e.g. did you nominate yourself for the role you carried out?)).
@@ -277,6 +277,6 @@ Conversely, did anything go wrong? If so, what happened and how? (… remember h
 If not, explain why you would not choose to return to a point in time you could have done better, managed a situation differently, etc.)
 
 
-References
+## References
 
-Appendices
+## Appendices

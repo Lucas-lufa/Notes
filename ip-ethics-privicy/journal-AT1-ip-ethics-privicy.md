@@ -2,7 +2,7 @@ NAME:	Lucas Fadersen
 Student ID:	v092953
 Date of submission:	<Enter here>
 
-1.	Unit Overview	4
+## 1.	Unit Overview	4
 1.1.	Evidence of research	4
 1.2.	Findings / Observations	4
 1.3.	Reflections	4
@@ -53,41 +53,33 @@ Date of submission:	<Enter here>
 References	16
 Appendices	17
 
-1. Unit Overview
- 1.1. Evidence of research 
- (E.g. which websites or academic journals did you visit?)
-  
- session one power point.
+##    1. Unit Overview
+
+        1.1. Evidence of research 
+(E.g. which websites or academic journals did you visit?)
+
+session one power point.
  session one video.
  forum posts for other students
 
+
         1.2. Findings / Observations
- (E.g. expand on why you referred to these sources as opposed to other sources you could have considered, and why you believe they apply or 
-  are relevant to the session topic under discussion.)
- 
- over view of modules and over view of assessments AT1 the weekly and AT2 group presentation.
+(E.g. expand on why you referred to these sources as opposed to other sources you could have considered, and why you believe they apply or are relevant to the session topic under discussion.)
+
+over view of modules and over view of assessments AT1 the weekly and AT2 group presentation.
 
         1.3. Reflections
- (E.g. Critically analyse the section or general topic under discussion. This is a chance for you to demonstrate your mastery of a topic by 
- challenging (constructively) traditional methods or thinking around a particular area, and what ideas you may suggest to develop this 
-  area, or even continue the discussion by raising some interesting points. In this latter part I would urge students to use the discussion 
-   board.)
- 
- I understand what is expected in the weekly tasks and the assessments and their structure, forming groups, going thought the case study, 
+(E.g. Critically analyse the section or general topic under discussion. This is a chance for you to demonstrate your mastery of a topic by challenging (constructively) traditional methods or thinking around a particular area, and what ideas you may suggest to develop this area, or even continue the discussion by raising some interesting points. In this latter part I would urge students to use the discussion board.)
+
+I understand what is expected in the weekly tasks and the assessments and their structure, forming groups, going thought the case study, 
   student-lecturer engagement,
- 
-
-
-
-2. Ethics 101
+##    2. Ethics 101
 
         2.1. Evidence of research 
- (E.g. which websites or academic journals did you visit?)
-
+(E.g. which websites or academic journals did you visit?)
 
 session powerpoint and video
 the students and staff code of conduct.
-
 
         2.2. Findings / Observations
 (E.g. expand on why you referred to these sources as opposed to other sources you could have considered, and why you believe they apply or are relevant to the session topic under discussion.)
@@ -98,9 +90,7 @@ That are ethics and values, alternative ethical behavior. how the person, organi
 (E.g. Critically analyse the section or general topic under discussion. This is a chance for you to demonstrate your mastery of a topic by challenging (constructively) traditional methods or thinking around a particular area, and what ideas you may suggest to develop this area, or even continue the discussion by raising some interesting points. In this latter part I would urge students to use the discussion board.)
 
 I always think ethics is what you outwardly overtly communicate, where values are what you actually believe, what they believe is shown by the actions that they take. Alternate ethical views are great to consider because it gives you different ideas that you can incorporate, I am defiantly an utilitarian. There are many thing that can effect how you behave, who you are, the people around you and the situation you are in. A good way to help maintain standards are code of conducts, they help remind and give you guide lines.  
-
-
-    3. Ethical Dilemma
+##    3. Ethical Dilemma
 
         3.1. Evidence of research 
 (E.g. which websites or academic journals did you visit?)
@@ -108,21 +98,17 @@ I always think ethics is what you outwardly overtly communicate, where values ar
 https://www.youtube.com/watch?v=NT3VU4B5Dsc&t=130s
 https://www.youtube.com/watch?v=FypPSJfCRFk
 
-
         3.2. Findings / Observations
 (E.g. expand on why you referred to these sources as opposed to other sources you could have considered, and why you believe they apply or are relevant to the session topic under discussion.)
 
 The videos in the shell "The Transplant Surgeon problem" and "BBC Report: The Problem with Driverless Cars" rases the questions you need to be asking your self. Is sacrificing one to save five ethical and in what circumstances? What things do you need to consider when with self driving cars.
 In the shell there were other articles but they only abstracts, I couldn't read the full article, so not useful.
 
-
         3.3. Reflections
 (E.g. Critically analyse the section or general topic under discussion. This is a chance for you to demonstrate your mastery of a topic by challenging (constructively) traditional methods or thinking around a particular area, and what ideas you may suggest to develop this area, or even continue the discussion by raising some interesting points. In this latter part I would urge students to use the discussion board.)
 
-        When we are thinking what parameters we need to have in ethical and what is possible or relevant in the context of cars and road rules. When there is a conflict of one over another, a driver dose not have time to weigh all factors and is making snap decision, and can't be blamed for the out come unless the driver is impaired from alcohol or similar, gross negligence or malice. Where with artificial intelligent at the planning stage you can think thoroughly through all ethnical perperspetive for the best outcome. If this is transparent and chief exertive office is headed accountable than most likely the will have the best outcome for most people. Else opaque and a scapegoat held responsible the cars will favor the powerful. People have limited sensory and processing, AI cars how ever you can add more of each until a safe thresh hold is meet if not technically possible now could be in the future. Bugs in something that also needs to be addressed at the moment software company's are not liable for their products.  
-
-
-    4. Research Skills
+When we are thinking what parameters we need to have in ethical and what is possible or relevant in the context of cars and road rules. When there is a conflict of one over another, a driver dose not have time to weigh all factors and is making snap decision, and can't be blamed for the out come unless the driver is impaired from alcohol or similar, gross negligence or malice. Where with artificial intelligent at the planning stage you can think thoroughly through all ethnical perperspetive for the best outcome. If this is transparent and chief exertive office is headed accountable than most likely the will have the best outcome for most people. Else opaque and a scapegoat held responsible the cars will favor the powerful. People have limited sensory and processing, AI cars how ever you can add more of each until a safe thresh hold is meet if not technically possible now could be in the future. Bugs in something that also needs to be addressed at the moment software company's are not liable for their products.  
+##    4. Research Skills
 
         4.1. Evidence of research 
 (E.g. which websites or academic journals did you visit?)
@@ -141,7 +127,7 @@ In the shell there were other articles but they only abstracts, I couldn't read 
 
 
 
-    5. Communication
+##    5. Communication
 
         5.1. Evidence of research 
 (E.g. which websites or academic journals did you visit?)
@@ -159,7 +145,7 @@ In the shell there were other articles but they only abstracts, I couldn't read 
 
 
 
-    6. Intellectual Property
+##    6. Intellectual Property
 
         6.1. Evidence of research 
 (E.g. which websites or academic journals did you visit?)
@@ -178,7 +164,7 @@ In the shell there were other articles but they only abstracts, I couldn't read 
 
 
 
-    7. Data Privacy & Society
+##    7. Data Privacy & Society
 
         7.1. Evidence of research 
 (E.g. which websites or academic journals did you visit?)
@@ -198,7 +184,7 @@ In the shell there were other articles but they only abstracts, I couldn't read 
 
 
 
-    8. ICT Risk Management
+##    8. ICT Risk Management
 
         8.1. Evidence of research 
 (E.g. which websites or academic journals did you visit?)
@@ -217,7 +203,7 @@ In the shell there were other articles but they only abstracts, I couldn't read 
 
 
 
-    9. Privacy, IP and Industry
+##    9. Privacy, IP and Industry
 
         9.1. Evidence of research 
 (E.g. which websites or academic journals did you visit?)
@@ -235,7 +221,7 @@ In the shell there were other articles but they only abstracts, I couldn't read 
 
 
 
-    10. Assessments AT2 Advice
+##    10. Assessments AT2 Advice
 
         10.1. Evidence of research 
 (E.g. which websites or academic journals did you visit?)
@@ -255,7 +241,7 @@ In the shell there were other articles but they only abstracts, I couldn't read 
 
 
 
-    11. The purpose of reflection
+##    11. The purpose of reflection
 
         11.1. Evidence of research 
 (E.g. which websites or academic journals did you visit?)
@@ -272,7 +258,7 @@ In the shell there were other articles but they only abstracts, I couldn't read 
 
 
 
-    12. Assessment Task 2 – Group Video Presentation
+##    12. Assessment Task 2 – Group Video Presentation
 
         12.1. Your role
 (Give details about your role, how it came about (e.g. did you nominate yourself for the role you carried out?)).
@@ -290,6 +276,6 @@ Conversely, did anything go wrong? If so, what happened and how? (… remember h
 If not, explain why you would not choose to return to a point in time you could have done better, managed a situation differently, etc.)
 
 
-References
+## References
 
-Appendices
+## Appendices
