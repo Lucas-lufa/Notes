@@ -113,26 +113,30 @@ When we are thinking what parameters we need to have in ethical and what is poss
         4.1. Evidence of research 
 (E.g. which websites or academic journals did you visit?)
 
+The week four powerpoint and the video explaining the power point. Read all the information on plagiarism and referencing it in the shell.
+    https://www.dtwd.wa.gov.au/sites/default/files/uploads/ip-management-2019.pdf
 
+    https://www.dtwd.wa.gov.au/copyright-ip/copyright-and-intellectual-property
 
+    https://www.northmetrotafe.wa.edu.au/student-code-conduct  
+    
         4.2. Findings / Observations
 (E.g. expand on why you referred to these sources as opposed to other sources you could have considered, and why you believe they apply or are relevant to the session topic under discussion.)
 
-
+In this case there is really only one source because only the organisation publish their policy and procedures
 
         4.3. Reflections
 (E.g. Critically analyse the section or general topic under discussion. This is a chance for you to demonstrate your mastery of a topic by challenging (constructively) traditional methods or thinking around a particular area, and what ideas you may suggest to develop this area, or even continue the discussion by raising some interesting points. In this latter part I would urge students to use the discussion board.)
 
-
-
-
-
+Integrity of information is important. If you look at the whole picture about the information, trying not to be biased, look at where the information is coming from, why are they saying what they are saying. Even bad information can be enlighten in certain ways.  
 ##    5. Communication
 
         5.1. Evidence of research 
 (E.g. which websites or academic journals did you visit?)
 
+https://business.gov.au/planning/business-plans/swot-analysis
 
+the two old online workshops in the shell.
 
         5.2. Findings / Observations
 (E.g. expand on why you referred to these sources as opposed to other sources you could have considered, and why you believe they apply or are relevant to the session topic under discussion.)
