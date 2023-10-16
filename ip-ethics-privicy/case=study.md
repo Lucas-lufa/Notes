@@ -2,42 +2,34 @@
 Attempt to identify the probable root cause(s) of these that associate strongly with ethical organisational
 behaviour that takes greater responsibility for the rights of client privacy, identity and data protection
 
-no review of practices has
-been made
+Data Mule manages its own information and client data using free cloud-based storage
+ Shows lack of care.
+  free cloud-based storage solutions are not great for privacy and securely.
 
-student and client data was accessed and possibly being used by other unauthorised third parties has so
-far not been discussed
+collection of locally stored files (in electronic format only) which has grown steadily over this period to the point that continuation of this practice represents real risk
+ Shows lack of care.
+  If not managed properly is prone to data breach, corruption and data loss.
 
-no changes to ICT personnel or processes 
+data collection and opportunity for analysis which a variety of company types (e.g. health insurance, financial institutions, etc.) would find interesting in terms of marketing opportunities.
+ Poor ethics by making money this way.
 
- ethically shows they don't care and behavior shows neglect
- no reflection on your wrong doing.
+no evidence the leadership or staff of Data Mule are aware of their legal obligations in relation to the security of client identity and data.
+ Laws are usually developed to be what is good for the community as a whole. A rule of thumb is if you are going against law you are likely to behaving un-ethically. Not knowing the law is not a defense.
 
+increase of information that has accompanied Data Mule’s growth, along with the lack of management and security of client data and their liaison with third party business partners
+ I you have it you need to treat it with respect. More data will just compound the problem.
 
-no evidence the leadership or staff of Data Mule are aware of their legal obligations in relation to
-the security of client identity and data.
+The fact that crucial student and client data was accessed and possibly being used by other unauthorised third parties has so far not been discussed,
+ Shows how they effect others low on priory
 
-ignorance of its legal and ethical obligations.
+no changes to ICT personnel or processes have been put into effect since this incident whilst Data Mule consider their options to prevent a recurrence of such an event.
+ No self refection.
 
- not knowing is not a defense. 
- The law must be know, they are there to show what is needed to care about. 
- They are ethical rules that are enforced.
+if there is a lack of leadership at the root of these and other issues.
 
-Data Mule’s free Dropbox account
+Data Mule have no formal information management system or a set of policies and procedures in place to govern such practices.
 
-no real firewall apparatus to protect the internal network
+There is no internal role within Data Mule responsible for supervising this area
 
- shows lack of care
-
-no formal information
-management system or a set of policies and procedures 
-
- ethically shows they don't care and behavior shows neglect
-
-no internal role
-within Data Mule responsible for supervising this area,
-
-no general education program
- 
- shows data protection and is not valued
+no general education program informing staff of their responsibilities.
 

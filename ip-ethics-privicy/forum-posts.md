@@ -1,5 +1,31 @@
+### five 
+### Assignment draft
+Being an ethical person or organisation means you are trust worthy. Trust in a society gives huge benefits wether they are worthy of it or not. Being ethical is an internal state that can not be seen only inferred from appearance. Appearance in an ethical context is done by stating what they are, the rules, laws, policy, procedures and accountability. 
 
+what are the benefits
+the importance of stating them
 
+Stating you beliefs
+the importance of stating them
+the importance of getting the right amount of detail, to broad or to granular
+
+Accountability
+actions is the only way beliefs can be seen.
+
+#### ass question
+ S8: SWOT Analysis (Ethical Behaviour Mgt) Options Menu: Forum 	
+
+ASSESSABLE
+
+Following on from our discussion in S4: Authentic Knowledge.
+
+Using the matter from the SWOT Analysis class (or video or both), please CREATE A THREAD and elaborate in your own words (between 250 and 500 words) how an organisation can best manage ethical behaviour and how this can help its compliance with its IP and Privacy responsibilities. Students should also attempt to refer to the work carried out in the Week4 research activity by offering suggestions on areas of improvement that could be made in the organisations they researched upon.
+
+Students must also respond to at least one other students discussion thread, in order to stimulate debate and progress the topic.
+
+Tip: Remember to frame your answer as a SWOT theme (i.e. Strengths, Weaknesses, Opportunities and Threats. See https://www.wordstream.com/wp-content/uploads/2021/07/swot-analysis-header1.png
+
+### four research
 Students are required to research key institutions or organisations and locate authentic policies and procedures relating to the following subject areas:
 
     Intellectual Property
