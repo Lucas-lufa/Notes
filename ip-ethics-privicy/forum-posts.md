@@ -5,12 +5,16 @@ Being an ethical person or organisation means you are trust worthy. Trust in a s
 what are the benefits
 the importance of stating them
 
+Trust gives a person or organisation a lot of benefits. There is less time spent on selling the merits of what is being done, it is assumed what ever is being done is for the good. If extra is being asked it probably for good reason. Debts will be paid, there is a willing ness to do work without money up front and loans are given. When something goes wrong no one is to concerned because what ever it is it will be rectified. Rules are enforced less strictly wether you are an individual or an organisation you are given more leay way. Trust is coveted for those worthy of it and even more for those that want to abuse it.  
+
 Stating you beliefs
 the importance of stating them
 the importance of getting the right amount of detail, to broad or to granular
 
 Accountability
-actions is the only way beliefs can be seen.
+actions is the only way the internal can be glimpsed.
+when actions and stated ethic diverge.
+d4af37
 
 #### ass question
  S8: SWOT Analysis (Ethical Behaviour Mgt) Options Menu: Forum 	
