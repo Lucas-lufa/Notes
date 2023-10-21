@@ -9,11 +9,19 @@ Trust gives a person or organisation a lot of benefits. There is less time spent
 
 Stating you beliefs
 the importance of stating them
+a common trick is to retro fit an ethical framework to an action this is to justify doing something bad. The tell tail signs to ethical frameworks being used as a cover is one doing something bad and justifying it raises my suspicions, not having integrity and changing the framework to suit.
 the importance of getting the right amount of detail, to broad or to granular
+
+Clearly stating ethics in policy and procedures is important mainly because it is what makes accountability work. When audits are done the actions preformed can be compared with stated ethics and see how they diverge. Writing giving guidance to both the reader and the writer. The reader uses as reference where when writing it promotes the writer to think deeply about it, not everyone will write the or contribute to the organisations policy and procedures but it is good to develop your personal ethics. A common trick is to retro fit an ethical framework to an action this is to justify doing something bad. The tell tail signs to ethical frameworks being used as a cover is one doing something bad and justifying it raises my suspicions, not having stated ethics or appropriate detail and changing the framework to suit. Detail in the policy and procedures is also important not enough and everything can be justified with it. Too much and anything but the very particular circumstance is permitted.
 
 Accountability
 actions is the only way the internal can be glimpsed.
 when actions and stated ethic diverge.
+scap goat
+
+Ethics is am internal state and can only be glimpsed through action. Just as am idea is something internal and con only be seen indirectly through the action of describing it in speech or writing. Accountability is auditing the actions taken and comparing the to the standards set and then correcting things that make actions and standards diverge in negative ways. Just by being in place it will add trust and can repair trust when something goes wrong but can also be used to get trust when it is not earned. Common ways of abusing the systems are, saying the accountability is there but never do any auditing, doing the auditing but there is never any wrong doing found, finding wrong doing but not doing anything and finally finding wrong doing and using a scap goat.  
+
+
 d4af37
 
 #### ass question
