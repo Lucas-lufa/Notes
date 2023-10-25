@@ -99,7 +99,27 @@ https://www.upanup.com/news/website-timeline-plan-success
 # six
 
 # five
- 
+
+
+
+ Gap Analysis
+A gap analysis is a strategic planning tool that is used to identify the difference between an organization's current performance and its desired performance, and to develop a plan to bridge the gap. The purpose of a gap analysis is to identify areas where an organization is falling short of its goals, and to develop a roadmap for improvement.
+
+ SWOT
+SWOT is an acronym that stands for Strengths, Weaknesses, Opportunities, and Threats. It is a strategic planning tool used by businesses, organizations, and individuals to assess their current situation and identify areas for improvement.
+
+The SWOT analysis involves analyzing both internal and external factors. The strengths and weaknesses refer to internal factors that are under the control of the organization or individual, such as resources, skills, and capabilities. The opportunities and threats refer to external factors that are beyond the control of the organization or individual, such as economic trends, competition, and regulatory changes.
+
+The SWOT analysis is often used in business to help organizations identify their competitive advantages and disadvantages, as well as potential growth opportunities and risks. It can also be used in personal development to identify areas for improvement and potential career opportunities.
+
+ Balanced Scorecard
+This tool is used to measure an organization's performance and align it with its strategic objectives. It considers four key perspectives: financial, customer, internal processes, and learning and growth.
+
+ Cost-Benefit Analysis
+A cost-benefit analysis (CBA) is a decision-making tool that compares the costs of a project or action with the benefits that it is expected to produce. The goal of a CBA is to determine whether the benefits of a project or action outweigh its costs, and to identify the most cost-effective solution.
+
+ Feature Comparison Matrix
+A Feature Comparison Matrix is a tool used to compare and evaluate multiple products or services based on their features, benefits, and specifications. The purpose of a Feature Comparison Matrix is to provide a side-by-side comparison of different products or services, which can help users make informed decisions based on their needs and preferences.
 ## links
 slide 8
 https://the-happy-manager.com/article/rational-decision-making-model/
