@@ -19,8 +19,9 @@ actions is the only way the internal can be glimpsed.
 when actions and stated ethic diverge.
 scap goat
 
-Ethics is am internal state and can only be glimpsed through action. Just as am idea is something internal and con only be seen indirectly through the action of describing it in speech or writing. Accountability is auditing the actions taken and comparing the to the standards set and then correcting things that make actions and standards diverge in negative ways. Just by being in place it will add trust and can repair trust when something goes wrong but can also be used to get trust when it is not earned. Common ways of abusing the systems are, saying the accountability is there but never do any auditing, doing the auditing but there is never any wrong doing found, finding wrong doing but not doing anything and finally finding wrong doing and using a scap goat.  
-
+Ethics is am internal state and can only be glimpsed through action. Just as am idea is something internal and con only be seen indirectly through the action of describing it in speech or writing. Accountability is auditing the actions taken and comparing the to the standards set and then correcting things that make actions and standards diverge in negative ways. Just by being in place it will add trust and can repair trust when something goes wrong but can also be used to get trust when it is not earned. Common ways of abusing the systems are, saying the accountability is there but never do any auditing, doing the auditing but there is never any wrong doing found, finding wrong doing but not doing anything and finally finding wrong doing and using a scap goat.
+  
+This is how organisations best manage ethical behavior, stating values and having accountability. Why put all the effort into being perceived as ethical. How those who are not ethical use tricks to appear ethical why we need to vigilant and never take things at face value.
 
 d4af37
 
