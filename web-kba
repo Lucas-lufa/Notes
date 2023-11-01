@@ -1,46 +1,4 @@
 ## four
-Skip To Content
-
-North Metropolitan TAFE
-My Blackboard
-Global Menu
- 
-Cluster - Web Technologies
-Welcome
-Learning Materials
-Useful & Required Resources
-Assessment
-My Grades
-Blackboard Collaborate
-Communication
-Staff Contacts
-My Groups
-2023 / S2 / Perth / John
-Group Homepage: 2023 / S2 / Perth / John
-Review Test Submission: AT1 KBA ICTWEB452
-If you have any queries regarding this assessment result, comments and suggestions, please contact your instructor/trainer. If we do not hear from you by the end of term, we will assume your acknowledgement and acceptance of this feedback.
-
- 
-User	LUCAS FADERSEN
-Course	Cluster - Web Technologies
-Test	AT1 KBA ICTWEB452
-Started	18/10/23 16:46LATE
-Submitted	18/10/23 17:12LATE
-Due Date	16/06/23 12:30
-Status	Needs Marking
-Attempt Outcome	Mark not available.  
-Time Elapsed	26 minutes out of 1 hour and 15 minutes
-Instructions	
-Instructions:
-Complete the whole quiz in ONE sitting.
-
-The quiz should take approximately 50 minutes.
-
-The quiz will automatically time out and submit after 75 minutes.
-
-For all questions, select the MOST APPROPRIATE or CORRECT answer.
-
-YOU ARE ALLOWED A MAXIMUM OF THREE ATTEMPTS.
 
 Results Displayed	All Answers, Submitted Answers, Feedback, Incorrectly Answered Questions
 Question 1
@@ -744,9 +702,9 @@ Response Feedback:
 ✔️ Correct
 
 Question 24
-0 out of 2 satisfactory
+2 out of 2 satisfactory
 
-Incorrect	
+Correct	
 When writing a web page. it is important to make sure it is valid.
 
 What is meant by the word "valid" in this context, and how would you ensure you have a valid page using the current specifications?
@@ -756,31 +714,27 @@ Select the most appropriate answer.
 Selected Answer:	
 Valid markup complies with the W3C HTML 5 standard specification.
 
-To verify the markup complies with the W3C standard we would use an HTML linter.
+To verify the markup complies with the W3C standard we would use an HTML linter and/or validation service such as The W3C Markup Validation Service. 
 
 Answers:	
 Valid markup loosely complies with the W3C HTML 5 standard specification.
 
 To verify the markup loosely complies with the W3C standard we would use an HTML linter and/or validation service such as The W3C Markup Validation Service. 
 
-Valid markup complies with the W3C HTML 5 standard specification.
+Valid markup complies with the W3C xHTML standard specification.
 
-To verify the markup complies with the W3C standard we would use an HTML linter.
+To verify the markup loosely complies with the W3C standard we would use an HTML linter and/or validation service such as The W3C Markup Validation Service. 
 
 Valid markup complies with the W3C HTML 5 standard specification.
 
 To verify the markup complies with the W3C standard we would use an HTML linter and/or validation service such as The W3C Markup Validation Service. 
 
-Valid markup complies with the W3C xHTML standard specification.
+Valid markup complies with the W3C HTML 5 standard specification.
 
-To verify the markup loosely complies with the W3C standard we would use an HTML linter and/or validation service such as The W3C Markup Validation Service. 
+To verify the markup complies with the W3C standard we would use an HTML linter.
 
 Response Feedback:	
-❌ Incorrect
-
-Testing HTML requires two components: a linter and a validation service.
-
-
+✔️ Correct
 
 Question 25
 5 out of 5 satisfactory
