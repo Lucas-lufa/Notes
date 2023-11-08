@@ -1,3 +1,866 @@
+## one kba-2
+Skip To Content
+
+North Metropolitan TAFE
+My Blackboard
+Copyright
+Library
+Student Orientation
+Global Menu
+ 
+Cluster - Web Technologies
+Welcome
+Learning Materials
+Useful & Required Resources
+Assessment
+My Grades
+Blackboard Collaborate
+Communication
+Staff Contacts
+My Groups
+2023 / S2 / Perth / John
+Group Homepage: 2023 / S2 / Perth / John
+Review Test Submission: AT1 KBA ICTWEB441
+If you have any queries regarding this assessment result, comments and suggestions, please contact your instructor/trainer. If we do not hear from you by the end of term, we will assume your acknowledgement and acceptance of this feedback.
+
+ 
+User	LUCAS FADERSEN
+Course	Cluster - Web Technologies
+Test	AT1 KBA ICTWEB441
+Started	08/11/23 14:37LATE
+Submitted	08/11/23 15:17LATE
+Due Date	16/06/23 12:30
+Status	Needs Marking
+Attempt Outcome	Mark not available.  
+Time Elapsed	40 minutes out of 2 hours
+Instructions	
+Instructions:
+Complete the whole quiz in ONE sitting.
+
+The quiz should take approximately 50 minutes.
+
+The quiz will automatically time out and submit after 120 minutes.
+
+For all questions, select the MOST APPROPRIATE or CORRECT answer.
+
+YOU ARE ALLOWED A MAXIMUM OF THREE ATTEMPTS.
+
+Results Displayed	All Answers, Submitted Answers, Feedback, Incorrectly Answered Questions
+Question 1
+2 out of 2 satisfactory
+
+Correct	
+What is the purpose of the Object.keys() method in JavaScript?
+
+Selected Answer:	
+ It returns an array of a given object's own enumerable property names. 
+
+Answers:	
+None of these options
+
+ It returns an array of a given object's own enumerable property names. 
+
+It is used to create a new object by merging two existing objects. 
+
+It returns an array of all property names in the JavaScript runtime environment.
+
+It returns the prototype of a given object.
+
+Response Feedback:	
+✔️ Correct
+
+Question 2
+0 out of 2 satisfactory
+
+Incorrect	
+Which of the following methods can be used to add a new key-value pair to an existing JavaScript object?
+
+Selected Answer:	
+None of these choices
+
+Answers:	
+object.merge() B
+
+ object[key] = value;
+
+object.add()
+
+None of these choices
+
+object.append()
+
+Response Feedback:	
+❌ Incorrect
+
+Question 3
+1 out of 1 satisfactory
+
+Correct	
+What is the current standard (as of 2022) for HTML?
+
+Selected Answer:	
+HTML version 5
+
+Answers:	
+None of these options
+
+xHTML
+
+HTML version 4
+
+HTML version 5
+
+HTML
+
+Response Feedback:	
+✔️ Correct
+
+Question 4
+2 out of 2 satisfactory
+
+Correct	
+What is the current standard (as of 2022) for CSS?
+
+Selected Answer:	
+CSS version 3
+
+Answers:	
+Style Sheets 3
+
+None of these options
+
+CSS version 4
+
+CSS version 3
+
+CSS
+
+Response Feedback:	
+✔️ Correct
+
+Question 5
+1 out of 1 satisfactory
+
+Correct	
+Client-side scripts for the web are created using one of the following.
+
+Identify the choice with the "most commonly used name" for the language.
+
+Selected Answer:	
+JavaScript
+
+Answers:	
+Typescript
+
+Javascript
+
+ECMAScript
+
+JavaScript
+
+Response Feedback:	
+✔️ Correct
+
+Question 6
+2 out of 2 satisfactory
+
+Correct	
+Client-side scripts for the web are created using one of the following.
+
+Identify the choice with the "formal name" for the language.
+
+Selected Answer:	
+ECMAScript
+
+Answers:	
+Typescript
+
+Javascript
+
+JavaScript
+
+ECMAScript
+
+Response Feedback:	
+✔️ Correct
+
+Question 7
+1 out of 2 satisfactory
+
+Partial Credit	
+The structure of a web page has a name, that is usually referred to as an abbreviation.
+
+What are the name and the abbreviation?
+
+Selected Answers:	
+DOM
+
+Answers:	
+dom
+
+Document Object Model
+
+Domain Object Model
+
+DOM
+
+Response Feedback:	
+❌ Incorrect
+
+Question 8
+2.99999 out of 6 satisfactory
+
+Partial Credit	
+A web page triggers "events" during its lifetime.
+
+Which of the following are examples of events that may be triggered?
+
+(Note: multiple word event names are split with spaces for ease of reading)
+
+Selected Answers:	
+selection change
+
+load
+
+click
+
+Answers:	
+selection change
+
+load
+
+mouse in
+
+mouse out
+
+stop
+
+blur
+
+key up
+
+click
+
+Response Feedback:	
+❌ Incorrect
+
+The biggest error with this question is the mouse events. Carefully check these.
+
+If in doubt - do your research via the following link: Event reference | MDN (mozilla.org) 
+
+Question 9
+1 out of 4 satisfactory
+
+Partial Credit	
+Given that we have an HTML page with a button with ID of btn, which of the following are valid methods to capture an event in JavaScript?
+
+Selected Answers:	
+btn.addEventListener('click', () => {
+    
+});
+Answers:	
+btn.addEventListener('click', () => {
+    
+});
+btn.onclick = handlerMethod;
+<button onclick="handlerMethod()">Click me</button>
+<button bubble="handlerMethod()">Click me</button>
+btn.onclick = () => {
+    
+}
+Response Feedback:	
+❌ Incorrect
+
+There are four valid ways to use an event in HTML when using JavaScript.
+
+Most are now not seen as "modern" approaches, whereas the "addEventListener" is the most favoured approach. In some cases, you may see the use of an "onMouseOver" or similar attribute added to the HTML directly, such as: "<div onMouseOver="doSomething()">...</div>".
+
+Question 10
+0 out of 1 satisfactory
+
+Incorrect	
+Which property references the DOM object that dispatched an event?
+Selected Answer:	
+object
+
+Answers:	
+object
+
+self
+
+source
+
+target
+
+Response Feedback:	
+❌ Incorrect 
+
+Question 11
+0 out of 2 satisfactory
+
+Incorrect	
+Which method cancels event default behaviour?
+Selected Answer:	
+prevent()
+Answers:	
+prevent()
+stop()
+cancel()
+preventDefault()
+Response Feedback:	
+❌ Incorrect
+
+Question 12
+0 out of 2 satisfactory
+
+Incorrect	
+A small form contains a text box and a button to submit it for processing, as shown in the code below:
+
+<form action="do-nothing.php" method="post" id="myForm">
+  <label for="name">Name</label>
+  <input type="text" name="personName" id="name" />
+  <button type="submit" name="button" id="submitButton">Save</button>
+</form>
+
+
+You've written the event listener shown below for a form button, but each time you click the button, the page reloads.
+
+
+button.addEventListener('click', function (e) {
+     /* WHICH STATEMENT GOES HERE */
+      button.className = 'clicked';
+  },
+  false,
+);
+
+
+Which statement would stop this from happening if it replaced the /* WHICH STATEMENT GOES HERE */ comment?
+
+Selected Answer:	
+e.stop()
+
+Answers:	
+button.preventDefault()
+e.stop()
+
+e.preventDefault()
+
+e.blockReload()
+
+Response Feedback:	
+❌ Incorrect
+
+Question 13
+0 out of 2 satisfactory
+
+Incorrect	
+What is the output that is printed when the div containing the text "Click Here" is clicked?
+
+HTML
+<div id="A">
+  <div id="B">
+    <div id="C">Click Here</div>
+  </div>
+</div>
+ 
+JavaScript
+document.querySelectorAll('div').forEach((e) => {
+  e.onclick = (e) => console.log(e.currentTarget.id);
+})
+Selected Answer:	
+C
+Answers:	
+C B A
+
+
+A B C
+
+A
+C
+Response Feedback:	
+❌ Incorrect
+
+Question 14
+0 out of 1 satisfactory
+
+Incorrect	
+Which event is fired on a text field within a form when a user tabs to it, or clicks or touches it?
+
+
+Selected Answer:	
+hover
+Answers:	
+hover
+focus
+blur
+enter
+
+Response Feedback:	
+❌ Incorrect
+
+Question 15
+0 out of 1 satisfactory
+
+Incorrect	
+What is DNS?
+
+Selected Answer:	
+Domain Name Server
+Answers:	
+Domain Name Server
+Distributed Name System
+
+Distributed Name Server
+Domain Name System
+Response Feedback:	
+❌ Incorrect
+
+Question 16
+1 out of 4 satisfactory
+
+Partial Credit	
+The Internet has a lot of parts.
+
+Which of the following are the most relevant to how a client (eg browser) interacts with a website?
+
+Selected Answers:	
+Web Server
+
+Answers:	
+Web Server
+
+Database Server
+
+None of the above
+Operating System
+
+DNS
+
+Response Feedback:	
+❌ Incorrect
+
+Question 17
+1.99999 out of 3 satisfactory
+
+Partial Credit	
+When a browser sends a request it uses "HTTP Verbs".
+
+Which of the following are NOT valid HTTP Verbs?
+
+Selected Answers:	
+DESTROY
+
+BROWSE
+
+Answers:	
+PATCH
+
+DESTROY
+
+BROWSE
+
+PUT
+
+UPDATE
+
+GET
+
+POST
+
+DELETE
+
+Response Feedback:	
+❌ Incorrect
+
+Question 18
+2 out of 2 satisfactory
+
+Correct	
+When using a browser to access a website, there are two ways to connect to the site.
+
+Select the most appropriate answers from below:
+
+
+
+Selected Answers:	
+https://
+
+http://
+
+Answers:	
+shttp://
+
+ftp://
+
+https://
+
+http://
+
+Response Feedback:	
+✔️ Correct
+
+Question 19
+4 out of 4 satisfactory
+
+Correct	
+Part of the browser's communication with the Internet is the responses that it gets from the web or application server.
+
+Match the following Responses and Codes.
+
+Question	Selected Match
+200
+
+E. 
+OK
+
+404
+
+H. 
+Not found
+
+502
+
+F. 
+Bad gateway
+
+403
+
+G. 
+Forbidden
+
+All Answer Choices
+A. 
+Temporary redirect
+
+B. 
+No content
+
+C. 
+Found
+
+D. 
+I'm a teapot
+
+E. 
+OK
+
+F. 
+Bad gateway
+
+G. 
+Forbidden
+
+H. 
+Not found
+
+Response Feedback:	
+✔️ Correct
+
+Question 20
+4 out of 5 satisfactory
+
+Partial Credit	
+The internet is a melting pot of protocols.
+
+Some have been created, then fallen into obscurity. Others are very relevant to today's Internet.
+
+From the options below, select only the valid protocols.
+
+Selected Answers:	
+TCP/IP
+
+HTTP
+
+HTTPS
+
+SMTP
+
+Answers:	
+SFTP
+
+GDP
+
+TCP/IP
+
+HTTP
+
+CCNA
+
+HTCPCP
+
+HTTPS
+
+SMTP
+
+Response Feedback:	
+❌ Incorrect
+
+Question 21
+1 out of 1 satisfactory
+
+Correct	
+Which is the most common protocol used to upload web pages to a web server?
+
+Selected Answer:	
+FTP
+Answers:	
+FTP
+SYNC
+NNTP
+GIT
+Response Feedback:	
+✔️ Correct
+
+Question 22
+1 out of 1 satisfactory
+
+Correct	
+What does the S stand form in HTTPS?
+
+Selected Answer:	
+Secured
+Answers:	
+Secured
+Stable
+Security
+Summary
+Response Feedback:	
+✔️ Correct
+
+Question 23
+1 out of 1 satisfactory
+
+Correct	
+Which protocol is used to assist to send data to and from web pages on a client and server in a manner that is difficult to decypher?
+
+Selected Answer:	
+HTTPS
+Answers:	
+TLS
+HTTPS
+SSH
+HTTP
+Response Feedback:	
+✔️ Correct
+
+Question 24
+1 out of 1 satisfactory
+
+Correct	
+When developing a client-side script, which is not a relevant standard to apply to the code developed?
+
+Selected Answer:	
+WET
+
+Answers:	
+Document code
+DRY
+
+WET
+
+KISS
+Response Feedback:	
+✔️ Correct
+
+Question 25
+1 out of 1 satisfactory
+
+Correct	
+What is the standard for JavaScript/ECMAScript as released in 2021?
+
+Selected Answer:	
+ECMA-262, 12th Edition
+
+Answers:	
+ECMA-262, 12th Edition
+
+ECMA-262, 11th Edition
+
+ECMA-262, 13th Edition
+
+ECMA-262, 10th Edition
+
+Response Feedback:	
+✔️ Correct
+
+Question 26
+4 out of 4 satisfactory
+
+Correct	
+When writing Client-Side code, which of the following are the most appropriate techniques to use to create clear and maintainable code?
+
+Selected Answers:	
+Use consistent formatting
+
+Use meaningful variable/function names
+
+Ensure functions are documented
+
+Ensure code is tested
+
+Answers:	
+Always use code tricks
+
+Use consistent formatting
+
+Use meaningful variable/function names
+
+Always use new standard methods
+
+Ensure functions are documented
+
+Ensure code is tested
+
+Never capture errors
+
+Use short variable/function names
+
+Response Feedback:	
+✔️ Correct
+
+Question 27
+5 out of 5 satisfactory
+
+Correct	
+When creating a website, we may write client-side and/or server-side code.
+
+They have different purposes.
+
+Which FIVE (5) of the following statements are most appropriate for Server-side code?
+
+Selected Answers:	
+May retrieve data from data sources
+
+Processes client input
+
+May provide dynamic websites
+
+Focuses on the actual content of a webpage
+
+Provides higher levels of security to the user
+
+Answers:	
+May retrieve data from data sources
+
+Processes client input
+
+May provide dynamic websites
+
+Interacts directly with the client
+
+Provides lower levels of security to the user
+
+Runs on the user’s computer
+
+Collects input from users
+
+Focuses on the actual content of a webpage
+
+Creates visual effects and interfaces for websites
+
+Provides higher levels of security to the user
+
+Response Feedback:	
+✔️ Correct
+
+Question 28
+4 out of 5 satisfactory
+
+Partial Credit	
+Which of the following are the most relevant methods to perform testing of client-side scripts before release?
+
+(Select 5)
+
+Selected Answers:	
+User testing
+
+In browser testing
+
+Manual testing
+
+Regression testing
+
+Unit testing
+
+Answers:	
+Headless testing
+
+User testing
+
+Do no testing
+
+In browser testing
+
+Manual testing
+
+Regression testing
+
+Unit testing
+
+Response Feedback:	
+❌ Incorrect
+
+Question 29
+0.99999 out of 3 satisfactory
+
+Partial Credit	
+There are many types of website attacks. Some focus on the client-side code, others on the server-side code and services.
+
+Which of the following are client-side or client-based attacks?
+
+Selected Answers:	
+SQL Injection
+
+Cross-site scripting
+
+Answers:	
+Magecart attack
+
+None of the other answers
+
+Cross-site request forgery
+
+SQL Injection
+
+Cross-site scripting
+
+Unvalidated data
+
+Broken link hijack
+
+Response Feedback:	
+❌ Incorrect
+
+Question 30
+1 out of 4 satisfactory
+
+Partial Credit	
+Which of the following statements are most relevant to the idea of Open Platforms and Open Platform Programming?
+
+Selected Answers:	
+An open platform provides interoperability and integration as primary requirements
+
+Answers:	
+An open platform is a platform based on open standards
+
+An open platform provides interoperability and integration as primary requirements
+
+An open platform freely provides access to all data
+
+An open platform may restrict access to data
+
+An open platform means open-source
+
+An open platform facilitates the management, publication, and access of open data
+
+Response Feedback:	
+❌ Incorrect
+
+Wednesday, 8 November 2023 15:17:24 o'clock AWST
+
+ OK
+
+
 ## four
 
 Results Displayed	All Answers, Submitted Answers, Feedback, Incorrectly Answered Questions
