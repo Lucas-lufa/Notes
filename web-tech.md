@@ -60,7 +60,42 @@ Radio buttons and checkboxes
 Textarea and labels
  allows users to provide multiline text.
  label element is used to improve accessability.
+ <textarea> element with row and cols attributes to define the text input area.
+ <form action="process.php" method="post">
+  <label for="comments">Comments:</label>
+  <textarea id="comments" name="comments"
+            rows="4" cols="50">
+  </textarea>
+ </form>
+Select dropdowns
+ label element and id, name attributes to improve accessibility.
+ select element provide users with a list of options.
+ option element defines the menu items.
+ optgroup element for grouping options.
+ <label for="country">Country:</label>
+ <select id="country" name="country">
+  <optgroup label="North America">
+    <option value="usa">
+    United states
+    </option>
+    <option value="canada">
+    Canada
+    </option>
+  </optgroup>
+  <!-- Add more option groups and options as needed -->
+ </select>
+Submit buttons
+ enables the form to submit data.
+ use the button element and the type attribute with the submit value.
+ A descriptive label on the submit button to help understan the purpose of the button.
+ <form action="process.php" method="post">
+  <!-- all the rest of the form -->
+  <button type="submit">Submit</button>
+  <button type="reset">Reset</button>
+ </form>
+Form validation
  
+
 
 ## eight:Images, Tables and Intro to JavaScript
 ### links
