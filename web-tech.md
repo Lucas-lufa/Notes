@@ -5,6 +5,218 @@
  
  ### https://www.youtube.com/watch?v=WbG86sMd3SU&list=PL0Zuz27SZ-6Oi6xNtL_fwCrwpuqylMsgT&index=21
 
+## nine:HTML Forms, Variables, Numbers & Maths Methods
+### links
+https://youtu.be/vzLdq3b0w3Y?list=PL0Zuz27SZ-6Oi6xNtL_fwCrwpuqylMsgT
+
+### slides
+HTML <form>
+ enable user interaction and data collection on websites
+ <form action="login.php" method="post">
+  <!-- form content goes here --> 
+ </form>
+form structure
+ forms are enclosed within <form> </form> element
+ The action attribute defines where the form data is sent.
+ The method attribute specifies how the data is sent.
+Text input fields
+ <input> element with the type text attribute allows single-line text to be entered
+ The id attribute is used to identify the field's name when the form is submitted.
+ The <label> element associated with the input improves accessibility.
+ placeholder attribute can provide hints of examples of expected input.
+ <form action="process.php" method="post">
+  <label for="username">Username:</label>
+  <input type="text" id="username" name="username">
+ </form>
+Passwords inputs
+ password fields are created using the <input> element with the type attribute using the password value.
+ <form action="process.php" method="post">
+  <label for="username">Username:</label>
+  <input type="text" id="username" name="username">
+  <label for="password">Password:</label>
+  <input type="password" id="password" name="password">
+ </form> 
+Radio buttons and checkboxes
+ radio buttons are created using the <input> element with the type attribute and the radio value. Allowing to select a single option from a group of choices.
+ Using the name attribute with the same value groups them together, ensuring only one option is selected.
+ <form action="process.php" method="post">
+  <input type="radio" 
+         id="approve" 
+         name="approval" 
+         value="yes" />
+  <label for="approval">Approve</label>
+  <input type="radio" 
+         id="deny" 
+         name="approval" 
+         value="deny" />
+ Checkboxes are created using <input> element with type attribute and the checkbox value, allows selection of one or more options from a list.
+ checkboxes can be used independently or grouped as needed.
+ <label for="deny">Deny</label> 
+ <input type="checkbox" 
+         id="subscribe" 
+         name="subscribe" 
+         value="yes" />
+  </form>
+Textarea and labels
+ allows users to provide multiline text.
+ label element is used to improve accessability.
+ 
+
+## eight:Images, Tables and Intro to JavaScript
+### links
+ https://youtu.be/SajRjc9KKUE?list=PL0Zuz27SZ-6Oi6xNtL_fwCrwpuqylMsgT
+
+ https://css-tricks.com/almanac/properties/o/object-fit/
+
+### slides
+HTML <img> tag attributes
+ alt: Provides alternative text for screen readers and if the 
+image cannot be displayed.
+ width and height: Set the dimensions of the image.
+ title: Adds a tooltip when the user hovers over the image.
+
+ <img src="image.jpg" alt="Description">
+ <img src="image.jpg" alt="Description"
+ width="300" height="200">
+Relative Paths
+ relative paths are defined in relation to the current location of the HTML file. 
+ used when the image is within the same directory as the HTML file or in a subdirectory of it.
+ <img src="images/image.jpg" alt="Description"
+ width="300" height="200">
+Absolute Paths
+ absolute paths specify the full URL or file system path to the image
+ used when the image is hosted on a different server or in a different directory.
+ <img src="http://example.com/images/image.jpg" alt="Description">
+ <img src="file:///C:/path/to/your/image.jpg" alt="Description">
+Accessibility
+ the alt attribute in the <img> tag plays a crucial role in accessibility.
+ providing alternative text for users who cannot see the images.
+Responsive Images
+ use max-width in CSS to set the max-width property for the image to a percentage value to make it responsive.
+ ensuring the image never exceeds its container's width.
+ img {max-width: 100%; height: auto;}
+Responsive Images Two
+ srcset attribute in the <img> tag allows you to provide multiple image sources with different resolutions.
+ browsers can then choose the most appropriate one based on the user's device.
+ <img
+      src="image-small.jpg"
+      alt="Description"
+      srcset="
+      image-small.jpg 400w,
+      image-medium.jpg 800w,
+      image-large.jpg 1200w
+      "
+      sizes="
+      (max-width: 600px) 100vw.
+      (max-width: 1200px) 50vw, 1000px
+      "
+  >
+Image Formats - Considerations
+ balance quality and file size
+ match the format to the purpose
+  JPEG is suitable for photographs
+  PNG for images with transparency
+  GIF or simple animations
+  SVG for scalable vector graphics
+ Optimism your load times
+  selecting the appropriate format to optimism loading 
+  crucial for user experience and SEO
+
+Lazy loading
+ lazy loading delays the loading of images until they are in or near the user's viewport
+ this con significantly improve page load times and user experience
+Lazy loading attribute
+ loading attribute allows you to specify how an image should be loaded
+ "lazy" for lazy loading and "eger" for immediate loading
+ <img src="image.jpg" alt="Description" loading="lazy">
+ <img src="image.jpg" alt="Description" loading="eager">
+
+Challenge 1 – Insert Images
+ Using the <img> tag and set the src, alt, and optionally, width and height attributes. 
+
+ Insert an image in the header section (<header>). 
+Within the "Latest News" section, replace one of the news articles' placeholder text with an image. 
+In the sidebar (<aside>), add an image that adjusts its size based on the screen width (responsive design). Use CSS to style the image to be a maximum of 100% of the container's width. 
+Place an image in the footer section (<footer>). 
+Eager load all of your images
+ 
+Basic table structure
+ <table> element is used to create a table</table>
+ <th>(table header) tag for improving clarity</th>
+ <tr> (table row) is used to define a row within the table</tr>
+ <td>(table date) is used to hold data in the table</td>
+  <table>
+    <tr>
+      <td>row one, cell one</td>
+      <td>row one, cell two</td>
+    </tr>
+    <tr>
+      <td>row two, cell one</td>
+      <td>row two, cell two</td>
+    </tr>
+  </table>
+
+Table attributes
+ rowspan="value"
+ colspan="value"
+
+Styling table with css
+
+Challenge 2 – Insert a Table
+ Add a table containing information about upcoming events to the provided HTML code.
+
+ Locate the <aside class="sidebar"> element.
+ Inside the <aside>, insert an HTML table structure that    includes the following columns:
+  Event Name
+  Date
+  Location
+ Populate the table with three upcoming events, include names, dates, & locations.
+ Apply CSS styles to the table using "styles.css”
+
+What is JavaScript
+ Officially called ECMAScript
+ ECMA-262 standard
+ 2022:ECMA-262 revision 13
+ ECMAScript:
+  ECMA-262 specification is a blueprint for creating a scripting language. 
+The “Official” name for JavaScript
+ JavaScript:
+  general-purpose scripting language.
+  conforms to the ECMAScript specification. 
+  is an implementation of that blueprint. 
+  implements the ECMAScript specification.
+Where to use it
+ front-end
+  web browser
+  desktop
+   electron
+   NW.js
+ back-end
+  server
+  server run-times
+   NodeJS
+   Bun
+   Deno
+Embedded JS
+ similar to inline css
+ <script>
+  console.loa('javascript');
+ </script>
+External JS
+ There is a source link in the script tags attribute, works similar to external css file.
+ <script src="Javascript-file.js"></script>
+
+Chrome dev tools
+ Console: Execute JavaScript code and view logs. 
+ Sources: Set breakpoints, step through code, and inspect variables.
+ Network: Monitor requests and responses when working with APIs
+Performance: Analyse JavaScript performance and optimize code.
+
+Video reference
+ JavaScript Tutorial For Beginners - Intro + VSCode Setup
+https://youtu.be/36Evo9c8gfU
+
+
 ## four
  pptx
  <link rel="stylesheet" href="https://cdnjs/cloudflare.com/ajax/normalize/8.0.1/normalize.min.css">
