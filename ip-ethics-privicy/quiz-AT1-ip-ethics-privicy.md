@@ -1,3 +1,146 @@
+## q7
+Question 1
+	
+Correct 	
+
+What does this symbol mean? Choose ONE option that defines this.
+
+ 
+Selected Answer: 	
+
+"This license allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the creator. The license allows for commercial use. If you remix, adapt, or build upon the material, you must license the modified material under identical terms."
+Response Feedback: 	
+
+Correct. Well done.
+Question 2
+	
+Correct 	
+
+What would be your best next step if you wanted to know more about adhering to Intellectual Property legislation and your responsibilities as a student at NM TAFE?
+
+Choose ONE option from below.
+Selected Answer: 	
+
+Go to the library and speak to a librarian. They are amazing people and will be able to guide you around subjects as:
+
+    Applying for permission to use copyrighted content
+    Discovering the owner of a piece of information (... students must be careful when thinking about using content from the internet... it may be copyrighted and could infringe the Copyright Act 1968)
+    For any research enquiries, the librarians will know how and where authentic knowledge is located on the Internet.
+
+Response Feedback: 	
+
+Well done!
+
+At NM TAFE our librarians are trained and very knowledgeable about authentic content, academic misconduct, authentic research, copyright... and can help you apply for permission to use a recognised author's content.
+Question 3
+	
+Correct 	
+
+TRUE or FALSE
+
+A Non-Disclosure Agreement (NDA) is a legal agreement between parties that prevents anyone from sharing or discussing a subject with anyone else on a given subject and can last indefinitely.
+Selected Answer: 	
+
+True
+Response Feedback: 	
+
+Correct.
+
+NDAs can be used to protect ideas before you effectively manage this using a Patent. Especially useful if you have just created a service or product you think could have significant industrial application and wealth could be collected from it. See https://www.ipaustralia.gov.au/ip-for-digital-business/idea/non-disclosure-agreements#:~:text=NDAs%20are%20private%20agreements%20between,for%20well%20over%20100%20years. for more information (IP Australia)
+Question 4
+	
+Correct 	
+
+TRUE or FALSE.
+
+The Copyright Act 1968 is a federal act and is considered the key primary legislation for all Australians regardless of which state they live in.
+Selected Answer: 	
+
+True
+Response Feedback: 	
+
+True. Well done.
+
+This is a piece of primary legislation and acts as a basis for all state acts and regulations (e.g. Copyright Regulations 2017).
+
+Regulations contain the details on how the act (it associates with) is to be facilitated and exercised by citizens and organisations within Australia.
+Question 5
+	
+Correct 	
+
+Why should students always CITE the author of whose content they are using with permission?
+
+Choose several that apply.
+Selected Answers: 	
+
+All of the available answers here are correct.
+Response Feedback: 	
+
+Correct, well done.
+Question 6
+	
+Correct 	
+
+Select the options that best explain the purpose and capability of Creative Commons.
+Selected Answers: 	
+
+"Enables authentic knowledge to be shared whilst balancing the rights of the creator with the need for public access."
+	
+
+"Creators still get a say in how their creations are shared using the appropriate CC Licence option available."
+	
+
+"... helps overcome legal obstacles to the sharing of knowledge and creativity to address the world’s pressing challenges."
+Response Feedback: 	
+
+Correct, well done.
+
+Creators who register their creations with Creative Commons (CC) can state exactly how they wish to see their knowledge shared by using one of the six licences available.Question 7
+	
+Correct 	
+
+Select options that generally fall under the description of Academic Misconduct.
+Selected Answers: 	
+
+Unauthorised Collaboration - "Unauthorised Collaboration can also be called Collusion.  An example is when as assessment task is submitted for marking that was completed with another student but should have been completed individually.  This can include cross-group collusion.
+
+BE AWARE this academic practice may differ from your home country if you are new to studying in Australia." 
+	
+
+Plagiarism - "Plagiarism is defined as presenting, “intentionally or unintentionally, the ideas or work of another person as one’s own ideas, or work without appropriate referencing or acknowledgement” (Edith Cowan University, 2019b, p.4). Plagiarism is the most common and well-known form of academic misconduct. " 
+	
+
+Examination Cheating - "Cheating in examinations goes beyond attempting to copy from another student.  Examples include:
+
+    Providing or receiving assistance in an exam (including access to a mobile device).
+    Completing an exam for another student.
+    Outsourcing an exam to another student. " 
+
+	
+
+Contract Cheating - "Contract Cheating where an assessment task has been outsourced to a third party.  This can be paid or unpaid and is one of the most serious forms of academic misconduct." 
+Response Feedback: 	
+
+Correct, well done.
+
+Group Work is fine to do, and students should share their learning experiences together and enjoy their time here at NM TAFE. But when these shared ideas manifest into words on the page and all your student friends are writing the same content for the assignment (for example), this is a clear case of Unauthorised Collusion. 
+
+Academic Misconduct harms the student, the educational institution that awarded the student with their qualification, society, the economy... from top to bottom is a corrosive phenomenon that ultimately does no good at all.
+
+Acknowledge given to Edith Cowan University (2019) for definitions supplied to Plagiarism, Unauthorised Collaboration, Contract Cheating and Examination Cheating.
+Question 8
+	
+Correct 	
+
+Pick the year the Copyright Act was last updated by parliament.
+Selected Answer: 	
+
+2021
+Response Feedback: 	
+
+Correct.
+
+Though the Copyright Act states '1968', it has been updated on several occasions, most recently in 2021 by our elected representatives in parliament
 ## w6
 Question 1
 	
