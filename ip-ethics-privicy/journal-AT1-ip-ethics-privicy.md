@@ -155,6 +155,11 @@ The chain of why do you want to be see to be ethical, shows that you can be trus
 The shell has a lot of text so started with that
 Explored the links in the shell https://www.legislation.wa.gov.au/
 http://www.legislation.gov.au/
+https://blackboard.tafe.wa.edu.au/bbcswebdav/courses/00_CopyrightAdvisorforTAFEWA/Copyright%20Advisor%20for%20TAFEWA/#
+
+web search on creative commons
+https://creativecommons.org/
+
 
         6.2. Findings / Observations
 (E.g. expand on why you referred to these sources as opposed to other sources you could have considered, and why you believe they apply or are relevant to the session topic under discussion.)
@@ -165,15 +170,14 @@ It is a very expansive topic. I have an interest in open source software. Based 
 (E.g. Critically analyse the section or general topic under discussion. This is a chance for you to demonstrate your mastery of a topic by challenging (constructively) traditional methods or thinking around a particular area, and what ideas you may suggest to develop this area, or even continue the discussion by raising some interesting points. In this latter part I would urge students to use the discussion board.)
 
 I alway find it interesting if used for good allows people to earn a living from their intellectual work. But if used badly people will rent seek with it.
-
-
-
 ##    7. Data Privacy & Society
 
         7.1. Evidence of research 
 (E.g. which websites or academic journals did you visit?)
 
-
+The recorded lecture
+All the reading in session seven shell, there is a lot of content.
+Videos in the shell
 
         7.2. Findings / Observations
 (E.g. expand on why you referred to these sources as opposed to other sources you could have considered, and why you believe they apply or are relevant to the session topic under discussion.)
