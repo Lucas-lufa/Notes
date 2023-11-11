@@ -136,35 +136,35 @@ Integrity of information is important. If you look at the whole picture about th
 
 https://business.gov.au/planning/business-plans/swot-analysis
 
-the two old online workshops in the shell.
+the two old online workshops in the shell. The research done is session four.
 
         5.2. Findings / Observations
 (E.g. expand on why you referred to these sources as opposed to other sources you could have considered, and why you believe they apply or are relevant to the session topic under discussion.)
 
-
+The task directly asked for these resources to be used.
 
         5.3. Reflections
 (E.g. Critically analyse the section or general topic under discussion. This is a chance for you to demonstrate your mastery of a topic by challenging (constructively) traditional methods or thinking around a particular area, and what ideas you may suggest to develop this area, or even continue the discussion by raising some interesting points. In this latter part I would urge students to use the discussion board.)
 
-
-
-
+The chain of why do you want to be see to be ethical, shows that you can be trusted, why do you want trust, society grants benefits to the trust worth. How this sits on the three legged stool of stated beliefs, transparently and accountability. I was fun to explore. 
 ##    6. Intellectual Property
 
         6.1. Evidence of research 
 (E.g. which websites or academic journals did you visit?)
 
-
+The shell has a lot of text so started with that
+Explored the links in the shell https://www.legislation.wa.gov.au/
+http://www.legislation.gov.au/
 
         6.2. Findings / Observations
 (E.g. expand on why you referred to these sources as opposed to other sources you could have considered, and why you believe they apply or are relevant to the session topic under discussion.)
 
-
+It is a very expansive topic. I have an interest in open source software. Based on the license something can be open or just have the appetence of being open.
 
         6.3. Reflections
 (E.g. Critically analyse the section or general topic under discussion. This is a chance for you to demonstrate your mastery of a topic by challenging (constructively) traditional methods or thinking around a particular area, and what ideas you may suggest to develop this area, or even continue the discussion by raising some interesting points. In this latter part I would urge students to use the discussion board.)
 
-
+I alway find it interesting if used for good allows people to earn a living from their intellectual work. But if used badly people will rent seek with it.
 
 
 

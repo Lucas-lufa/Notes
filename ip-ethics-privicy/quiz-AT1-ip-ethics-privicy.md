@@ -1,3 +1,81 @@
+## w6
+Question 1
+	
+Correct 	
+
+Choose several options that best describe Patents and/or their purpose.
+Selected Answers: 	
+
+Protect inventions if they are
+
+    New
+    Inventive
+    Have industrial applications
+
+	
+
+Patent protection lasts for 20 years.
+	
+
+If you have an idea that has clear potential for industrial applications...
+
+    Tell nobody (revealing your idea could give your competitors an advantage before you patent it yourself)
+    Hire a patent lawyer as this is a very litigious process and can take many years to complete.
+
+Response Feedback: 	
+
+Correct, well done!
+
+Patents protect your creation from the ideas stage to the ultimate manifestation into a product or service that has clear industrial or commercial application.
+Question 2
+	
+Correct 	
+
+Choose several options that best describes Design Rights.
+Selected Answers: 	
+
+Protection is automatic (like copyright) if unregistered.
+	
+
+Protection lasts for 3 years if left unregistered.
+	
+
+Protect what things look like, their shape or appearance.
+Response Feedback: 	
+
+Correct, well done!
+
+Design Rights only last 3 years (if unregistered) in order to encourage inventors or companies to constantly innovate and improve products already in the market. Protection for this amount of time is without formal registration with the Australian Patent Office.
+
+If this automatic unregistered protection lasts too long, it would most likely prevent companies from wanting to develop their ideas into products for fear of protection. This is why design rights are for a short time only.
+Question 3
+	
+Correct 	
+
+How many years does copyright protect a creation? Choose ONE answer from below.
+Selected Answer: 	
+
+70 years after the death of the person who created the product in question. This creation can not be performed, used, shown or rented without permission.
+Response Feedback: 	
+
+Correct, well done!
+
+Copyright is the right of the creator to their creation, and 70 years after their death (even if identified posthumously) is the length of time creations are protected.
+Question 4
+	
+Correct 	
+
+TRUE or FALSE:
+
+Registering a product with the Australian Patent Office (IP Australia) gives protection for 20 years.
+Selected Answer: 	
+
+True
+Response Feedback: 	
+
+Correct.
+
+20 years is the total time a product can be protected by patent law.
 ## w4
 
 Assessment task four
