@@ -94,9 +94,100 @@ Submit buttons
   <button type="reset">Reset</button>
  </form>
 Form validation
- 
+ html5 provides build-in validation attributes such as required, min, max, pattern and more.
+ required attribute ensures a field is filled out before the form can be submitted.
+ pattern attribute allows to specify a regular expression pattern that the input must match. e.g. an email addresses
+ <form action="process.php method="post">
+ <input
+  type="email"
+  id="user_email"
+  name="user_email"
+  pattern="[a-zA-Z0-9._%+-]+@
+           [a-zA-Z0-9.-]+\.[a-zA-Z]{2,}"
+  required />
+ <input
+  type="number"
+  id="age"
+  name="age"
+  min="18"
+  max="99" />
+ </form>
+Hidden fields
+ Let web developers include data that cannot be seen or edited by the users when a form is submitted. For example, the ID of the content that is currently being ordered or edited, or a unique security token. Hidden inputs are completely invisible in the rendered page, and there is no way to make it visible in the page's content. 
+Warning: While the value isn't displayed to the user in the page's content, it is visible—and can be edited—using any browser's developer tools or "View Source" functionality. Do not rely on hidden inputs as a form of security.
+use cases include storing session ID, or passing data between pages.
+the data in hidden fields is included when the form is submitted.
+ <form action="process.php method="post">
+ <input
+  type="email"
+  id="user_email"
+  name="user_email"
+  required />
+ <label for="email">Email:</label>
+ <input
+  type="hidden"
+  id="session_id"
+  name="session_id"
+  value="12345" />
+ </form>
 
+Challenge one - Build a form 
+ Insert the \<form> element below the existing content in the \<main> section but inside the \<div class="container">.
+ Add the following form fields inside the \<form>:
+- Name (text input)
+- Email (email input)
+- Message (textarea)
+- Subject (select dropdown)
+- Subscribe (checkbox)
+Ensure each input field has a corresponding <label> element.
+Use appropriate for attributes to associate labels with input fields.
+Add a "Submit" button at the end of the form.
+Implement basic validation for the email input field using the required and type="email" attributes.
+Apply CSS styles to the form using the provided external CSS file ("styles.css").
+Below the form, add a placeholder <div> to display a confirmation message when the form is successfully submitted. You can initially hide it with CSS.
 
+Fundamentals: literals
+ a value that is written in the source code
+ -a number
+ -string
+ -boolean
+ or some more advanced constructs
+ -objects literals
+ -array literals
+Identifiers
+ a sequence of characters
+ are case sensitive
+ may contain any combination of letters, numbers and underscores.
+ may start with letters, the dollar character and underscore.
+ used to label:
+ - variables
+ - functions
+ - objects
+Variables
+ stores a value, label for a value
+ Two parts, variable name (identifier) value stored.
+let, const and var
+ three ways to declare:
+  - let allows new value to be assigned.
+  - const makes it a constant value.
+  - var old style of let and const
+NaN
+ stands for not a number. it is an error value as a result of an operation that cannot produce a meaningful numeric value.
+inNaN()
+Javascript numbers
+ supports integer and floating point.
+ mathematical operations can be performed with the Math object.
+ uses dot notation
+ const circleRadius = 5;
+ const circumference = 2 * Math.PI * circleRadius;
+ console.log('Circumference: ${circumference}');
+Challenge two - using math object
+ In your script.js file write some JS to
+ Create two variables, length and width, and assign them values 
+representing the dimensions of a rectangle (e.g., length = 5, width = 8).
+ Calculate the area of the rectangle using the formula: area = length * width.
+ Display the calculated area on the console.
+ Use the Math.round() method to round the area to the nearest integer before displaying it using console.log()
 ## eight:Images, Tables and Intro to JavaScript
 ### links
  https://youtu.be/SajRjc9KKUE?list=PL0Zuz27SZ-6Oi6xNtL_fwCrwpuqylMsgT
@@ -250,8 +341,6 @@ Performance: Analyse JavaScript performance and optimize code.
 Video reference
  JavaScript Tutorial For Beginners - Intro + VSCode Setup
 https://youtu.be/36Evo9c8gfU
-
-
 ## four
  pptx
  <link rel="stylesheet" href="https://cdnjs/cloudflare.com/ajax/normalize/8.0.1/normalize.min.css">
