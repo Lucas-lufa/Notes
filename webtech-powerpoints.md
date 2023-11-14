@@ -1,6 +1,11 @@
 # webtech powerpoints
 
-
+## ten: Strings, Operators, Expressions & Decisions 
+### links
+https://youtu.be/LiuzigJldNo?list=PL0Zuz27SZ-6Oi6xNtL_fwCrwpuqylMsgT
+https://youtu.be/9Ykz2_PhdfE?list=PL0Zuz27SZ-6Oi6xNtL_fwCrwpuqylMsgT
+https://youtu.be/3q7sk03ehOs?list=PL0Zuz27SZ-6Oi6xNtL_fwCrwpuqylMsgT
+https://youtu.be/ib8MHSMwtYg?list=PL0Zuz27SZ-6Oi6xNtL_fwCrwpuqylMsgT
 ## nine:HTML Forms, Variables, Numbers & Maths Methods
 ### links
 https://youtu.be/vzLdq3b0w3Y?list=PL0Zuz27SZ-6Oi6xNtL_fwCrwpuqylMsgT
