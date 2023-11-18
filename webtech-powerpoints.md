@@ -6,6 +6,86 @@ https://youtu.be/LiuzigJldNo?list=PL0Zuz27SZ-6Oi6xNtL_fwCrwpuqylMsgT
 https://youtu.be/9Ykz2_PhdfE?list=PL0Zuz27SZ-6Oi6xNtL_fwCrwpuqylMsgT
 https://youtu.be/3q7sk03ehOs?list=PL0Zuz27SZ-6Oi6xNtL_fwCrwpuqylMsgT
 https://youtu.be/ib8MHSMwtYg?list=PL0Zuz27SZ-6Oi6xNtL_fwCrwpuqylMsgT
+
+### slides
+Expression
+ - A single unit of javascript code
+  - evaluated by javascript engine
+  - returns a value
+ - An expression my be:
+  - a literal: string or number
+  - an identifier: points to a variable
+Other types are Arithmetic, logical and string,
+Other expressions use: objects, functions and arrays
+
+Operators:
+ Assignment uses the equals.
+ and uses &&
+ or uses ||
+ not usee ! at the start of the identifier
+ not equals !=
+ not equivalent !==
+ equals to ==
+ equivalent ===
+ greater than >
+ greater or equals >=
+ less than <
+ less than or equals <=
+
+Operator precedence is bindas
+
+Template literals for strings are enclosed in back ticks ``
+ aka string interpolation
+ allows embedding of expressions into strings
+ allows multiple line strings
+
+Challenge one
+ Use the JavaScript function called isValidEmail to take an email address as an argument.
+ Research a regex to validate emails (try www.regexr.com)
+ Inside the function, use expression operators and the match() method to check if the email address is valid using your new regex.
+ The function should return true if the email is valid, and false if it is not.
+ console.log() 3 different emails to test your function (IDE or browser)
+
+Decisions
+ if
+ if ... else
+ if ... else if ... else
+ switch
+if ( condition ) {
+  instruction
+}
+
+if ( condition ) {
+  instruction
+} else {
+  instruction
+}
+
+if ( condition ) {
+  instruction
+} else if ( condition two ){
+  instruction
+} else {
+  instruction
+}
+
+switch ( expression ) {
+  case 'x':
+
+  handle case 'x'
+  break
+  ...
+  default:
+
+  handle all other cases
+  break
+}
+
+Ternary
+ most operators have two expressions ie 5 + 6
+ the not has one !whatever
+ Ternary has three
+ conditional ? true expression : false expression
 ## nine:HTML Forms, Variables, Numbers & Maths Methods
 ### links
 https://youtu.be/vzLdq3b0w3Y?list=PL0Zuz27SZ-6Oi6xNtL_fwCrwpuqylMsgT

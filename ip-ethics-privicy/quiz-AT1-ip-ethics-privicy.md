@@ -1,3 +1,157 @@
+## q8
+Question 1
+	
+Correct 	
+
+What is the name of the current federal Information and Privacy Commissioner? Choose ONE option.
+Selected Answer: 	
+
+Ms Angelene Falk
+Response Feedback: 	
+
+Correct, well done!
+Question 2
+	
+Correct 	
+
+The purpose of the Office of the Australian Information Commissioner is... ?
+
+Choose any that apply.
+Selected Answers: 	
+
+"Carrying out strategic information management functions within the Australian Government under the Australian Information Commissioner Act 2010 (AIC Act)"
+	
+
+"Making sure that Australian Government agencies and organisations with an annual turnover of more than $3 million, and some other organisations, follow the Privacy Act 1988 (Privacy Act) and other laws when handling personal information."
+	
+
+"Protecting the public’s right of access to documents under the Freedom of Information Act 1982 (FOI Act)"
+Response Feedback: 	
+
+Correct, well done.
+
+Not all information is accessible from government agencies through an FOI request. E.g. Any information that reveals Australia's defensive strategies or operations, or information that is considered harmful to the national interest is generally considered undisclosable.
+Question 3
+	
+Correct 	
+
+The Office of the Australian Information Commissioner is responsible for Information Privacy at a federal level.
+
+Which role advocates on matters of Freedom of Information on behalf of Western Australians? Choose ONE option.
+Selected Answer: 	
+
+The Office of the Information Commissioner (WA)
+Response Feedback: 	
+
+Correct, well done.
+
+You could get a firm of lawyers to represent you, of course. However, the OIC (WA) is an independent agency that advocates for all Western Australians on matters relating to government agencies and their obligations to release information as part of citizens' FOI rights.
+
+There is also a link to the UN HC on Human Rights, as Australia is a signatory to that convention (was one of the founding members in fact...) relating to the rights of the individual. These in turn help dictate the 13 APPs used to form the basis of privacy legislation in this country. However, the WA OIC would be the first point of contact if a Western Australian had any issues re an FOI request to a government agency.
+Question 4
+	
+Correct 	
+
+TRUE or FALSE
+
+The Privacy Act (Cth) 1988 can be amended anytime.
+Selected Answer: 	
+
+False
+Response Feedback: 	
+
+Correct, well done.
+
+Though Acts can be requested to be altered at any time, our elected members have a clear process to follow to create or amend any legislation. See https://peo.gov.au/understand-our-parliament/how-parliament-works/bills-and-laws/amendments/ for details on the formal legislation amendment process.
+Question 5
+	
+Correct 	
+
+Choose the odd one out from the selection that is NOT one of the 13 Australian Privacy Principals.
+Selected Answer: 	
+
+Quantity of personal information
+Response Feedback: 	
+
+Correct. Well done!
+
+It's Quality, not the quantity of personal information - APP10 - that is one of the 13 APPs.
+Question 6
+	
+Correct 	
+
+How many Australians consider the protection of their personal data and information to be a major concern in their lives? Choose ONE option.
+Selected Answer: 	
+
+7 out of 10
+Response Feedback: 	
+
+Correct. Well done.
+
+Yes, in a 2020 survey on Australian Community Attitudes to Privacy, 70% of Australians said they considered their data privacy a major concern.
+Question 7
+	
+Correct 	
+
+What percentage of Australians were surveyed as being uncomfortable with businesses tracking their location whilst using their website or smart app?
+
+Choose ONE option.
+Selected Answer: 	
+
+62%
+Response Feedback: 	
+
+Correct, well done.
+
+In a 2020 survey on Australian community attitudes to privacy, 48% of those polled considered having their location tracked without their consent to represent the biggest risk to a person's privacy.
+Question 8
+	
+Correct 	
+
+Choose ONE option that best describes the purpose of data privacy and data security.
+Selected Answer: 	
+
+The balance an ICT professional must achieve in order to secure data from unauthorised access and permit authorised access of objects (e.g. systems, data, information) to occur safely and reliably.
+Response Feedback: 	
+
+Correct, well done.
+
+Though the other options are plausible, they are not drivers to why we must ensure the organisation's data and systems are protected and remain available, whilst allowing access to data from those who need it to carry out their role effectively. 
+Question 9
+	
+Correct 	
+
+Why is it important to review an act, such as the Privacy Act 1988?
+
+Choose all that apply.
+Selected Answers: 	
+
+Because links to other legislation become apparent as new impacts on society are experienced (e.g. COVID-19), thus the Privacy Act and its relationship to other Acts needs to move with the time.
+	
+
+Laws rarely remain unchanged anyway, so it's a part of a healthy debate to discuss how our privacy needs and expectations change as time goes on.
+	
+
+Because technology develops fast and government needs to be aware of the risks faced by its citizens at any time.
+Response Feedback: 	
+
+Correct, well done!
+Question 10
+	
+Correct 	
+
+Which piece of legislation does the Australian Privacy Principles support? Choose ONE.
+Selected Answer: 	
+
+The Privacy Act (Cth) 1988
+Response Feedback: 	
+
+Correct, well done.
+
+Don't forget, state and territory laws on privacy (or related topics) take priority over the federal Privacy Act where appropriate.
+
+BTW... there is a Dog Act, City of Joondalup 1976 (see https://www.joondalup.wa.gov.au/files/councilmeetings/2007/Attach5brf131107.pdf ) 
+
 ## q7
 Question 1
 	

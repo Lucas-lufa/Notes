@@ -175,19 +175,33 @@ I alway find it interesting if used for good allows people to earn a living from
         7.1. Evidence of research 
 (E.g. which websites or academic journals did you visit?)
 
-The recorded lecture
+Shell content
+ - privacy
+ - privacy act
+ - privacy federal and states
+ - we should be responsible personal privacy safety, or just like with personal safety we should be responsible but there is a force to back us up.
+ - social media
+ - MN TAFE privacy
+ - global perspective
+ - managing data privacy and security
+ - data system protection byod
+ - The recorded lecture
 All the reading in session seven shell, there is a lot of content.
 Videos in the shell
+
+The privacy act
+13 australian privacy principles (app)
+
 
         7.2. Findings / Observations
 (E.g. expand on why you referred to these sources as opposed to other sources you could have considered, and why you believe they apply or are relevant to the session topic under discussion.)
 
-
+Even though there is a lot of work been done in this area personal privacy is total our reponscablity so everyone is being prayed on by the powerful.
 
         7.3. Reflections
 (E.g. Critically analyse the section or general topic under discussion. This is a chance for you to demonstrate your mastery of a topic by challenging (constructively) traditional methods or thinking around a particular area, and what ideas you may suggest to develop this area, or even continue the discussion by raising some interesting points. In this latter part I would urge students to use the discussion board.)
 
-
+we should be responsible personal privacy safety, or just like with personal safety we should be responsible but there is a force to back us up.
 
 
 
