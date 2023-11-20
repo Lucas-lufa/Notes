@@ -191,7 +191,7 @@ Videos in the shell
 
 The privacy act
 13 australian privacy principles (app)
-
+UN article 12 of human rights 
 
         7.2. Findings / Observations
 (E.g. expand on why you referred to these sources as opposed to other sources you could have considered, and why you believe they apply or are relevant to the session topic under discussion.)
@@ -271,7 +271,11 @@ No one shall be subjected to arbitrary interference with his privacy, family, ho
         8.1. Evidence of research 
 (E.g. which websites or academic journals did you visit?)
 
-
+Shell content
+ - reading
+ - watching the videos
+ - ISO-38500
+ https://asic.gov.au/regulatory-resources/financial-reporting-and-audit/auditors/improving-and-maintaining-audit-quality/
 
         8.2. Findings / Observations
 (E.g. expand on why you referred to these sources as opposed to other sources you could have considered, and why you believe they apply or are relevant to the session topic under discussion.)
