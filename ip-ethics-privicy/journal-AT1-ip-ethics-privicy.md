@@ -203,8 +203,68 @@ Even though there is a lot of work been done in this area personal privacy is to
 
 we should be responsible personal privacy safety, or just like with personal safety we should be responsible but there is a force to back us up.
 
+### Quiz9: Data Privacy 2
+
+This is a got-ya question ,very frustration and no learning value.
+
+A simple, albeit, extreme question:
+
+From a societal perspective (i.e. public health, fighting crime, national security, defending peoples' rights, etc.)... is it better to have all information in the open to everyone, or to have all information concealed from everyone?
+Selected Answers: 	
+
+Maybe
+Response Feedback: 	
+
+LOL :-) 
+
+There are no correct answers are there?  That is surely a possibility we sometimes face as ICT professionals, yes?
+
+This question essentially takes an extreme view on whether we as a society could be heading toward a future where personal privacy no longer exists (helped by our own actions and behaviours online) and ultimately determined by politicians who are influenced by us and other factors (... we'll leave that there..), or whether at some point in the future our children's children will say "... enough is enough... NO MORE... leave me alone" and turn away from social media.
+
+Take a look at this TEDx video from Mike Berry from University College London on his view on the future of Social Media.
+
+ 
+Watch Video
+http://www.youtube.com/watch?v=sm-ZVhC_yfM 
+The future of social media | Mike Berry | TEDxUCL
+Duration: 8:28
+User: n/a - Added: 22/01/15
+CLUE: You need to think carefully about this answer.
+
+This video give no insight to the question and it is not even interesting
 
 
+Question 4
+This question is just wrong 
+
+Incorrect 	
+
+Choose all options that align with your understanding of a "... distinct human right" as stated within Article 12 of the United Nations Universal Declaration of Human Rights (... which Australia was a founding member of by the way in 1948... 😉 )
+
+TIP: Be careful... not as many as might first think.
+Selected Answers: 	
+
+"Everyone has the right to the protection of the law against such interference or attacks to a person's privacy."
+	
+
+"The right to protect your reputation."
+	
+
+"No one shall be subjected to arbitrary interference with their privacy, family, home or correspondence..."
+Response Feedback: 	
+
+Incorrect.
+
+Have another go.
+
+CLUE: You need to choose TWO.
+
+This is just wrong 
+
+"nor to attacks upon his honour and reputation." is not verbatim but it dose mean "The right to protect your reputation."
+
+article 12 
+No one shall be subjected to arbitrary interference with his privacy, family, home or correspondence, nor to attacks upon his honour and reputation. Everyone has the right to the protection of the law against such interference or attacks.
 
 ##    8. ICT Risk Management
 

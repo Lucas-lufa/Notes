@@ -1,3 +1,234 @@
+## q9
+
+Question 1
+	
+Correct 	
+
+According to the Daily Telegraph (2018), how many data points did Facebook use about each of its users?
+
+Choose ONE option.
+Selected Answer: 	
+
+About 100
+Response Feedback: 	
+
+Correct, well done.
+
+Data points are distinct items of information that describe you and your behaviour whilst using a platform. E.g. Gender, age, sexual Orientation, purchases, tastes in music, news provider preference, political affiliations.. and much more. All these can be garnered by Facebook or another social media platform based on your choices.
+
+Facebook wouldn't just rely on your choices when using their platform, as they have partnerships with many data capture organisations (or 'Data Brokers' - remember Cambridge Analytica?), all designed to (a) advertise to you, (b) persuade you to vote for a certain candidate, (c) dislike a particular product or organisation,... etc etc.
+
+These days, a person can be described by up to 1500 data points, all distinct to you and highly marketable. See the video below on just how data analytics can be used to target information at you in order to influence your decisions.
+
+
+1. An excellent report from the New Your Times on how a harmless survey from an academic transformed into something completely different. 
+Watch Video
+How Cambridge Analytica Exploited the Facebook Data of Millions | NYT
+Duration: 2:33
+User: n/a - Added: 09/04/18
+...
+
+2. Another perspective, this time a BBC report on how the data was extracted and why it was used the way it was.
+Watch Video
+How Cambridge Analytica got my private Facebook data - BBC News
+Duration: 1:51
+User: n/a - Added: 11/04/18
+
+<END>
+
+
+Question 2
+	
+Correct 	
+
+Choose all options that you think contribute to the definition of what could be termed 'Data Analytics'.
+Selected Answers: 	
+
+FBI/CIA/MI6/ASIO/KGB ... <pick your own secret service>
+	
+
+Big Data
+	
+
+Continual Improvement
+	
+
+User surveys
+	
+
+Data Modelling and Forecasting
+	
+
+Targeted marketing
+	
+
+Data Points
+	
+
+Structured Query Language (SQL) clauses (sometimes known as 'queries')
+Response Feedback: 	
+
+Correct, well done.
+
+Ours and other governments monitor what their citizens do online, including their communications, in the name of national security. This is where our rights to privacy as humans hits the threshold into another arena where people are harmed purely because the information within a liberal democracy is available. The cost of freedom? Very debatable.
+
+Watch this video on a conference talk from Sandra Wachter, the University of Oxford on privacy and what data analytics is capable of.
+
+ 
+Watch Video
+Privacy, identity, and autonomy in the age of big data and AI - Sandra Wachter, University of Oxford
+Duration: 4:41
+User: n/a - Added: 07/05/19
+
+
+ 
+
+
+Question 3
+	
+Correct 	
+
+A simple, albeit, extreme question:
+
+From a societal perspective (i.e. public health, fighting crime, national security, defending peoples' rights, etc.)... is it better to have all information in the open to everyone, or to have all information concealed from everyone?
+Selected Answers: 	
+
+Yes
+	
+
+Maybe
+	
+
+Don't know
+	
+
+No
+Response Feedback: 	
+
+LOL :-) 
+
+There are no correct answers are there? That is surely a possibility we sometimes face as ICT professionals, yes?
+
+This question essentially takes an extreme view on whether we as a society could be heading toward a future where personal privacy no longer exists (helped by our own actions and behaviours online) and ultimately determined by politicians who are influenced by us and other factors (... we'll leave that there..), or whether at some point in the future our children's children will say "... enough is enough... NO MORE... leave me alone" and turn away from social media.
+
+Take a look at this TEDx video from Mike Berry from University College London on his view on the future of Social Media.
+
+ 
+Watch Video
+The future of social media | Mike Berry | TEDxUCL
+Duration: 8:28
+User: n/a - Added: 22/01/15
+
+
+ 
+
+
+Question 4
+	
+Correct 	
+
+Choose all options that align with your understanding of a "... distinct human right" as stated within Article 12 of the United Nations Universal Declaration of Human Rights (... which Australia was a founding member of by the way in 1948... 😉 )
+
+TIP: Be careful... not as many as might first think.
+Selected Answers: 	
+
+"No one shall be subjected to arbitrary interference with their privacy, family, home or correspondence..."
+	
+
+"Everyone has the right to the protection of the law against such interference or attacks to a person's privacy."
+Response Feedback: 	
+
+Correct, well done.
+
+Article 12 deals with the rights of a human in the context of privacy. Whilst some of the other options relating to a person's rights may be contained within other UN declarations, these two only refer to Article 12.
+
+See https://www.un.org/en/udhrbook/pdf/udhr_booklet_en_web.pdf for an easy-to-read version of the UN Declaration of Human Rights.
+Question 5
+	
+Correct 	
+
+From a legal perspective, privacy can be restricted for certain reasons depending on the laws of a country. In Australia, when is it deemed acceptable to violate a person's right to privacy?
+
+Choose all that apply.
+Selected Answers: 	
+
+To protect national security
+	
+
+To protect public safety
+	
+
+In the public interest, e.g. to hold public figures (e.g. elected members of parliament) to account
+Response Feedback: 	
+
+Correct, well done.
+
+Whilst we have the right to privacy, this does not extend into investigating who may be attempting to violate your privacy. In doing so, you may be violating someone else's privacy. Two wrongs don't make a right..!
+Question 6
+	
+Correct 	
+
+The preservation of one's own privacy is often offset against other wants and needs, such as convenience. Convenience can come in many forms, such as ease of access, shallow learning curves and of course, mobility: The ability to access personal, confidential data within a secure system.
+
+Choose ONE option that best answers the following question:
+
+What is the purpose of Multi-Factor Authentication?
+Selected Answer: 	
+
+Where your personal email or mobile phone number is regarded as a primary form of identity. If you can access either using a device you own (i.e. mobile phone), it must be you.
+Response Feedback: 	
+
+Correct, well done.
+
+MFA, though not perfect, does rely on the fact that you and only you can receive an authentic code issued at a specific time and requiring you to respond in a given timeframe. These requirements are slack though demanding enough to satisfy the organisation you are attempting to gain access to, e.g. your bank, student login at NM TAFE, etc.
+
+It does also bring into question the notion that our mobile phones have now become a part of our IDENTITY. Given the hacks possible to a mobile phone, how reasonable is this assumption?
+
+
+ 
+Watch Video
+ABC Science: Here's how phones can be hacked in just 15 minutes
+Duration: 6:28
+User: n/a - Added: 14/01/20
+
+...
+Watch Video
+How hackers can use your cell phone number to steal your identity
+Duration: 2:32
+User: n/a - Added: 14/09/17
+
+
+ 
+
+
+Question 7
+	
+Correct 	
+
+Many organisations employ a Bring Your Own Device (BYOD) regime when issuing devices to their workforce. Whilst this offers many benefits in terms of asset reduction (costs, maintenance, etc.), there are also drawbacks i nterms of confidential and protection of data.
+
+Choose all options that apply that represent potential risks to the organisation in the context of data protection.
+Selected Answers: 	
+
+Weak passwords being permissible on a personal device when beyond the full reach of the organisation's data protection policies.
+	
+
+The potential for confidential data being stored on a worker's device, thus beyond the full reach of the organisation's data protection policies.
+	
+
+Crucial system access data (e.g. passwords, keystrokes data, etc.) being stored on a personal device, then potential being accessible when the device leaves the trusted network 
+	
+
+The device being infected with malicious software as a result of being beyond the full reach of the organisation's data protection policies.
+	
+
+The risk of a device being left on a train containing potentially confidential information.
+Response Feedback: 	
+
+Correct, well done.
+
+The benefits and risks related to BYOD usually balance each other. One is mobility, another is the convenience of using own device: each represents risks to the organisation's systems and data protection.
+
 ## q8
 Question 1
 	
