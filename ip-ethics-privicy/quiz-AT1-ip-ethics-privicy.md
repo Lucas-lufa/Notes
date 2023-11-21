@@ -154,88 +154,133 @@ Union) that best covers all privacy legislation requirements worldwide.
 Correct. Well done!
 ## 10
 Question 1
-Selected
-Answers:
-Response Feedback:
-Choose all options that satisfy your belief why ethical behaviour and risk management are considered linked in the context of the ICT
-professional.
-Because understanding risks as an ICT professional puts you in a position both many people would understand. Therefore, it is
-considered a professional obligation to identify, assess and mitigate/eliminate all ICT risks where practically achievable to do so.
-The actions taken to manage all ICT risks have beneficial effects on many levels and impact all employees within the organisation.
-Because to protect the organisation's systems and data infrastructure is the responsibility of the ICT professional.
-Correct, well done.
+	
+Correct 	
+
+Fill in the blank word.
+
+"An organisation seeks to reduce the number of previously discovered  ___-_______ during any audit or risk assessment."
+Selected Answer: 	
+non-compliance
+Response Feedback: 	
+
+Correct. Well done!
 Question 2
-Selected Answer: governance
-Response Feedback:
-Fill in the blank word.
-"Risk Management is a key component of an organisation's __________".
-Correct. Well done!
+	
+Correct 	
+
+Choose all options that satisfy your belief why ethical behaviour and risk management are considered linked in the context of the ICT professional.
+Selected Answers: 	
+
+The actions taken to manage all ICT risks have beneficial effects on many levels and impact all employees within the organisation. 
+	
+
+Because understanding risks as an ICT professional puts you in a position both many people would understand. Therefore, it is considered a professional obligation to identify, assess and mitigate/eliminate all ICT risks where practically achievable to do so.
+	
+
+Because to protect the organisation's systems and data infrastructure is the responsibility of the ICT professional.
+Response Feedback: 	
+
+Correct, well done.
 Question 3
-Selected Answer:
-Response
-Feedback:
-Choose the ONE option that best explains why we need to record near-miss events.
-A near miss is an opportunity to resolve a hazardous event from happening again.
-Correct, well done.
-Near Misses could be said to be a lucky event that could have easily have resulted in some loss or injury, so we do not want
-them happening again for precisely this reason.
-Question 4
-Selected Answer:
-Response
-Feedback:
+	
+Correct 	
+
 Please choose ONE option that best describes the main purpose of Risk Management within the contemporary organisation.
+Selected Answer: 	
+
 Because we value the safety and well-being of our people. within our organisation.
+Response Feedback: 	
+
 Correct, well done.
-Though we say that the purpose of Risk Management is perhaps to identification, assessment (including the rating) and mitigation/elimination of risks to an organisation's systems and data, the overall main purpose is to protect the organisation
-Question 5
-Selected Answer: cyber security
-Fill in the blank word.
-According to Yusuf Denath, "Risk assessment forms part of a _____ ________ strategy."
-My Blackboard Copyright Library YANG LIM Student Orientation
-10/17/23, 10:13 AM Review Test Submission: Quiz10: ICT Risk Management<p style='...
-https://blackboard.northmetrotafe.wa.edu.au/webapps/assessment/review/review.jsp?attempt_id=_7805203_1&course_id=_31861_1&content_id… 2/2
-Tuesday, 17 October 2023 10:13:53 o'clock AWST
-Se ected s e : cybe secu ty
-Response Feedback: Correct. Well done!
-Question 6
-Selected
-Answer:
-Response
-Feedback:
-Choose ONE option that best describes how an organisation should approach and deliver ICT risk assessment most effectively.
-Identify criteria, Gather all facts,
-Carry out a discovery phase,
-Communicate and consult with impacted parties (stakeholders) and
-Constantly review during delivery.
-As an approach to ICT risk assessment, the project manager, or appropriate role within an organisation's management
-structure must
-Correct. Well done!
-Only through processes of planned actions (in advance) and richly communicated before, during and after is our best
-approach for effective ICT risk assessment in an organisation.
-Also, the best time to risk assessment is during the organisation's 'Business As Usual' (BAU) processes. Else any risk
-assessment will not be considered realistic.
-Question 7
-Selected Answer: True
-Response
-Feedback:
+
+Though we say that the purpose of Risk Management is perhaps to identification, assessment (including the rating) and mitigation/elimination of risks to an organisation's systems and data, the overall main purpose is to protect the organisation (including its people). 
+Question 4
+	
+Correct 	
+
 TRUE or FALSE:
-From an organisational perspective, it is the role of LEADERSHIP to ensure an organisation's staff, contractors and visitors are safe whilst in the
-workplace.
+
+From an organisational perspective, it is the role of LEADERSHIP to ensure an organisation's staff, contractors and visitors are safe whilst in the workplace.
+Selected Answer: 	
+
+True
+Response Feedback: 	
+
+A nice easy one :-)
+
+The term 'Leadership' is the key here, as anyone within the organisation can exhibit leadership by their decisions and actions (as in drawing inspiration from these actions and behaviours), and is not just defined by those who run the organisation.
+
+Take a look at this video taken from a CFO conference explaining the role of leadership and risk management. You don't have to play it all, but it quickly gives you insight into why high-level executives perceive leadership as not just roles at their level but occurs throughout the organisation.
+
+ 
 Watch Video
 The Role of Leadership in Risk Management
 Duration: 23:26
 User: n/a - Added: 14/02/18
-A nice easy one :-)
-The term 'Leadership' is the key here, as anyone within the organisation can exhibit leadership by their decisions and actions (as
-in drawing inspiration from these actions and behaviours), and is not just defined by those who run the organisation.
-Take a look at this video taken from a CFO conference explaining the role of leadership and risk management. You don't have to
-play it all, but it quickly gives you insight into why high-level executives perceive leadership as not just roles at their level but
-occurs throughout the organisation.
-Question 8
-Selected Answer: non-compliance
-Response Feedback:
+
+
+ 
+
+
+Question 5
+	
+Correct 	
+
+Choose ONE option that best describes how an organisation should approach and deliver ICT risk assessment most effectively.
+Selected Answer: 	
+
+As an approach to ICT risk assessment, the project manager, or appropriate role within an organisation's management structure must
+
+    Identify criteria,
+    Gather all facts,
+    Carry out a discovery phase,
+    Communicate and consult with impacted parties (stakeholders) and
+    Constantly review during delivery.
+
+Response Feedback: 	
+
+Correct. Well done!
+
+Only through processes of planned actions (in advance) and richly communicated before, during and after is our best approach for effective ICT risk assessment in an organisation.
+
+Also, the best time to risk assessment is during the organisation's 'Business As Usual' (BAU) processes. Else any risk assessment will not be considered realistic.
+Question 6
+	
+Correct 	
+
+Choose the ONE option that best explains why we need to record near-miss events.
+Selected Answer: 	
+
+A near miss is an opportunity to resolve a hazardous event from happening again.
+Response Feedback: 	
+
+Correct, well done.
+
+Near Misses could be said to be a lucky event that could have easily have resulted in some loss or injury, so we do not want them happening again for precisely this reason.
+Question 7
+	
+Correct 	
+
 Fill in the blank word.
-"An organisation seeks to reduce the number of previously discovered ___-_______ during any audit or risk assessment."
+
+"Risk Management is a key component of an organisation's __________".
+Selected Answer: 	
+governance
+Response Feedback: 	
+
+Correct. Well done!
+Question 8
+	
+Correct 	
+
+Fill in the blank word.
+
+According to Yusuf Denath, "Risk assessment forms part of a _____ ________ strategy."
+Selected Answer: 	
+cyber security
+Response Feedback: 	
+
 Correct. Well done!
 ## q9
 
