@@ -76,82 +76,132 @@ We reflect so that we reduce the chances of making the same mistakes again and a
 Correct, well done!
 When we reflect we are truly learning.
 ## 11
-Question 1
-Selected Answer: policies
-Response Feedback:
-"An organisation's set of ________ and processes form part of a proven approach in managing the ethical behaviour of the workforce."
-Fill in the missing word.
-Correct. Well done!
-Question 2
-Selected Answer: responsible
-Response Feedback:
-Fill in the black term with the single word you think fits best (.. a term used consistently throughout the unit so far.)
-"As a qualified ICT professional, I am relied upon to guide and advise anyone who will listen to me on all subjects of technology. Because I am a
-professional, I also understand the ethical consequences of the decisions we make as humans when it comes to technology.
-Therefore, if anyone asks what am I, my response will most likely be... "I am a __________ Technologist..."."
-Excellent job! You are indeed a responsible technologist
-😉
-Question 3
-Selected Answer:
-Response Feedback:
-What is the name of the document all WA public agencies must offer to the public describing how to make information requests under the WA
-Freedom of Information Act ?
-Choose ONE of the options.
-Information Statement
-Good work. Well done!
-Question 4
-Selected
-Answers:
-Response Feedback:
-Select the specific steps below describing advice offered by the Office of the Australian Information Commissioner (OAIC) to businesses on data
-privacy.
-Establishing effective privacy practices, processes and systems by developing and implementing them
-Embedding a culture of Privacy to support compliance with the law
-Evaluating privacy practices, processes and systems to check they continue to be effective by monitoring and reviewing
-regularly
-Enhancing responses to privacy issues to continuously improve
-Good work, well done!
-Question 5
-My Blackboard Copyright Library YANG LIM Student Orientation
-10/17/23, 10:14 AM Review Test Submission: Quiz11: Privacy, IP and Industry<p ...
-https://blackboard.northmetrotafe.wa.edu.au/webapps/assessment/review/review.jsp?attempt_id=_7833459_1&course_id=_31861_1&content_id… 2/2
-Tuesday, 17 October 2023 10:14:19 o'clock AWST
-Selected Answers:
-Response Feedback:
-How best can an organisation manage the ethical behaviour of its workforce?
-Choose only the options that apply.
-Conduct internal audits to test the effectiveness of staff awareness processes
-Create a singular information access portal (e.g. remove duplications of information and limit the access to one portal)
-Form policies, processes and forms around key products and services by the organisation
-Staff induction
-Provide regular training to the workforce on all key or updated policies
-Correct, well done.
-The word here which captures all these requirements...? GOVERNANCE.
-Question 6
-Selected
-Answer:
-Response Feedback:
-According to the World Economic Forum, what sentence below best describes what is meant by the phrase 'the fourth Industrial Revolution?
-Choose ONE of the options.
-"... the changes humans now experience in the way we live, work and relate to each other enabled by the extraordinary
-advances in technology..."
-Correct, well done!
-Question 7
-Selected Answer:
-Response Feedback:
-Choose ONE option that best explains the term 'Big Data'.
-All of the options adequately explain the term 'Big Data'.
-Correct, well done!
-Question 8
-Selected
-Answer:
-Response Feedback:
-Which term best describes the approach multinational companies (e.g. Apple, Microsoft, etc.) use when addressing the privacy requirements of
-their products and services worldwide?
-Choose ONE of the options.
-Address legislation(s) from the global region (e.g. Asia/Pacific) they operate within and/or the legislative block (e.g. The European
-Union) that best covers all privacy legislation requirements worldwide.
-Correct. Well done!
+    Question 1
+    	
+    Correct 	
+
+    Fill in the black term with the single word you think fits best (.. a term used consistently throughout the unit so far.)
+
+    "As a qualified ICT professional, I am relied upon to guide and advise anyone who will listen to me on all subjects of technology. Because I am a professional, I also understand the ethical consequences of the decisions we make as humans when it comes to technology.
+    Therefore, if anyone asks what am I, my response will most likely be... "I am a __________ Technologist..."."
+    Selected Answer: 	
+    responsible
+    Response Feedback: 	
+
+    Excellent job! You are indeed a responsible technologist 
+
+    😉
+    Question 2
+    	
+    Correct 	
+
+    According to the World Economic Forum, what sentence below best describes what is meant by the phrase 'the fourth Industrial Revolution?
+
+    Choose ONE of the options.
+    Selected Answer: 	
+
+    "... the changes humans now experience in the way we live, work and relate to each other enabled by the extraordinary advances in technology..."
+    Response Feedback: 	
+
+    Correct, well done!
+    Question 3
+    	
+    Correct 	
+
+    Choose ONE option that best explains the term 'Big Data'.
+    Selected Answer: 	
+
+    All of the options adequately explain the term 'Big Data'.
+    Response Feedback: 	
+
+    Correct, well done!
+    Question 4
+    	
+    Correct 	
+
+    How best can an organisation manage the ethical behaviour of its workforce?
+
+    Choose only the options that apply.
+    Selected Answers: 	
+
+    Provide regular training to the workforce on all key or updated policies
+    	
+
+    Conduct internal audits to test the effectiveness of staff awareness processes
+    	
+
+    Create a singular information access portal (e.g. remove duplications of information and limit the access to one portal)
+    	
+
+    Staff induction
+    	
+
+    Form policies, processes and forms around key products and services by the organisation 
+    Response Feedback: 	
+
+    Correct, well done.
+
+    The word here which captures all these requirements...? GOVERNANCE.
+    Question 5
+    	
+    Correct 	
+
+    "An organisation's set of ________ and processes form part of a proven approach in managing the ethical behaviour of the workforce."
+
+    Fill in the missing word.
+    Selected Answer: 	
+    policies
+    Response Feedback: 	
+
+    Correct. Well done!
+    Question 6
+    	
+    Correct 	
+
+    What is the name of the document all WA public agencies must offer to the public describing how to make information requests under the WA Freedom of Information Act ?
+
+    Choose ONE of the options.
+    Selected Answer: 	
+
+    Information Statement
+    Response Feedback: 	
+
+    Good work. Well done!
+    Question 7
+    	
+    Correct 	
+
+    Select the specific steps below describing advice offered by the Office of the Australian Information Commissioner (OAIC) to businesses on data privacy.
+    Selected Answers: 	
+
+    Embedding a culture of Privacy to support compliance with the law
+    	
+
+    Establishing effective privacy practices, processes and systems by developing and implementing them
+    	
+
+    Enhancing responses to privacy issues to continuously improve
+    	
+
+    Evaluating privacy practices, processes and systems to check they continue to be effective by monitoring and reviewing regularly
+    Response Feedback: 	
+
+    Good work, well done!
+    Question 8
+    	
+    Correct 	
+
+    Which term best describes the approach multinational companies (e.g. Apple, Microsoft, etc.) use when addressing the privacy requirements of their products and services worldwide?
+
+    Choose ONE of the options.
+    Selected Answer: 	
+
+    Address legislation(s) from the global region (e.g. Asia/Pacific) they operate within and/or the legislative block (e.g. The European Union) that best covers all privacy legislation requirements worldwide.
+    Response Feedback: 	
+
+    Correct. Well done!
+
+
 ## 10
 Question 1
 	
