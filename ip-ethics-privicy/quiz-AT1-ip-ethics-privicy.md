@@ -1,3 +1,242 @@
+## 12
+Question 1
+Selected Answer: journal
+Response
+Feedback:
+Fill in the missing words.
+"Reflection is not necessarily a ________ or sequential log of what took place."
+Correct, well done!
+Reflection is the analysis of the journal or sequence of events that took place. Many people seem to understand the journal
+is the reflection, but not true 😉
+Question 2
+Selected Answers:
+Response Feedback:
+Generally speaking, why could it be said that handwritten notes are a more effective memory aid than typed notes?
+Choose ANY options that apply.
+A personalised experience: Because only you string words together in the way that you do.
+Because they were written by you, they contain more tacit metadata than notes did not write (i.e. typed, e.g. in a book.)
+When writing our notes, using different colours has been known to aid the memory recall process.
+Article Information
+Volume: 53 issue: 22, page(s): 1744-1747
+Article first published online: October 1, 2009; Issue published: October 1, 2009
+Timothy J. Smoker 1, Carrie E. Murphy 1, Alison K. Rockwell 1
+1 University of Central Florida, Orlando, FL
+Correct, well done!
+Check this out: Comparing Memory for Handwriting versus Typing
+
+Question 3
+Selected Answer: distortion. daydreaming is correct
+Response Feedback:
+Fill in the missing single word.
+"When we reflect, we must focus on a specific event. If we don't focus on a specific event we are in danger of _____daydreaming_________ ."
+Incorrect. Have another go. 
+Hint: a single word (has been seen hyphenated but does exist as a single word) beginning with 'd '.
+Question 4
+Selected
+Answer:
+Response Feedback:
+Choose ONE option which explains why reflection is often used by Project Supervisors within our industry.
+To discover any issues or successes from a recent project delivery in order to learn and share experiences with the group (as a
+learning opportunity.)
+Correct, well done!
+Reflection is an established part of the professional development process, used in many industries, including ICT.
+My Blackboard Copyright Library YANG LIM Student Orientation
+10/17/23, 10:14 AM Review Test Submission: Quiz12: Reflection<p style='font-style...
+https://blackboard.northmetrotafe.wa.edu.au/webapps/assessment/review/review.jsp?attempt_id=_7833503_1&course_id=_31861_1&content_id… 2/2
+Tuesday, 17 October 2023 10:14:54 o'clock AWST
+Question 5
+Selected Answer:
+From the options available, choose ONE that forms part of the PMBoK* Project Closure stage
+(* Project Management Body of Knowledge)
+Lessons Learned
+Question 6
+Selected Answers:
+Response Feedback:
+Select the elements of the DIEP reflective process.
+Evaluate
+Description
+Plan
+Interpret
+Correct, well done!
+Question 7
+Selected Answer: memory
+Response Feedback:
+Complete the sentence.
+"When we solely rely on our _________ we are in danger of reflecting inaccurately on past events."
+Correct, well done!
+This is why we should also make NOTES if we believe this may be a future learning opportunity.
+Question 8
+Selected
+Answers:
+Response Feedback:
+Choose ANY of the options that provide a valid purpose for carrying out reflection.
+We reflect to improve ourselves.
+We reflect because we cannot travel back in time... so when the issue returns (or similar) we will know how to handle it better.
+We reflect so that we reduce the chances of making the same mistakes again and again.
+Correct, well done!
+When we reflect we are truly learning.
+## 11
+Question 1
+Selected Answer: policies
+Response Feedback:
+"An organisation's set of ________ and processes form part of a proven approach in managing the ethical behaviour of the workforce."
+Fill in the missing word.
+Correct. Well done!
+Question 2
+Selected Answer: responsible
+Response Feedback:
+Fill in the black term with the single word you think fits best (.. a term used consistently throughout the unit so far.)
+"As a qualified ICT professional, I am relied upon to guide and advise anyone who will listen to me on all subjects of technology. Because I am a
+professional, I also understand the ethical consequences of the decisions we make as humans when it comes to technology.
+Therefore, if anyone asks what am I, my response will most likely be... "I am a __________ Technologist..."."
+Excellent job! You are indeed a responsible technologist
+😉
+Question 3
+Selected Answer:
+Response Feedback:
+What is the name of the document all WA public agencies must offer to the public describing how to make information requests under the WA
+Freedom of Information Act ?
+Choose ONE of the options.
+Information Statement
+Good work. Well done!
+Question 4
+Selected
+Answers:
+Response Feedback:
+Select the specific steps below describing advice offered by the Office of the Australian Information Commissioner (OAIC) to businesses on data
+privacy.
+Establishing effective privacy practices, processes and systems by developing and implementing them
+Embedding a culture of Privacy to support compliance with the law
+Evaluating privacy practices, processes and systems to check they continue to be effective by monitoring and reviewing
+regularly
+Enhancing responses to privacy issues to continuously improve
+Good work, well done!
+Question 5
+My Blackboard Copyright Library YANG LIM Student Orientation
+10/17/23, 10:14 AM Review Test Submission: Quiz11: Privacy, IP and Industry<p ...
+https://blackboard.northmetrotafe.wa.edu.au/webapps/assessment/review/review.jsp?attempt_id=_7833459_1&course_id=_31861_1&content_id… 2/2
+Tuesday, 17 October 2023 10:14:19 o'clock AWST
+Selected Answers:
+Response Feedback:
+How best can an organisation manage the ethical behaviour of its workforce?
+Choose only the options that apply.
+Conduct internal audits to test the effectiveness of staff awareness processes
+Create a singular information access portal (e.g. remove duplications of information and limit the access to one portal)
+Form policies, processes and forms around key products and services by the organisation
+Staff induction
+Provide regular training to the workforce on all key or updated policies
+Correct, well done.
+The word here which captures all these requirements...? GOVERNANCE.
+Question 6
+Selected
+Answer:
+Response Feedback:
+According to the World Economic Forum, what sentence below best describes what is meant by the phrase 'the fourth Industrial Revolution?
+Choose ONE of the options.
+"... the changes humans now experience in the way we live, work and relate to each other enabled by the extraordinary
+advances in technology..."
+Correct, well done!
+Question 7
+Selected Answer:
+Response Feedback:
+Choose ONE option that best explains the term 'Big Data'.
+All of the options adequately explain the term 'Big Data'.
+Correct, well done!
+Question 8
+Selected
+Answer:
+Response Feedback:
+Which term best describes the approach multinational companies (e.g. Apple, Microsoft, etc.) use when addressing the privacy requirements of
+their products and services worldwide?
+Choose ONE of the options.
+Address legislation(s) from the global region (e.g. Asia/Pacific) they operate within and/or the legislative block (e.g. The European
+Union) that best covers all privacy legislation requirements worldwide.
+Correct. Well done!
+## 10
+Question 1
+Selected
+Answers:
+Response Feedback:
+Choose all options that satisfy your belief why ethical behaviour and risk management are considered linked in the context of the ICT
+professional.
+Because understanding risks as an ICT professional puts you in a position both many people would understand. Therefore, it is
+considered a professional obligation to identify, assess and mitigate/eliminate all ICT risks where practically achievable to do so.
+The actions taken to manage all ICT risks have beneficial effects on many levels and impact all employees within the organisation.
+Because to protect the organisation's systems and data infrastructure is the responsibility of the ICT professional.
+Correct, well done.
+Question 2
+Selected Answer: governance
+Response Feedback:
+Fill in the blank word.
+"Risk Management is a key component of an organisation's __________".
+Correct. Well done!
+Question 3
+Selected Answer:
+Response
+Feedback:
+Choose the ONE option that best explains why we need to record near-miss events.
+A near miss is an opportunity to resolve a hazardous event from happening again.
+Correct, well done.
+Near Misses could be said to be a lucky event that could have easily have resulted in some loss or injury, so we do not want
+them happening again for precisely this reason.
+Question 4
+Selected Answer:
+Response
+Feedback:
+Please choose ONE option that best describes the main purpose of Risk Management within the contemporary organisation.
+Because we value the safety and well-being of our people. within our organisation.
+Correct, well done.
+Though we say that the purpose of Risk Management is perhaps to identification, assessment (including the rating) and mitigation/elimination of risks to an organisation's systems and data, the overall main purpose is to protect the organisation
+Question 5
+Selected Answer: cyber security
+Fill in the blank word.
+According to Yusuf Denath, "Risk assessment forms part of a _____ ________ strategy."
+My Blackboard Copyright Library YANG LIM Student Orientation
+10/17/23, 10:13 AM Review Test Submission: Quiz10: ICT Risk Management<p style='...
+https://blackboard.northmetrotafe.wa.edu.au/webapps/assessment/review/review.jsp?attempt_id=_7805203_1&course_id=_31861_1&content_id… 2/2
+Tuesday, 17 October 2023 10:13:53 o'clock AWST
+Se ected s e : cybe secu ty
+Response Feedback: Correct. Well done!
+Question 6
+Selected
+Answer:
+Response
+Feedback:
+Choose ONE option that best describes how an organisation should approach and deliver ICT risk assessment most effectively.
+Identify criteria, Gather all facts,
+Carry out a discovery phase,
+Communicate and consult with impacted parties (stakeholders) and
+Constantly review during delivery.
+As an approach to ICT risk assessment, the project manager, or appropriate role within an organisation's management
+structure must
+Correct. Well done!
+Only through processes of planned actions (in advance) and richly communicated before, during and after is our best
+approach for effective ICT risk assessment in an organisation.
+Also, the best time to risk assessment is during the organisation's 'Business As Usual' (BAU) processes. Else any risk
+assessment will not be considered realistic.
+Question 7
+Selected Answer: True
+Response
+Feedback:
+TRUE or FALSE:
+From an organisational perspective, it is the role of LEADERSHIP to ensure an organisation's staff, contractors and visitors are safe whilst in the
+workplace.
+Watch Video
+The Role of Leadership in Risk Management
+Duration: 23:26
+User: n/a - Added: 14/02/18
+A nice easy one :-)
+The term 'Leadership' is the key here, as anyone within the organisation can exhibit leadership by their decisions and actions (as
+in drawing inspiration from these actions and behaviours), and is not just defined by those who run the organisation.
+Take a look at this video taken from a CFO conference explaining the role of leadership and risk management. You don't have to
+play it all, but it quickly gives you insight into why high-level executives perceive leadership as not just roles at their level but
+occurs throughout the organisation.
+Question 8
+Selected Answer: non-compliance
+Response Feedback:
+Fill in the blank word.
+"An organisation seeks to reduce the number of previously discovered ___-_______ during any audit or risk assessment."
+Correct. Well done!
 ## q9
 
 Question 1
