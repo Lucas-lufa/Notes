@@ -86,6 +86,38 @@ Ternary
  the not has one !whatever
  Ternary has three
  conditional ? true expression : false expression
+
+Challenge two
+ Using the JavaScript function isValidEmail that you built in Challenge 1
+ Convert the function to return a user message that tells the 
+ user whether email is valid or not
+ Use the += and template literals ${} to construct your message
+ Feel free to use if or switch case decision patterns
+ The decision should be made on if email.match(regex) is true or not
+ console.log() 3 different emails to test your function (IDE or browser)
+
+Challenge three using if/else to validate
+ Using scripts_if.js as your starting point
+ Convert the JavaScript function called isValidEmail to, use a series of if statements to check if the email address is valid.
+ To be considered valid, the email address must meet the 
+ following criteria:
+  Use the previous email.regex() 
+  It contains exactly one "@" character.
+  The "@" character is not the first or last character in the email.
+  The email contains at least one "." character after the "@" character.
+  The "." character is not the first or last character after the  
+  "@" character.
+The email does not contain spaces.
+ Use the += and template literals ${} to construct your message
+ Return the user message
+
+Challenge four
+ Convert challenge 3 to use a switch case – use script_switch.js as your starting point
+ Hint: watch out for the indentations in the starter code and note the // } line on line 26
+
+
+
+
 ## nine:HTML Forms, Variables, Numbers & Maths Methods
 ### links
 https://youtu.be/vzLdq3b0w3Y?list=PL0Zuz27SZ-6Oi6xNtL_fwCrwpuqylMsgT

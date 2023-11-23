@@ -272,20 +272,27 @@ No one shall be subjected to arbitrary interference with his privacy, family, ho
 (E.g. which websites or academic journals did you visit?)
 
 Shell content
- - reading
- - watching the videos
+ 
+ reading
+ - Ethical behavior management
+ - Leadership and risk
+ - Compliance regarding ethics
  - ISO-38500
+
+ watching the videos
+ - Cyber security and risk management
+
  https://asic.gov.au/regulatory-resources/financial-reporting-and-audit/auditors/improving-and-maintaining-audit-quality/
 
         8.2. Findings / Observations
 (E.g. expand on why you referred to these sources as opposed to other sources you could have considered, and why you believe they apply or are relevant to the session topic under discussion.)
 
-
+This one was overwhelming for me there seemed to be a lot more than others. 
 
         8.3. Reflections
 (E.g. Critically analyse the section or general topic under discussion. This is a chance for you to demonstrate your mastery of a topic by challenging (constructively) traditional methods or thinking around a particular area, and what ideas you may suggest to develop this area, or even continue the discussion by raising some interesting points. In this latter part I would urge students to use the discussion board.)
 
-
+Being ethical in management, risk or security is a hallmark that these activities are done properly. This is because usually ethics is the last thing implemented  
 
 
 
@@ -294,37 +301,45 @@ Shell content
         9.1. Evidence of research 
 (E.g. which websites or academic journals did you visit?)
 
+shell content
+
+reading
+ - ICT working to protect privacy
+ - maintaining privacy and compliance
+ - Privacy: Public, Private and the role of ICT professional
+ - Practice: Privacy and the modern workplace
+ - Blockchain and privacy
+ - forth industrial revolution and privacy
+ - privacy and big data 
 
 
         9.2. Findings / Observations
 (E.g. expand on why you referred to these sources as opposed to other sources you could have considered, and why you believe they apply or are relevant to the session topic under discussion.)
 
-
+revisit cyber security and introduce more like the essential eight. Make privacy apart of the organisation. Think about tool that can be used in the workplace to improve compliance to privacy and why.
 
         9.3. Reflections
 (E.g. Critically analyse the section or general topic under discussion. This is a chance for you to demonstrate your mastery of a topic by challenging (constructively) traditional methods or thinking around a particular area, and what ideas you may suggest to develop this area, or even continue the discussion by raising some interesting points. In this latter part I would urge students to use the discussion board.)
 
-
-
+I don't think we have privacy done well yet. When there are data breaches the company's don't get repercussions even if they have keep unnessary information and not secured. And then there is surveillance capitalism.
 
 ##    10. Assessments AT2 Advice
 
         10.1. Evidence of research 
 (E.g. which websites or academic journals did you visit?)
 
-
+Shell power point and video about final assessment
 
         10.2. Findings / Observations
 (E.g. expand on why you referred to these sources as opposed to other sources you could have considered, and why you believe they apply or are relevant to the session topic under discussion.)
 
-
+I took note
 
         10.3. Reflections
 (E.g. Critically analyse the section or general topic under discussion. This is a chance for you to demonstrate your mastery of a topic by challenging (constructively) traditional methods or thinking around a particular area, and what ideas you may suggest to develop this area, or even continue the discussion by raising some interesting points. In this latter part I would urge students to use the discussion board.)
 
 
-
-
+did this after I had done the final assessment
 
 
 ##    11. The purpose of reflection
@@ -332,35 +347,36 @@ Shell content
         11.1. Evidence of research 
 (E.g. which websites or academic journals did you visit?)
 
-
+Shell power point and video on the purpose and technique of reflection
 
         11.2. Findings / Observations
 (E.g. expand on why you referred to these sources as opposed to other sources you could have considered, and why you believe they apply or are relevant to the session topic under discussion.)
 
-
+Took note
 
         11.3. Reflections
 (E.g. Critically analyse the section or general topic under discussion. This is a chance for you to demonstrate your mastery of a topic by challenging (constructively) traditional methods or thinking around a particular area, and what ideas you may suggest to develop this area, or even continue the discussion by raising some interesting points. In this latter part I would urge students to use the discussion board.)
 
-
+I think this should have been earlier. To say why we were doing reflection every week.
 
 ##    12. Assessment Task 2 – Group Video Presentation
 
         12.1. Your role
 (Give details about your role, how it came about (e.g. did you nominate yourself for the role you carried out?)).
 
-
+I got together the group, Analysed the case study and contributed to the groups understanding. We identified the talking points and completed my part and presented it.
 
         12.2. Your contribution to the group activities
 (Explain why you believe you made a positive contribution.
 Conversely, did anything go wrong? If so, what happened and how? (… remember here not to name names and to be professional and constructive. Just describe the facts and in the context of your own authority.)).
 
-
+I made a positive contribution because I did my work and in a timely fashion and I presented it. I was very happy with my teams work. Nothing went wrong, it was stressful thinking about making a presentation but actually doing it was ok.
 
         12.3. Reflection: Would you have done anything differently?
 (If you could go back in time and make new attempts at the group activities, what would they be?
 If not, explain why you would not choose to return to a point in time you could have done better, managed a situation differently, etc.)
 
+Do it earlier so it is out of the way.
 
 ## References
 
