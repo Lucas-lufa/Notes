@@ -1,81 +1,132 @@
 ## 12
 Question 1
-Selected Answer: journal
-Response
-Feedback:
-Fill in the missing words.
-"Reflection is not necessarily a ________ or sequential log of what took place."
-Correct, well done!
-Reflection is the analysis of the journal or sequence of events that took place. Many people seem to understand the journal
-is the reflection, but not true 😉
-Question 2
-Selected Answers:
-Response Feedback:
-Generally speaking, why could it be said that handwritten notes are a more effective memory aid than typed notes?
-Choose ANY options that apply.
-A personalised experience: Because only you string words together in the way that you do.
-Because they were written by you, they contain more tacit metadata than notes did not write (i.e. typed, e.g. in a book.)
-When writing our notes, using different colours has been known to aid the memory recall process.
-Article Information
-Volume: 53 issue: 22, page(s): 1744-1747
-Article first published online: October 1, 2009; Issue published: October 1, 2009
-Timothy J. Smoker 1, Carrie E. Murphy 1, Alison K. Rockwell 1
-1 University of Central Florida, Orlando, FL
-Correct, well done!
-Check this out: Comparing Memory for Handwriting versus Typing
+	
+Correct 	
 
-Question 3
-Selected Answer: distortion. daydreaming is correct
-Response Feedback:
-Fill in the missing single word.
-"When we reflect, we must focus on a specific event. If we don't focus on a specific event we are in danger of _____daydreaming_________ ."
-Incorrect. Have another go. 
-Hint: a single word (has been seen hyphenated but does exist as a single word) beginning with 'd '.
-Question 4
-Selected
-Answer:
-Response Feedback:
-Choose ONE option which explains why reflection is often used by Project Supervisors within our industry.
-To discover any issues or successes from a recent project delivery in order to learn and share experiences with the group (as a
-learning opportunity.)
+Choose ANY of the options that provide a valid purpose for carrying out reflection.
+Selected Answers: 	
+
+We reflect because we cannot travel back in time... so when the issue returns (or similar) we will know how to handle it better.
+	
+
+We reflect so that we reduce the chances of making the same mistakes again and again.
+	
+
+We reflect to improve ourselves.
+Response Feedback: 	
+
 Correct, well done!
-Reflection is an established part of the professional development process, used in many industries, including ICT.
-My Blackboard Copyright Library YANG LIM Student Orientation
-10/17/23, 10:14 AM Review Test Submission: Quiz12: Reflection<p style='font-style...
-https://blackboard.northmetrotafe.wa.edu.au/webapps/assessment/review/review.jsp?attempt_id=_7833503_1&course_id=_31861_1&content_id… 2/2
-Tuesday, 17 October 2023 10:14:54 o'clock AWST
-Question 5
-Selected Answer:
+
+When we reflect we are truly learning.
+Question 2
+	
+Correct 	
+
 From the options available, choose ONE that forms part of the PMBoK* Project Closure stage
+
 (* Project Management Body of Knowledge)
+Selected Answer: 	
+
 Lessons Learned
+Question 3
+	
+Correct 	
+
+Fill in the missing single word.
+
+"When we reflect, we must focus on a specific event. If we don't focus on a specific event we are in danger of ______________ ."
+Selected Answer: 	
+daydreaming
+Response Feedback: 	
+
+Correct, well done!
+Question 4
+	
+Correct 	
+
+Complete the sentence.
+
+"When we solely rely on our _________ we are in danger of reflecting inaccurately on past events."
+Selected Answer: 	
+memory
+Response Feedback: 	
+
+Correct, well done!
+
+This is why we should also make NOTES if we believe this may be a future learning opportunity.
+Question 5
+	
+Correct 	
+
+Choose ONE option which explains why reflection is often used by Project Supervisors within our industry.
+Selected Answer: 	
+
+To discover any issues or successes from a recent project delivery in order to learn and share experiences with the group (as a learning opportunity.)
+Response Feedback: 	
+
+Correct, well done!
+
+Reflection is an established part of the professional development process, used in many industries, including ICT.
 Question 6
-Selected Answers:
-Response Feedback:
+	
+Correct 	
+
 Select the elements of the DIEP reflective process.
-Evaluate
-Description
+Selected Answers: 	
+
 Plan
+	
+
+Evaluate
+	
+
 Interpret
+	
+
+Description
+Response Feedback: 	
+
 Correct, well done!
 Question 7
-Selected Answer: memory
-Response Feedback:
-Complete the sentence.
-"When we solely rely on our _________ we are in danger of reflecting inaccurately on past events."
+	
+Correct 	
+
+Generally speaking, why could it be said that handwritten notes are a more effective memory aid than typed notes?
+
+Choose ANY options that apply.
+Selected Answers: 	
+
+Because they were written by you, they contain more tacit metadata than notes did not write (i.e. typed, e.g. in a book.)
+	
+
+When writing our notes, using different colours has been known to aid the memory recall process.
+	
+
+A personalised experience: Because only you string words together in the way that you do.
+Response Feedback: 	
+
 Correct, well done!
-This is why we should also make NOTES if we believe this may be a future learning opportunity.
+
+Check this out: Comparing Memory for Handwriting versus Typing
+Article Information
+Volume: 53 issue: 22, page(s): 1744-1747
+Article first published online: October 1, 2009;  Issue published: October 1, 2009
+Timothy J. Smoker 1,  Carrie E. Murphy 1,  Alison K. Rockwell 1
+1 University of Central Florida, Orlando, FL
 Question 8
-Selected
-Answers:
-Response Feedback:
-Choose ANY of the options that provide a valid purpose for carrying out reflection.
-We reflect to improve ourselves.
-We reflect because we cannot travel back in time... so when the issue returns (or similar) we will know how to handle it better.
-We reflect so that we reduce the chances of making the same mistakes again and again.
+	
+Correct 	
+
+Fill in the missing words.
+
+"Reflection is not necessarily a ________ or sequential log of what took place."
+Selected Answer: 	
+journal
+Response Feedback: 	
+
 Correct, well done!
-When we reflect we are truly learning.
-## 11
+
+Reflection is the analysis of the journal or sequence of events that took place. Many people seem to understand the journal is the reflection, but not true 😉## 11
     Question 1
     	
     Correct 	
