@@ -47,31 +47,46 @@ What are some ways in which you can review the protocols set up to work collabor
 What are examples of legislation, codes, regulations and standards, and work health and safety requirements for collaborative work arrangements?
  
  https://www.northmetrotafe.wa.edu.au/student-code-conduct
- There is a staff code of conduct as well but could get a external link.
- even though these are for other purperiouses they can really apply to anywhere people are working together. 
+
+There is a staff code of conduct as well but could get an external link.
+even though these are for other purposes they can apply to anywhere people are working together.
 
 ## 10
 Identify key characteristics of concepts in a critical thinking protocol or process
 
- perseptive, buvause 
+ Perception, because details matter. methodical, any changes come from the subject not the process of analysing it. Feedback, it is the only way you can find out what you are thinking translates into reality.
+
 ## 11
 Outline the benefits of adopting a critical thinking mindset and the risks associated with failing to do so
+
+ Critical thinking is part of due diligent, it increases the likely hood of make right choices, if you don't it is more about luck.
 
 ## 12
 Identify two situations in which critical thinking concepts may be applied in the workplace
 
+ When deciding on projects, their merits and wether to proceed.
+ 
+ Talking with co workers. Sometimes they know what they are talking about, sometimes the don't and are really sure of them self and sometimes they do and are really unsure of them self. It is important to know the difference and critical thinking can help.
+
 ## 13
 Compare two alternative critical thinking concepts in a workplace decision making process
 
+ Rational decision-making
+ Is a systematic, analytical way of making decisions. You define the problem, generate solutions, evaluate the solutions and pick the best one. It can result is good out comes but is slow.
+
+ Bounded rationality
+ This is a time constrained version of rational decision-making. As much information is gathered as possible but the heavy lifting is done by the persons experience and the decision is made from the gut through intuition.
+ 
 ## 14
 Why is reviewing the effectiveness of decision making and seeking meaningful feedback from organsational management?
+
+ I feel important is missing from this question.
+ Without review or feedback you can't tell what is working and you should be doing more and what is not working and you should not be doing at all. All business are build on feedback if you think about it profit is a form of feedback.
 
 ## 15
 What ways can you identify areas for self-development?
 
-
-
-
+ I am not good at doing the work, I don't have good academic cardio. I had hoped to improved this over the semester but I haven't really seen any changes, maybe if I was measuring better and not just my subjectivity I could have a better idea on what and how to improve this.
 
 # eight
  Effective Presentation
