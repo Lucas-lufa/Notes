@@ -26,22 +26,34 @@ How could you seek and obtain feedback from organisational representative on ass
 ## q5
 What are some examples of protocols for virtual team working, including cyber safety protocols?
  
+ Let your tools do the heavy lifting. Have strong passwords, use password managers. Use encryption of files at rest, make sure you file shearing solution has it. Encryption in transit, this is mostly covered by default.
 
 ## q6
 What are the best ways to determine roles and responsibilities of team members when working as a team?
 
+ Determine what is needed for the project, what skills people have and how best to match to what is needed. Then best supporting anywhere there is weakness also just do the best with what you have.
+
 ## q7
 What are some Cyber security considerations that need to be noted when developing protocols for using collaborative technologies?
+
+ People are usually your weakest link with cyber security. Make it as easy as possible to do the right thing regarding cyber security, have your tools do the heavy lifting. If there is a onerous protocol make sure it is effective, unlike changing passwords regularly which lowers security.
 
 ## 8
 What are some ways in which you can review the protocols set up to work collaboratively in a virtual environment?
 
+ Read the policy and procedure document, ask other members of the team. 
+
 ## 9
 What are examples of legislation, codes, regulations and standards, and work health and safety requirements for collaborative work arrangements?
+ 
+ https://www.northmetrotafe.wa.edu.au/student-code-conduct
+ There is a staff code of conduct as well but could get a external link.
+ even though these are for other purperiouses they can really apply to anywhere people are working together. 
 
 ## 10
 Identify key characteristics of concepts in a critical thinking protocol or process
 
+ perseptive, buvause 
 ## 11
 Outline the benefits of adopting a critical thinking mindset and the risks associated with failing to do so
 
