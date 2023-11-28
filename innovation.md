@@ -1,3 +1,66 @@
+## kba
+## q1
+What are three sources of information on emerging technologies and practices in the IT industry?
+
+ I get most of my information on emerging technologies for podcast and blogs with a technology focus. Other ways are news media, technology news media and social media.
+
+## q2
+How can you Identify and document emerging technologies and practices relevant to organisational context?
+
+ You Identify emerging technologies by understanding you domain well so when you see something on where ever you get your information on emerging technologies. Also listening to other worker in your domain. 
+
+ To document there should be an agreed format to add to a centralised shared document like a wiki.
+
+## q3
+what are ways you can evaluate features and functions of emerging technologies and practices to determine advantages and disadvantages relevant to organisational contexts?
+
+ Listen to the experience of others but only if you evaluate them as authentic knowledge. Use critical thinking techniques like Gap Analysis SWOT, Balanced Scorecard, Cost-Benefit Analysis and Feature Comparison Matrix
+
+## q4
+How could you seek and obtain feedback from organisational representative on assessment of impact of emerging technologies and practices and incorporate feedback into reports?
+
+ There can be self reporting, this can have problem of not being accurate also having measurable but you must be careful because if people work to the measurable it will distort the outcome.
+
+ incorporating feedback into reports is very important because without getting the feedback and understanding it you can't improve. 
+
+## q5
+What are some examples of protocols for virtual team working, including cyber safety protocols?
+ 
+
+## q6
+What are the best ways to determine roles and responsibilities of team members when working as a team?
+
+## q7
+What are some Cyber security considerations that need to be noted when developing protocols for using collaborative technologies?
+
+## 8
+What are some ways in which you can review the protocols set up to work collaboratively in a virtual environment?
+
+## 9
+What are examples of legislation, codes, regulations and standards, and work health and safety requirements for collaborative work arrangements?
+
+## 10
+Identify key characteristics of concepts in a critical thinking protocol or process
+
+## 11
+Outline the benefits of adopting a critical thinking mindset and the risks associated with failing to do so
+
+## 12
+Identify two situations in which critical thinking concepts may be applied in the workplace
+
+## 13
+Compare two alternative critical thinking concepts in a workplace decision making process
+
+## 14
+Why is reviewing the effectiveness of decision making and seeking meaningful feedback from organsational management?
+
+## 15
+What ways can you identify areas for self-development?
+
+
+
+
+
 # eight
  Effective Presentation
 
