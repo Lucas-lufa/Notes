@@ -1,5 +1,23 @@
 Git notes
 
+github
+
+…or create a new repository on the command line
+
+echo "# civ-web-technologies-portfolio-phases-main" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Lucas-lufa/civ-web-technologies-portfolio-phases-main.git
+git push -u origin main
+
+…or push an existing repository from the command line
+
+git remote add origin https://github.com/Lucas-lufa/civ-web-technologies-portfolio-phases-main.git
+git branch -M main
+git push -u origin main
+
 divergent branch when there are multiple copies of a git repo with different commit history that you try to combine. To fix find the last common commit branch and merge the other copy of the repo. Checkout head and merge the branch you were just on.
 
 https://www.freecodecamp.org/news/git-pull-remote-branch-how-to-fetch-remote-branches-in-git/
