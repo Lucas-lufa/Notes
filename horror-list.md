@@ -1,5 +1,10 @@
 # horror list
 
+## rec
+
+### Hema
+susuk
+
 ## tubi
  Infrared horror
  https://tubitv.com/movies/674216/infrared
