@@ -12,10 +12,13 @@ Good bye and ask for a reply
 
 Good day Person
 
+as you know
 The contract is once the work on the garden has commenced, it will be completed with in two weeks.
 
 The garden ornament 'Peter Pan' is not available, and will take three or four weeks before it is back in stock.
 
+Split into ideas
 We could do the work now with a different ornament, do the work and comeback when we get 'Peter Pan' and install it or start the work when it comes back into stock. If you have a preferred solutions, either one of there or any other please inform me.
 
+more friendly
 I wait your reply
