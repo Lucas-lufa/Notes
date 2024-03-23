@@ -1,4 +1,32 @@
-decision to leave
+sphinx
+setup virtual environment
+python3 -m venv .venv
+install from pypi
+pip install -U sphinx
+pip install sphinx_rtd_theme
+
+install miniconda
+mkdir -p ~/miniconda3
+wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh -O ~/miniconda3/miniconda.sh
+bash ~/miniconda3/miniconda.sh -b -u -p ~/miniconda3
+rm -rf ~/miniconda3/miniconda.sh
+
+~/miniconda3/bin/conda init bash
+
+source ~/miniconda3/bin/activate
+
+conda env create -f https://raw.githubusercontent.com/coderefinery/software/main/environment.ym
+
+Make sure that you see “coderefinery” in the output when you ask for a list of all available enviro
+
+conda env list
+
+conda activate coderefinery
+conda deactivate
+conda remove --name coderefinery --all
+
+
+### decision to leave
 
 ### testing and documentation techniques
 raise issue
