@@ -1,4 +1,9 @@
-sphinx
+### python general
+
+https://docs.python.org/3/using/cmdline.html
+python can be run as a -c command -m module or a script
+
+### sphinx
 setup virtual environment
 python3 -m venv .venv
 install from pypi
@@ -25,6 +30,84 @@ conda activate coderefinery
 conda deactivate
 conda remove --name coderefinery --all
 
+Sphinx and markdown
+
+conda activate coderefinery
+
+check we have the software needed
+python --version
+sphinx-build --version
+sphinx-quickstart --version
+python -c "import myst_parser" (you should see no output)
+I needed to install with one of these methods (think used pip)
+conda install -c conda-forge myst-parser
+pip install myst-parser
+
+ sphinx quick start
+The example make a directory step into it and run the sphinx quick start to generate basic documentation template:
+mkdir doc-example
+cd doc-example
+sphinx-quickstart
+
+for me. run in sphinx_activity directory
+
+The quick start utility will ask you some questions. 
+Separate source and build directories (y/n) [n]: default hit enter
+Project name: your project name
+Author name(s): your name
+Project release []: 0.1
+Project language [em]: default hit enter
+
+files and directories are created:
+conf.py Documentation configuration file
+index.rst Main file in sphinx
+_build/ Directory where docs are built (you can decide the name)
+_templates/ Your own HTML templates
+_static/ Static files (images, styles, etc) copied to output directory on build
+Makefile Makefile to build documentation using make
+make.bat Makefile to build documentation using make (windows)
+
+look at index.rst
+remove indices and tables down. add what want to document
+example 
+some-feature.md
+indented the same as above (inline with :caption: Contents:)
+me
+example.py
+tic_tac_bug_toe.py
+indented the same as above (inline with :caption: Contents:)
+
+look at conf.py
+put 'myst_parser' into extensions list
+
+example create some-feature.md file referenced in index.rst
+
+We now build the site:
+ls -1 (1 flag put each entry on it's own line)
+sphinx-build . _build (builds this directory into the _build directory)
+then open _build/index.html in a browser.
+this works for markdown but so far not python files
+
+ Adding more sphinx content
+made another-feature.md file and referenced in index.rst
+
+ sphinx adn latex math equations
+
+ sphinx autodoc
+auto-generating documentation from Python docstrings
+
+make python modules example with docstrings
+make a api.md
+add three lines to conf.py
+import os
+import sys
+sys.path.insert(0, os.path.abspath("."))
+modify extensions add 'spinx.ext.autodoc' to the list
+
+ good to know
+_build directory is a generated directory and should not be part of git repository.
+sphinx-autobuild provides a local web host that automatically refresh your view every time save a file.
+sphinx-build . -W -b linkcheck _build
 
 ### decision to leave
 

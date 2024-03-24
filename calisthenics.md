@@ -1,5 +1,5 @@
 24/3/24
--full push-up 16 rep 2 set
+-full push-up 17 rep 2 set
 -squats 10 rep 2 set
 -horizontal pull 10 rep 2 set
 -knee tuck 25 rep 3 set
@@ -12,7 +12,7 @@ squats 10 rep 2 set
 horizontal pull 10 rep 2 set
 knee tuck 20 rep 3 set
 short bridge 40 rep 3 set
--wall stand 30 sec
+wall stand 30 sec
 
 21/3/24
 full push-up 16 rep 2 set
