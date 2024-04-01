@@ -8,7 +8,7 @@ the git checkout command offers a simple way to get a file or a folder from anot
 syntax to checkout a file from another branch:
 git checkout <other-branch> -- path/to/your/folder
 
-
+git reset --hard HEAD
 
 git init
 to initise a folder to be tracked by git.

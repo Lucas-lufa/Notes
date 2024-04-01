@@ -49,7 +49,9 @@ mkdir doc-example
 cd doc-example
 sphinx-quickstart
 
-for me. run in sphinx_activity directory
+for me. run in sphinx_activity directory # This was a mistake. Think needs to be in a sub folder, otherwise will look in folders you don't want like venv
+
+I put all my markdown into a docs folder and run sphinx-quickstart in there.
 
 The quick start utility will ask you some questions. 
 Separate source and build directories (y/n) [n]: default hit enter
@@ -71,8 +73,14 @@ look at index.rst
 remove indices and tables down. add what want to document
 example 
 some-feature.md
-indented the same as above (inline with :caption: Contents:)
+indented the same as above and a line between(inline with :caption: Contents:)
 me
+   :caption: Contents:
+
+   some_feature.md
+   another_feature.md
+   api.md
+can't add python scripts until autodocs
 example.py
 tic_tac_bug_toe.py
 indented the same as above (inline with :caption: Contents:)
@@ -91,18 +99,29 @@ this works for markdown but so far not python files
  Adding more sphinx content
 made another-feature.md file and referenced in index.rst
 
- sphinx adn latex math equations
+ sphinx and latex math equations
 
- sphinx autodoc
+### sphinx autodoc
 auto-generating documentation from Python docstrings
 
 make python modules example with docstrings
-make a api.md
+make a api.md with content.
+ API reference
+
+  example
+
+```{eval-rst}
+.. automodule:: example
+   :members:
+```
+
 add three lines to conf.py
 import os
 import sys
 sys.path.insert(0, os.path.abspath("."))
 modify extensions add 'spinx.ext.autodoc' to the list
+
+sphinx-build looks in index.rst for markdown files need to make static site from. the api.md has in it a reference to pythons scripts need to document. And the conf.py by importing modules so it can set path and adding extentions. Allows sphinx to read docstrings in python scripts
 
  good to know
 _build directory is a generated directory and should not be part of git repository.
