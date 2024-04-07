@@ -119,7 +119,13 @@ add three lines to conf.py
 import os
 import sys
 sys.path.insert(0, os.path.abspath("."))
-modify extensions add 'spinx.ext.autodoc' to the list
+modify extensions add 'sphinx.ext.autodoc' to the list
+
+was getting a error 
+ERROR: Unexpected indentation.
+WARNING: Block quote ends without a blank line; unexpected unindent
+
+added sphinx.ext.napoleon to python extension list
 
 sphinx-build looks in index.rst for markdown files need to make static site from. the api.md has in it a reference to pythons scripts need to document. And the conf.py by importing modules so it can set path and adding extentions. Allows sphinx to read docstrings in python scripts
 
@@ -127,6 +133,19 @@ sphinx-build looks in index.rst for markdown files need to make static site from
 _build directory is a generated directory and should not be part of git repository.
 sphinx-autobuild provides a local web host that automatically refresh your view every time save a file.
 sphinx-build . -W -b linkcheck _build
+
+### deploying sphinx documentation to github pages
+
+github pages serves websites from a github repository.
+
+github actions
+automatically runs code when your repository changes.
+we eil let it run sphinx-build and make the result available to github pages.
+
+need .github/workflows folders with a documentation.yml.
+https://docs.github.com/en/actions/using-workflows/about-workflows
+
+the yaml file is a script to make new documentation when a push is made and then deploy
 
 ### decision to leave
 

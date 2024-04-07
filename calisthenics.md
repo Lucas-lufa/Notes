@@ -1,4 +1,20 @@
-31 > 29/3/25
+> 2/4/24
+full push-up 17 rep 2 set (2*20)
+squats 10 rep 2 set (2*30)
+horizontal pull 11 rep 2 set (3*30)
+knee tuck 35 rep 3 set (3*40)
+short bridge 50 rep 3 set (3*50)
+wall stand 30 sec (1 min)
+
+1/4/24
+full push-up 17 rep 2 set (2*20)
+squats 10 rep 2 set (2*30)
+horizontal pull 10 rep 2 set (3*30)
+knee tuck 30 rep 3 set (3*40)
+short bridge 50 rep 3 set (3*50)
+wall stand 30 sec (1 min)
+
+31 > 29/3/24
 full push-up 17 rep 2 set (2*20)
 squats 10 rep 2 set (2*30)
 horizontal pull 10 rep 2 set (3*30)
