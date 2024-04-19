@@ -1,4 +1,59 @@
-> 2/4/24
+18/4/24
+full push-up 18 rep 2 set (2*20)
+squats 12 rep 2 set (2*30)
+horizontal pull 12 rep 2 set (3*30)
+flat knee raises 10 rep 2 set (3*35)
+straight 10 rep 2 set (3*40)
+wall stand 30 sec (2 min)
+
+17/4/24 rest
+
+16/4/24>
+15/4/24 soft
+full push-up 18 rep 2 set (2*20)
+squats 12 rep 2 set (2*30)
+horizontal pull 12 rep 2 set (3*30)
+flat knee raises 10 rep 1 set (3*35)
+straight 10 rep 2 set (3*40)
+wall stand 30 sec (2 min)
+
+14/4/24 sick
+
+13> 12/4/24
+full push-up 18 rep 2 set (2*20)
+squats 12 rep 2 set (2*30)
+horizontal pull 12 rep 2 set (3*30)
+knee tuck 40 rep 3 set (3*40)
+straight 15 rep 2 set (3*40)
+wall stand 30 sec (2 min)
+
+11/4/24
+full push-up 18 rep 2 set (2*20)
+squats 12 rep 2 set (2*30)
+horizontal pull 12 rep 2 set (3*30)
+knee tuck 40 rep 3 set (3*40)
+straight 10 rep 2 set (3*40)
+wall stand 30 sec (2 min)
+
+10/4/24
+full push-up 18 rep 2 set (2*20)
+squats 12 rep 2 set (2*30)
+horizontal pull 12 rep 2 set (3*30)
+knee tuck 40 rep 3 set (3*40)
+straight 10 rep 1 set (3*40)
+-wall stand 30 sec (2 min)
+
+9/4/24 rest
+
+8/4/24
+full push-up 18 rep 2 set (2*20)
+squats 12 rep 2 set (2*30)
+horizontal pull 12 rep 2 set (3*30)
+knee tuck 40 rep 3 set (3*40)
+straight 10 rep 1 set (3*40)
+wall stand 30 sec (2 min)
+
+7> 2/4/24
 full push-up 17 rep 2 set (2*20)
 squats 10 rep 2 set (2*30)
 horizontal pull 11 rep 2 set (3*30)

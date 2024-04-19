@@ -1,5 +1,68 @@
 # webtech powerpoints
 
+## eleven: 
+for (..;..;..;){}
+do {...} while (...)
+while (....) {....}
+for (...of...) {...}
+for (… in …) { … }
+
+for (..;..;..;){}
+for loop contains four parts
+- initialisation
+- condition
+- increment
+- action
+
+for (initialisation; condition; increment) {action}
+
+this prints what is at the index i
+```js:
+const list = ['a','b','c']
+
+for (let i = 0; i < list.length; i++){
+  console.log(list[i])
+}
+
+```
+do {...} while (...)
+do while loops contain the same four parts but in different order.
+- initialisation
+- action
+- increment
+- condition
+
+initialisation
+do {action
+increment} 
+while (condition)
+
+this prints what is at the index i
+```js:
+const list = ['a','b','c']
+
+let i = 0;
+do{
+  console.log(list[i])
+  i++
+}while( i < list.length)
+
+```
+you can break or continue with while but the power point doesn't really explain. 
+### corrections
+slide 5
+Loop-de-loop
+Repeating something requires the use of a loop
+These are some of the main loop types:
+ 
+for ( …; …; … ) { … }
+
+while ( … ) { … }
+
+do { … } while ( … )
+
+for … of … { … } Should have bracket 
+for (… of …) { … }
 ## ten: Strings, Operators, Expressions & Decisions 
 ### links
 https://youtu.be/LiuzigJldNo?list=PL0Zuz27SZ-6Oi6xNtL_fwCrwpuqylMsgT
