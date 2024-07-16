@@ -1,0 +1,42 @@
+# Session One
+ Exercise - Requirements, documents and planning
+Break up into groups (if possible) and create a document that identifies the requirements and instructions on how to bake a cake.
+Scenario:
+You are a head pastry chef at a 2* restaurant in perth. Your area manager (lecturer) has asked you to prepare an outline document so that all locations in WA and maybe further can re-create one of our delicious cakes. Your task is to complete this document and submit it to your manager by the end of the day.
+Considerations:
+
+    Identify the cake to be documented. (If online, you may select your choice of cake)
+    What must be included?
+    What are the requirements?
+    What do they need to know?
+    How will you convey this information to other chefs?
+
+
+Limitations - This is simply an exercise in identifying requirements and documenting them. Don't worry too much about headings or exact structure of the document.
+
+## activity
+Tools
+-calibrations of oven
+
+Ingredients
+-dietary
+
+Recipe
+-ingredients (pulling for Ingredients)
+-method
+ common mistakes
+
+Result
+-quality
+-presentation
+ images
+-portions
+
+Convey
+-training
+-repo internal website
+-email
+-laminated printouts
+
+## result
+forgot to gather requirements
