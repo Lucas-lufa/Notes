@@ -1,3 +1,6 @@
+https://github.com/AdyGCode/SaaS-FED-Notes.git
+https://github.com/Lucas-lufa/SaaS-FED-Notes.git
+
 https://github.com/Lucas-lufa/example-CI.git
 https://github.com/Lucas-lufa/civ-ipos-session-john.git
 https://github.com/Lucas-lufa/Dual-Diploma-2024.git
