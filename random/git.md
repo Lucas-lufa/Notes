@@ -1,5 +1,9 @@
 Git notes
 
+### name and email
+git config user.name "Lucas"
+git config user.email "v092953@tafe.wa.edu.au"
+
 ### how to checkout a file from another branch
 https://www.freecodecamp.org/news/git-checkout-file-from-another-branch/
 
@@ -59,7 +63,7 @@ divergent branch when there are multiple copies of a git repo with different com
 
 https://www.freecodecamp.org/news/git-pull-remote-branch-how-to-fetch-remote-branches-in-git/
 to get remote branch, may need to see what is there,
- git branch --remotes 
+ git branch --remotes
   origin/HEAD -> origin/main
   origin/main
   origin/working

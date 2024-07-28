@@ -36,3 +36,6 @@ O'Reilly is one of the premier publishers of technical books. You can get free a
     Go to https://www.oreilly.com/library/view/temporary-access/
     Select Institution not listed? (TAFE is *not* in the dropdown menu)
     Proceed to create a sign-in using your NMTAFE email address
+
+    git config user.name "Lucas"
+    git config user.email "v092953@tafe.wa.edu.au"
