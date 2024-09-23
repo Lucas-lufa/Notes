@@ -4,6 +4,17 @@ Git notes
 git config user.name "Lucas"
 git config user.email "v092953@tafe.wa.edu.au"
 
+### amend previous commit
+git commit --amend 
+
+for a message
+git commit --amend -m 'new message'
+
+to push commit 
+git push <remote> <branch> --force
+# Or
+git push <remote> <branch> -f
+
 ### how to checkout a file from another branch
 https://www.freecodecamp.org/news/git-checkout-file-from-another-branch/
 
