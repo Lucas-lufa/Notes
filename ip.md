@@ -1,3 +1,17 @@
+## ass two
+
+q1
+Name Australia's privacy legislation that governs the handling of personal information and describe its purpose in 40 to 60 words.
+
+q2
+List and explain three (3) ways in which an organisation can ensure that its employees understand and comply with the organisation's privacy policy? (20 to 40 words).
+
+q3
+Using the provided table, briefly describe the federal, state and territory legislation and policies applicable to ICT environments and relating to copyright and intellectual property and privacy.
+
+The first row has been completed for you.
+
+
 ## ass one
 
 q1

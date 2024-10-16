@@ -1,3 +1,8 @@
+16/10/2024
+Wednesday:{
+Glute Bridges: {LEVEL 1: 2 Sets of 15}
+Straight Leg Twists: {LEVEL 1: 3 Holds of 15 Seconds (Both Sides)}
+}
 18/4/24
 full push-up 18 rep 2 set (2*20)
 squats 12 rep 2 set (2*30)
