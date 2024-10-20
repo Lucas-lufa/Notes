@@ -1,3 +1,13 @@
+# ocaroo
+
+I haven't played with it yet but from off the top of my head these are what I am thinking.
+test the interface using non visual desktop access (NVDA) screen reader for windows written in mostly python.
+add a command line interface.
+make unix compatible.
+change the llm. from chatgpt to maybe llama.
+change the ocr. from tesseract to maybe docTR.
+
+
 # one
 
 ## powerpoint

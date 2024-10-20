@@ -1,3 +1,21 @@
+20/10/2024
+Sunday:{rest}
+19/10/2024
+Gardening
+instead:{
+    Bridge:{Glute Bridge:{LEVEL 2: 2 Sets of 30}},
+    Twist:{Straight Leg Twists:{LEVEL 2: 3 Holds of 30 Seconds (Both Sides)}}
+}
+18/10/2024
+Friday:{
+    Squats:{JackKnife Squats:LEVEL 1: 2 Sets of 15},
+    Pulls:{Wall Pullups:LEVEL 1: 2 Sets of 30}
+}
+17/10/2024
+Thursday:{
+Pushups:{Wall Pushups :{LEVEL 1: 2 Sets of 30}}
+Leg Raises:{Knee Raises:{LEVEL 1: 2 Sets of 10}}
+}
 16/10/2024
 Wednesday:{
 Glute Bridges: {LEVEL 1: 2 Sets of 15}
