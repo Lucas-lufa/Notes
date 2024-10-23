@@ -35,9 +35,10 @@ Research and list three (3) Codes of Ethics from distinct AUSTRALIAN ICT compani
 
 For each company, name the Code of Ethics and provide a summary that includes its core values and professional responsibilities. Each summary should be approx. 40 to 50 words, totalling 120-150 words.
 
+Please describe the code of ethics and core values for AISA.  Looks good otherwise.
 
 Name of Australian ICT Company here:Australian Information Security Association (AISA)
-Summary: It is a two page pdf starts out say who it applies too where and when. In three paragraphs it tells it applies to all members of AISA in branches or at gatherings at any time. It has two standards of conduct. Code of ethics and conference rules. The code of ethics is what the organisation aspires to. When conference rules is regulations to follow while at a conference. 
+Summary: It is a two page pdf starts out say who it applies too where and when. In three paragraphs it tells it applies to all members of AISA in branches or at gatherings at any time. It has two standards of conduct. Code of ethics and conference rules. The code of ethics is what the organisation aspires to. The code of ethics lists six and how AISA defines them, honesty, legal compliance, competence and diligence, confidentiality and privacy, integrity and respect of others and professional development.  When conference rules is regulations to follow while at a conference. 
 
 Name of Australian ICT Company here: Australian computer society (ACS)
 Summary: Two page pdf with the first page a picture. Starts with who they are, what they do and why they do it. Then five paragraphs on why they do it this way is important. The second part is values Honesty, Trustworthiness and Respect. Each has a detailed definition and with each they double in detail until Respect gets so big it has two parts. Doesn't go into how to apply, sticks to aspirations.
