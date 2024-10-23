@@ -1,3 +1,21 @@
+23/10/2024
+Wednesday:{
+    Bridge:{Glute Bridge:{LEVEL 1: 2 Sets of 20}},
+    Twist:{Straight Leg Twists:{LEVEL 2: 3 Holds of 30 Seconds (Both Sides)}}
+    Ankle Mobility:{Forced Dorsiflexion:Two min each ankle,
+    Heel Drop: 2 Sets of 10}
+    https://movementenhanced.com.au/5-exercises-for-ankle-mobility-updated/
+}
+22/10/2024
+Tuesday:{
+    Squats:{JackKnife Squats:LEVEL 1: 2 Sets of 15},
+    Pulls:{Wall Pullups:LEVEL 1: 2 Sets of 30}
+}
+21/10/2024
+Monday:{
+Pushups:{Wall Pushups :{LEVEL 1: 2 Sets of 40}}
+Leg Raises:{Knee Raises:{LEVEL 1: 2 Sets of 10}}
+}
 20/10/2024
 Sunday:{rest}
 19/10/2024
