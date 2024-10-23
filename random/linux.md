@@ -17,3 +17,9 @@ Using Clonezilla to image and getting the error ntfclone-ng-c: NTFS Volume ‘/d
 boot into windows, restart, run cmd in administrator mode,
 run chkdsk /F the F flag will force checkdisk to run on boot.
 restart and checkdisk will run to fix the error 
+
+# ventoy
+
+df -h
+umount /dev/sdb1
+sudo sh Ventoy2Disk.sh -i /dev/
