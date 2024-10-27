@@ -1,3 +1,13 @@
+25/10/2024
+Friday:{
+    Squats:{JackKnife Squats:LEVEL 1: 2 Sets of 15},
+    Pulls:{Wall Pullups:LEVEL 2: 2 Sets of 50}
+}
+24/10/2024
+Thursday:{
+Pushups:{Wall Pushups :{LEVEL 1: 2 Sets of 40}}
+Leg Raises:{Knee Raises:{LEVEL 1: 2 Sets of 12}}
+}
 23/10/2024
 Wednesday:{
     Bridge:{Glute Bridge:{LEVEL 1: 2 Sets of 20}},
