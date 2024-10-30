@@ -1,3 +1,20 @@
+30/10/2024
+Wednesday:{
+    Pushups:{Wall Pushups :{LEVEL 1: 2 Sets of 40}},
+    Leg Raises:{Knee Raises:{LEVEL 1: 2 Sets of 12}},
+    Squats:{JackKnife Squats:{LEVEL 1: 2 Sets of 15}},
+    Pulls:{Wall Pullups:{LEVEL 2: 2 Sets of 50}},
+    Bridge:{Glute Bridge:{LEVEL 2: 2 Sets of 30}},
+    Twist:{Straight Leg Twists:{LEVEL 2: 3 Holds of 30 Seconds (Both Sides)}},
+    Ankle Mobility:{Forced Dorsiflexion:Two min each ankle},
+    Heel Drop:{2 Sets of 10}}
+
+27/10/2024
+Sunday:{
+    Bridge:{Glute Bridge:{LEVEL 2: 2 Sets of 30}},
+    Twist:{Straight Leg Twists:{LEVEL 2: 3 Holds of 30 Seconds (Both Sides)}}
+    Ankle Mobility:{Forced Dorsiflexion:Two min each ankle,
+    Heel Drop: 2 Sets of 10}
 25/10/2024
 Friday:{
     Squats:{JackKnife Squats:LEVEL 1: 2 Sets of 15},
