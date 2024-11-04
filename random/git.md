@@ -79,3 +79,20 @@ to get remote branch, may need to see what is there,
   origin/main
   origin/working
 checkout can change to anyone of these branches
+
+### Two
+https://stackoverflow.com/questions/9524933/renaming-a-branch-in-github
+git
+ found a commit before I made a mistake on main, made a branch of it "twomain".
+github
+ make a new branch and change the default to the new branch.
+git
+ git push origin --delete name_of_the_remote_branch In this case.
+ git push origin --delete main
+ rename twomain to main
+ git branch -M main
+ and push it.
+ git push -u origin main
+github
+ Then change the default branch to main.
+
