@@ -3,8 +3,15 @@
 q1
 Name Australia's privacy legislation that governs the handling of personal information and describe its purpose in 40 to 60 words.
 
+The Privacy Act 1988 (Privacy Act) is the principal piece of Australian legislation protecting the handling of personal information about individuals. This includes the collection, use, storage and disclosure of personal information in the federal public sector and in the private sector.
+https://www.ag.gov.au/rights-and-protections/privacy
+
 q2
 List and explain three (3) ways in which an organisation can ensure that its employees understand and comply with the organisation's privacy policy? (20 to 40 words).
+
+1. A written code (privacy policy) of values and ethics. This is a point of reference the everyone can look at.
+2. Training in privacy policy for administrators, executives, and workers because even thou their is a written privacy policy not everyone will know how to use it.
+3. The provision (i.e. advice lines or offices) of privacy situational advice. Even though there is a reference and training if you are not dealing with it all the time you won't be good in it.
 
 q3
 Using the provided table, briefly describe the federal, state and territory legislation and policies applicable to ICT environments and relating to copyright and intellectual property and privacy.

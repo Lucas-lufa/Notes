@@ -1,3 +1,23 @@
+17/11/2024
+Sunday:{
+    Pulls:{Horizontal Pullups:{LEVEL 2: 2 Sets of 30}},
+    Squats:{JackKnife Squats:{LEVEL 1: 2 Sets of 15}},
+}
+16/11/2024
+Saturday:{
+    Pushups:{Wall Pushups :{LEVEL 1: 2 Sets of 50}},
+    Leg Raises:{Knee Raises:{LEVEL 1: 2 Sets of 12}},   
+    Bridge:{Glute Bridge:{LEVEL 2:3 Sets of 25}}
+14/11/2024
+Thursday:{Bridge:{Glute Bridge:{LEVEL 2: 2 Sets of 30}}
+13/11/2024
+Wednesday:{
+    Squats:{JackKnife Squats:{LEVEL 1: 2 Sets of 15}},
+    Pulls:{Wall Pullups:{LEVEL 3: 3 Sets of 50}},
+11/11/2024
+Monday:{
+    Pushups:{Wall Pushups :{LEVEL 1: 2 Sets of 40}},
+    Leg Raises:{Knee Raises:{LEVEL 1: 2 Sets of 12}},
 2/11/2024
 Saturday:{
     Pushups:{Wall Pushups :{LEVEL 1: 2 Sets of 40}},
