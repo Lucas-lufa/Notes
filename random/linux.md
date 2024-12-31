@@ -23,3 +23,11 @@ restart and checkdisk will run to fix the error
 df -h
 umount /dev/sdb1
 sudo sh Ventoy2Disk.sh -i /dev/
+
+# yt-dlp
+
+Download and merge the best video-only format and the best audio-only format,
+or download the best combined format if video-only format is not available
+$ yt-dlp -f "bv+ba/b"
+
+yt-dlp -f 'bv*+ba'
