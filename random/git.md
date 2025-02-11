@@ -1,5 +1,6 @@
 Git notes
-
+### globals
+git config --global init.defaultBranch main
 ### name and email
 git config user.name "Lucas"
 git config user.email "v092953@tafe.wa.edu.au"
@@ -95,4 +96,10 @@ git
  git push -u origin main
 github
  Then change the default branch to main.
+
+ ### there
+ https://stackoverflow.com/questions/27567846/how-can-i-check-out-a-github-pull-request-with-git
+ https://docs.github.com/articles/checking-out-pull-requests-locally
+ git fetch upstream pull/<pull request id>/head:<branch>
+ git fetch upstream pull/50/head:feature/search-and-download-video-by-title
 
