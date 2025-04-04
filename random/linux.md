@@ -1,4 +1,9 @@
-external hard drive fix
+# file encoding
+https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1702770
+
+file -i /PATH/file.txt
+
+# external hard drive fix
 sudo ntfxfix /dev/sda1
 
 ls -1
