@@ -3,6 +3,20 @@ https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1702770
 
 file -i /PATH/file.txt
 
+# Add drive to system
+need to add entry to fstab - file system table
+located /etc/fatab
+syntax - device directory type options dump fsck
+Each option is separated by white space, if one of these options has options they are separated by commas (,).
+ Device can be identified by it path dev/sd<a to z> or Universally Unique Identifier (UUID)
+ Directory the mount point in the operating system.
+ Type what file system is being used, in this case b-tree file system (BTRFS). Can let the computer guess by putting auto.
+ Options there are file system dependent and independent options. Can have multiple options separated by commas.
+ Dump is a utility that examines the file to see which ones needs to be backed up. 0 says it dose not need to be backed up.
+ Fsck (File System Check) 0 dose not check.
+To find the UUID of the partition lsblk -f . Where you want the drive to be mounted in the system, /mnt/data . The file system or auto. Don't really know the options selected. dump and fsck aren't needed so 0 0 . 
+To use as a drive needed to change ownership - chown
+ maybe could have use chmod or cgroups
 # external hard drive fix
 sudo ntfxfix /dev/sda1
 
