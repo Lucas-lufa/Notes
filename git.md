@@ -45,8 +45,8 @@ After you write save and quit the changes will be commited, if no message made t
 git branch
 to make a new branch type git branch 'with a branch name' example
 git branch new-branch
-probablity best to have a descriptive bramch name
-git branch without any arguments will show all the bramches amd which one currrently on higlighted with a star *
+probability best to have a descriptive branch name
+git branch without any arguments will show all the branches amd which one currently on highlighted with a star *
 
 git switch
 to switch to a new branch type git switch branch-name
@@ -54,6 +54,9 @@ the switch has a flag to crate a new branch and then it will switch to it --crea
 git switch --create new-branch
 git switch -c new-branch
 
+git stash
+
+git apply
 ## github
 
 …or create a new repository on the command line
