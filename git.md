@@ -3,8 +3,9 @@ Git notes
 git config --global init.defaultBranch main
 ### name and email
 git config user.name "Lucas"
-git config user.email "v092953@tafe.wa.edu.au"
+git config user.email "luke8itall@gmail.com"
 
+v092953@tafe.wa.edu.au
 ### amend previous commit
 git commit --amend 
 
