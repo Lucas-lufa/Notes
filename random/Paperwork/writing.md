@@ -37,6 +37,7 @@ After each draft
 
 ## Spelling
 - Wordlist
+- Use in writing, find opposite, rhyme, synonym and antinomy 
 - Testing
   - Have a person help
   - Use text to speech (TTP) of phone or other accessability features
