@@ -54,6 +54,13 @@ the switch has a flag to crate a new branch and then it will switch to it --crea
 git switch --create new-branch
 git switch -c new-branch
 
+git rm
+removes a file
+git rm --cached <file name>
+removes file from the git index of tracked file, but leaves the file.
+git rm -r --cached <folder name>
+removes folder from the git index of tracked folder, but leaves the folder.
+
 git stash
 
 git apply
