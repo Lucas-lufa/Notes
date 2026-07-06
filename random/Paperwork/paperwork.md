@@ -3,7 +3,7 @@ mindmap
   root((Paperwork))
     Writing
       Write 1/2 hour daily
-      Journal (Morning/Evening)
+      Journal
       Spelling word list contest
       Variety of writing
       Feedback
@@ -16,11 +16,13 @@ mindmap
       Detailed Plan
       Program Leantime
     Strategy
-      Related ten to improve quality
-      Project list of work
+      Improve quality of work
       Improve focus
       Change into focus
       Maintain focus
-    Learning Plan and Projects
-      Concrete Plans
+    Plans
+      Learnings
+        Concrete Plans    
+      Projects
+        Concrete Plans
 ```
