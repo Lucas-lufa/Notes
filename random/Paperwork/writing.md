@@ -1,6 +1,8 @@
-# Write half hour daily
+# Write 
 
-## Things to write
+## half hour daily
+
+### Things to write
 - Cover letters
 - Journal
 - Develop ideas
