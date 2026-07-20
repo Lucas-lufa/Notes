@@ -1,3 +1,11 @@
+
+What
+Why
+How
+Who
+When
+Where
+
 ```mermaid
 mindmap
   root((Paperwork))
