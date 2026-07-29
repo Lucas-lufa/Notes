@@ -1,0 +1,21 @@
+## Spelling application
+
+### Read out, list of words, check
+
+UI small to medium
+
+Read out - Word, phonetically, Context ie in a sentence
+List of Words - List, Sub-list, Duplicate remove for the List, Learnt words remove, Correctly spelt words in List
+Check - Incorrect recorded, Correct recorded, Reveal, Keyboard, Pen and paper, Do with Sub-list ie reuse or disregard
+
+Rilla - letters could go green when correct or red if wrong while you are typing ie wordle
+Look, Cover, Write, Check
+
+### links
+https://github.com/commjoen/Speller
+
+https://github.com/thekolaj/Learn-to-spell
+
+https://github.com/sesamechicken/spelling-buddy
+
+https://github.com/eimaj/speak-and-spell
