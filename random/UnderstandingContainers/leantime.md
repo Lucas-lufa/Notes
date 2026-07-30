@@ -12,7 +12,7 @@ docker run -d -p 80:8080
 -e LEAN_DB_DATABASE=leantime \
 --name leantime leantime/leantime:latest
 
-Will create an container instance with detach (run container in background and print container ID) publish - host_port:container_port 80:8080 (publish a container's port(s) to the host) env (set environment variables) flags, container named leantime, image to use leantime latest in leantime repository.
+Will create an container instance with detach (run container in background and print container ID) publish - host_port:container_port 80:8080 (publish a container's port(s) to the host) env (set environment variables) flags, container named leantime, image to use leantime latest in leantime repository.  Leantime container listens on port 8080
 Any of the environment variables set with the -e flag can configured in config/configuration.php (assume in the container) Once the leantime container instance is running go to <yourdomain.com>/install and run the installation script.
 
 Set up network and database
