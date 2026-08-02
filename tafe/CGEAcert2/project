@@ -16,8 +16,22 @@ Read out - Word, phonetically, Context ie in a sentence
 List of Words - List, Sub-list, Duplicate remove for the List, Learnt words remove, Correctly spelt words in List
 Check - Incorrect recorded, Correct recorded, Reveal, Keyboard, Pen and paper, Do with Sub-list ie reuse or disregard
 
+Ideas from others
 Rilla - letters could go green when correct or red if wrong while you are typing ie wordle
 Look, Cover, Write, Check
+
+https://www.vocabulary.com/articles/commonly-confused-words/homonym-homophone-homograph/
+homophones, homograph and homonym
+synonyms and antonyms
+rhyme
+write out words learning multiple times
+
+### Next
+Need to interrogate the ideas
+Make a design of features and user interface
+What platform
+Technology decisions
+Setup development environment
 
 ### links
 https://github.com/commjoen/Speller
