@@ -1,6 +1,6 @@
 # Learnings
 
-## https://cdn.prod.website-files.com/64416928859cbdd1716d79ce/68da20c5d76f5727b6ae2c15_Poppy_PerfApp_CheatSheet.pdf
+## https://cdn.prod.website-files.com/64416928859cbdd1716d79ce/68da20c5dx76f5727b6ae2c15_Poppy_PerfApp_CheatSheet.pdf
 
 ## https://mitchellh.com/writing/my-ai-adoption-journey
 

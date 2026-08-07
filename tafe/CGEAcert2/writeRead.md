@@ -28,11 +28,22 @@ Here is the text formatted in Markdown, mimicking the structure and style of the
 
 ## Weapons
 
+Horror
+
+Characters
+Alex, Paul, Justine, James, Archer, Marcus, Gladys
+Most of the characters are presented as real people, with good points and bad.  The exceptions are; Paul who showed up for a friend but then broke his sobriety, cheated on his partner and abused his position as a police officer; James is only shown in the full grips of his addiction, dose only things to feed it and 
+
 The narrative of Pulp Fiction and the themes of social ills of IT
+
+Theme
+- The older generation taking from the next generation and then the current generation
+Sub-theme
 - Bullying
 - Blaming a target because they standout for unrelated reasons, evidence dose not matter
 - Community break, household isolation
 - Caring tendencies punished by systems
 - Everyone is messed up is some way
 - An entire class out of a school has been used as a way to illustrate statistics
-- The older generation taking from the current
+
+Cinematography

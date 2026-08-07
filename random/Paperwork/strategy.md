@@ -7,6 +7,25 @@ Who
 When
 Where
 
+## Answering essay
+
+### Why
+
+### How
+
+Quickly read the text and question to get a general understanding
+Detail read the questions to understand what is needed
+Detail read the text
+Mind map 
+- All the points
+- Get an idea of the easy and hard questions
+Plan using relivenet points
+Write
+ 
+Who
+When
+Where
+
 ## Improve focus
 
 ### why
