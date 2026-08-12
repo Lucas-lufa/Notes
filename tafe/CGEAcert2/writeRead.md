@@ -32,7 +32,7 @@ Horror
 
 Characters
 Alex, Paul, Justine, James, Archer, Marcus, Gladys
-Most of the characters are presented as real people, with good points and bad.  The exceptions are; Paul who showed up for a friend but then broke his sobriety, cheated on his partner and abused his position as a police officer; James is only shown in the full grips of his addiction, dose only things to feed it and 
+Most of them are presented as real people, with good points and bad, but all of the characters seem realistic.  The exceptions are; Paul who showed up for a friend but then broke his sobriety, cheated on his partner and abused his position as a police officer; James is only shown in the full grips of his addiction, dose only things to feed it and nothing redeeming; Gladys for who eagerly dose anything to get what she wants and is only shown as a bad guy. 
 
 The narrative of Pulp Fiction and the themes of social ills of IT
 
@@ -46,4 +46,34 @@ Sub-theme
 - Everyone is messed up is some way
 - An entire class out of a school has been used as a way to illustrate statistics
 
+plot
+A whole class in a primary school bar one goes missing and we follow various characters trying to understand what happened.
+
+settings
+American middle-upper suburbia
+
 Cinematography
+It is tight tracking of characters to give a sense of their point of view
+
+editing
+There are shared experiences at the beginning and end, most of the film follow a character one at a time.  It weaves them together to build the story.
+
+music
+I can not recall the music, so it was not a detractor and I assume it added to the experience.
+
+irony
+satire
+
+Direction of the film
+It was directed very well, the narrative devices were complex.
+
+Special effects (if any)
+Were limited but good and appropriately used
+
+Costumes
+They were all well done, suited the characters and a contemporary setting.  Gladys's costume is from a different, it is of another time and it is high fashion.  This makes her a little disconcerting and only passes off as normal if you do not look too hard.
+
+Makeup
+Film sets, backlots
+
+Weapons is a horror film with an interweaving character narrative and themes of concealed social ills reeking havoc on the community.   
