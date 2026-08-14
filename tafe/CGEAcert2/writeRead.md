@@ -76,4 +76,8 @@ They were all well done, suited the characters and a contemporary setting.  Glad
 Makeup
 Film sets, backlots
 
-Weapons is a horror film with an interweaving character narrative and themes of concealed social ills reeking havoc on the community.   
+Weapons is a horror film with an interweaving character narrative and has themes of concealed social ills reeking havoc on the community.  In middle-upper suburbia somewhere in America, I whole class of children, bar one, goes missing.  We follow various characters trying to understand how this could happen.
+
+Most of the characters are well rounded having both good and bad, there are two exceptions who are shown with no redeeming qualities. James is only shown in full grip of drug addiction and Gladys as the bad guy. But they all seem realistic, with the well rounded characters transferring authenticity to them.
+
+Gladys, who is mysterious because we only get glimpses of her from all the other characters point of view as we follow each, and unsettling alien portrayed by the wig, clothes and style of high fashion from another era
