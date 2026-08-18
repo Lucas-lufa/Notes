@@ -4,6 +4,8 @@ Split into two parts, education and projects.  Education I will make learning pl
 ## Education
 - Containers
 - Electronics
+https://www.nand2tetris.org/
+https://riscv.org/community/training/
 - Calisthenics
 
 ### Why

@@ -17,3 +17,9 @@ each agent has it's own gateway, each agent can use different model, when making
 closed learning loop; 37:05 
 updates done by theme of feature
 python based
+
+## distributed-llama
+https://github.com/b4rtaz/distributed-llama
+
+## engram
+https://github.com/Gentleman-Programming/engram
